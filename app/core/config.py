@@ -10,7 +10,7 @@ class Settings(BaseSettings):
 
     database_url: str = "postgresql://postgres:kIimQyHyhFaHjjXdLaWmLNFhifRxuwWR@postgres.railway.internal:5432/railway"
     api_v1_prefix: str = "/api/v1"
-    cors_origins: str = "https://mmb-frontend-production-f434.up.railway.app"
+    cors_origins: str = "*"
     debug: bool = True
 
     @property
