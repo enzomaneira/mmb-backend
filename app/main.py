@@ -11,16 +11,16 @@ app = FastAPI(
     debug=settings.debug,
 )
 
+# CORS: Aceita qualquer origem (para teste)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=settings.cors_origin_list,
+    allow_origins=["*"],  # Para produção, troque por: ["https://mmb-frontend-production-f434.up.railway.app"]
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
 app.include_router(api_router, prefix=settings.api_v1_prefix)
-
 
 @app.get("/health")
 def health_check() -> dict[str, str]:
