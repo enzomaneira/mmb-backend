@@ -8,9 +8,9 @@ class Settings(BaseSettings):
         case_sensitive=False,
     )
 
-    database_url: str = "postgresql://brinquedos:brinquedos@localhost:5432/brinquedos_da_mae"
+    database_url: str = "postgresql://postgres:kIimQyHyhFaHjjXdLaWmLNFhifRxuwWR@postgres.railway.internal:5432/railway"
     api_v1_prefix: str = "/api/v1"
-    cors_origins: str = "http://localhost:5173,http://localhost:3000"
+    cors_origins: str = "https://mmb-frontend-production-f434.up.railway.app"
     debug: bool = True
 
     @property
