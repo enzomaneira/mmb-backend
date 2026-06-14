@@ -11,10 +11,9 @@ app = FastAPI(
     debug=settings.debug,
 )
 
-# CORS: Aceita qualquer origem (para teste)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Para produção, troque por: ["https://mmb-frontend-production-f434.up.railway.app"]
+    allow_origins=settings.cors_origin_list,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

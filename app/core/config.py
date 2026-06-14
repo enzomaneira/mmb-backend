@@ -1,6 +1,5 @@
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
-
 class Settings(BaseSettings):
     model_config = SettingsConfigDict(
         env_file=".env",
@@ -8,14 +7,13 @@ class Settings(BaseSettings):
         case_sensitive=False,
     )
 
-    database_url: str = "postgresql://postgres:kIimQyHyhFaHjjXdLaWmLNFhifRxuwWR@postgres.railway.internal:5432/railway"
+    database_url: str = "postgresql://postgres:SENHA@postgres.railway.internal:5432/railway"
     api_v1_prefix: str = "/api/v1"
-    cors_origins: str = "*"
+    cors_origins: str = "https://mmb-frontend-production-f434.up.railway.app"  # Troque pela sua URL do frontend Railway
     debug: bool = True
 
     @property
     def cors_origin_list(self) -> list[str]:
         return [origin.strip() for origin in self.cors_origins.split(",") if origin.strip()]
-
 
 settings = Settings()
