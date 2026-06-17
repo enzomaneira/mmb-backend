@@ -48,14 +48,15 @@ def create_order(db: Session, data: OrderCreate) -> Order:
         if product is None:
             raise OrderServiceError(f"Product {item_data.product_id} not found", status_code=404)
 
+        unit_price = item_data.unit_price if item_data.unit_price is not None else product.price
         order_item = OrderItem(
             order_id=order.id,
             product_id=product.id,
             quantity=item_data.quantity,
-            unit_price=product.price,
+            unit_price=unit_price,
         )
         db.add(order_item)
-        total += product.price * item_data.quantity
+        total += unit_price * item_data.quantity
 
     order.total = total
     history = OrderStatusHistory(order_id=order.id, status=data.status)

@@ -9,6 +9,7 @@ from app.models.enums import OrderStatus
 class OrderItemCreate(BaseModel):
     product_id: int
     quantity: int = Field(ge=1)
+    unit_price: Decimal | None = None
 
 
 class OrderItemResponse(BaseModel):
