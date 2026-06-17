@@ -1,7 +1,6 @@
 from enum import Enum
-from typing import Literal
 
-from pydantic import BaseModel, ConfigDict, Field
+from pydantic import BaseModel, Field
 
 
 class SortOrder(str, Enum):
@@ -15,9 +14,9 @@ class MessageResponse(BaseModel):
 
 class PaginationParams(BaseModel):
     skip: int = Field(default=0, ge=0)
-    limit: int = Field(default=50, ge=1, le=200)
+    limit: int = Field(default=10000, ge=1, le=10000)
 
 
-CustomerSortField = Literal["name", "total_orders", "total_spent", "total_units"]
-ProductSortField = Literal["name", "price", "units_sold", "revenue", "stock_quantity"]
-OrderSortField = Literal["created_at", "total", "number", "status"]
+CustomerSortField = str   # validated via Query pattern in the route
+ProductSortField = str    # validated via Query pattern in the route
+OrderSortField = str      # validated via Query pattern in the route

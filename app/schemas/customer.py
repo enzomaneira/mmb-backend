@@ -9,7 +9,7 @@ class CustomerBase(BaseModel):
     name: str = Field(min_length=1, max_length=255)
     email: str | None = Field(default=None, max_length=255)
     phone: str | None = Field(default=None, max_length=50)
-    notes: str | None = Field(default=None, max_length=1000)
+    notes: str | None = Field(default=None)
 
 
 class CustomerCreate(CustomerBase):
@@ -21,16 +21,17 @@ class CustomerUpdate(BaseModel):
     name: str | None = Field(default=None, min_length=1, max_length=255)
     email: str | None = Field(default=None, max_length=255)
     phone: str | None = Field(default=None, max_length=50)
-    notes: str | None = Field(default=None, max_length=1000)
+    notes: str | None = Field(default=None)
 
 
 class CustomerResponse(CustomerBase):
     model_config = ConfigDict(from_attributes=True)
 
     id: int
-    total_orders: int
-    total_spent: Decimal
-    total_units: int
+    # Computed aggregates — injected by the route, not stored on the model
+    total_orders: int = 0
+    total_spent: Decimal = Decimal("0")
+    total_units: int = 0
     created_at: datetime
     updated_at: datetime
 

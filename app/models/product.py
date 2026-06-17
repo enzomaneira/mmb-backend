@@ -14,14 +14,12 @@ class Product(Base):
     id: Mapped[int] = mapped_column(primary_key=True)
     number: Mapped[int] = mapped_column(Integer, unique=True, nullable=False, index=True)
     name: Mapped[str] = mapped_column(String(255), nullable=False, index=True)
-    description: Mapped[str | None] = mapped_column(Text)
+    description: Mapped[str | None] = mapped_column(Text, nullable=True)
     product_type: Mapped[ProductType] = mapped_column(
         Enum(ProductType, name="product_type_enum"), nullable=False
     )
     price: Mapped[Decimal] = mapped_column(Numeric(12, 2), nullable=False)
     stock_quantity: Mapped[int] = mapped_column(Integer, default=0, nullable=False)
-    units_sold: Mapped[int] = mapped_column(Integer, default=0, nullable=False)
-    revenue: Mapped[Decimal] = mapped_column(Numeric(12, 2), default=0, nullable=False)
     created_at: Mapped[datetime] = mapped_column(
         DateTime(timezone=True), server_default=func.now(), nullable=False
     )

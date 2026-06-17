@@ -1,10 +1,7 @@
-from datetime import datetime, timezone
-
 from sqlalchemy.orm import Session, joinedload
 
 from app.models import Order, OrderItem, OrderStatus, OrderStatusHistory, Product
 from app.schemas.order import OrderCreate, OrderStatusUpdate
-from app.services.stats_service import apply_paid_stats, get_paid_timestamp, reverse_paid_stats
 
 
 class OrderServiceError(Exception):
@@ -62,14 +59,6 @@ def create_order(db: Session, data: OrderCreate) -> Order:
     history = OrderStatusHistory(order_id=order.id, status=data.status)
     db.add(history)
 
-    db.flush()
-
-    if data.status == OrderStatus.PAID:
-        paid_at = datetime.now(timezone.utc)
-        history.changed_at = paid_at
-        order = get_order_or_404(db, order.id)
-        apply_paid_stats(db, order, paid_at)
-
     db.commit()
     db.refresh(order)
     return get_order_or_404(db, order.id)
@@ -77,24 +66,13 @@ def create_order(db: Session, data: OrderCreate) -> Order:
 
 def update_order_status(db: Session, order_id: int, data: OrderStatusUpdate) -> Order:
     order = get_order_or_404(db, order_id)
-    old_status = order.status
-    new_status = data.status
 
-    if old_status == new_status:
+    if order.status == data.status:
         return order
 
-    order.status = new_status
-    history = OrderStatusHistory(order_id=order.id, status=new_status)
+    order.status = data.status
+    history = OrderStatusHistory(order_id=order.id, status=data.status)
     db.add(history)
-    db.flush()
-
-    if old_status == OrderStatus.PAID and new_status != OrderStatus.PAID:
-        paid_at = get_paid_timestamp(order)
-        if paid_at is not None:
-            reverse_paid_stats(db, order, paid_at)
-
-    if new_status == OrderStatus.PAID and old_status != OrderStatus.PAID:
-        apply_paid_stats(db, order, history.changed_at)
 
     db.commit()
     return get_order_or_404(db, order.id)
@@ -102,11 +80,5 @@ def update_order_status(db: Session, order_id: int, data: OrderStatusUpdate) -> 
 
 def delete_order(db: Session, order_id: int) -> None:
     order = get_order_or_404(db, order_id)
-
-    if order.status == OrderStatus.PAID:
-        paid_at = get_paid_timestamp(order)
-        if paid_at is not None:
-            reverse_paid_stats(db, order, paid_at)
-
     db.delete(order)
     db.commit()

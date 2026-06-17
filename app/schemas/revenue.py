@@ -1,11 +1,9 @@
 from decimal import Decimal
 
-from pydantic import BaseModel, ConfigDict
+from pydantic import BaseModel
 
 
 class MonthlyRevenueResponse(BaseModel):
-    model_config = ConfigDict(from_attributes=True)
-
     year: int
     month: int
     value: Decimal

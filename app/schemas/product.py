@@ -32,8 +32,9 @@ class ProductResponse(ProductBase):
 
     id: int
     stock_quantity: int
-    units_sold: int
-    revenue: Decimal
+    # Computed aggregates — injected by the route, not stored on the model
+    units_sold: int = 0
+    revenue: Decimal = Decimal("0")
     created_at: datetime
     updated_at: datetime
 

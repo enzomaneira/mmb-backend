@@ -2,7 +2,6 @@ from app.core.database import engine
 from app.models.customer import Customer
 from app.models.product import Product
 from app.models.order import Order
-from app.models.revenue import MonthlyRevenue
 from sqlalchemy import text
 
 # Importar o Base de algum dos models

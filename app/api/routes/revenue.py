@@ -1,13 +1,61 @@
-from datetime import datetime
+from decimal import Decimal
 
 from fastapi import APIRouter, Depends, Query
+from sqlalchemy import func
 from sqlalchemy.orm import Session
 
 from app.api.deps import get_db
-from app.models import MonthlyRevenue
+from app.models import Order, OrderStatus, OrderStatusHistory
 from app.schemas.revenue import MonthlyRevenueResponse, RevenueChartPoint
 
 router = APIRouter(prefix="/revenue", tags=["revenue"])
+
+
+def _query_monthly_revenue(
+    db: Session,
+    start_year: int | None,
+    start_month: int | None,
+    end_year: int | None,
+    end_month: int | None,
+) -> list[dict]:
+    """
+    Aggregate revenue from PAID orders grouped by year + month.
+    No cached table — always fresh from source data.
+    """
+    paid_subq = (
+        db.query(
+            Order.total,
+            OrderStatusHistory.changed_at.label("paid_at"),
+        )
+        .join(OrderStatusHistory, OrderStatusHistory.order_id == Order.id)
+        .filter(OrderStatusHistory.status == OrderStatus.PAID)
+        .subquery()
+    )
+
+    year_expr = func.extract("year", paid_subq.c.paid_at)
+    month_expr = func.extract("month", paid_subq.c.paid_at)
+    period_num = year_expr * 100 + month_expr
+
+    query = db.query(
+        year_expr.label("year"),
+        month_expr.label("month"),
+        func.sum(paid_subq.c.total).label("value"),
+    )
+
+    if start_year is not None and start_month is not None:
+        query = query.filter(period_num >= start_year * 100 + start_month)
+    if end_year is not None and end_month is not None:
+        query = query.filter(period_num <= end_year * 100 + end_month)
+
+    rows = query.group_by("year", "month").order_by("year", "month").all()
+    return [
+        {
+            "year": int(row.year),
+            "month": int(row.month),
+            "value": row.value or Decimal("0"),
+        }
+        for row in rows
+    ]
 
 
 @router.get("", response_model=list[MonthlyRevenueResponse])
@@ -17,21 +65,9 @@ def list_monthly_revenue(
     start_month: int | None = Query(default=None, ge=1, le=12),
     end_year: int | None = Query(default=None),
     end_month: int | None = Query(default=None, ge=1, le=12),
-) -> list[MonthlyRevenue]:
-    query = db.query(MonthlyRevenue)
-
-    if start_year is not None and start_month is not None:
-        query = query.filter(
-            (MonthlyRevenue.year > start_year)
-            | ((MonthlyRevenue.year == start_year) & (MonthlyRevenue.month >= start_month))
-        )
-    if end_year is not None and end_month is not None:
-        query = query.filter(
-            (MonthlyRevenue.year < end_year)
-            | ((MonthlyRevenue.year == end_year) & (MonthlyRevenue.month <= end_month))
-        )
-
-    return query.order_by(MonthlyRevenue.year, MonthlyRevenue.month).all()
+) -> list[MonthlyRevenueResponse]:
+    rows = _query_monthly_revenue(db, start_year, start_month, end_year, end_month)
+    return [MonthlyRevenueResponse(**row) for row in rows]
 
 
 @router.get("/chart", response_model=list[RevenueChartPoint])
@@ -42,14 +78,8 @@ def revenue_chart(
     end_year: int | None = Query(default=None),
     end_month: int | None = Query(default=None, ge=1, le=12),
 ) -> list[RevenueChartPoint]:
-    rows = list_monthly_revenue(
-        db=db,
-        start_year=start_year,
-        start_month=start_month,
-        end_year=end_year,
-        end_month=end_month,
-    )
+    rows = _query_monthly_revenue(db, start_year, start_month, end_year, end_month)
     return [
-        RevenueChartPoint(period=f"{row.year}-{row.month:02d}", value=row.value)
+        RevenueChartPoint(period=f"{row['year']}-{row['month']:02d}", value=row["value"])
         for row in rows
     ]

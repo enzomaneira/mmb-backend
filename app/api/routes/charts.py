@@ -18,6 +18,7 @@ router = APIRouter(prefix="/charts", tags=["charts"])
 
 
 def _paid_orders_subquery(db: Session):
+    """Subquery of all PAID order events with their paid_at timestamp."""
     return (
         db.query(
             Order.id.label("order_id"),
@@ -27,6 +28,27 @@ def _paid_orders_subquery(db: Session):
         )
         .join(OrderStatusHistory, OrderStatusHistory.order_id == Order.id)
         .filter(OrderStatusHistory.status == OrderStatus.PAID)
+        .subquery()
+    )
+
+
+def _product_stats_subquery(db: Session):
+    """Subquery of units_sold and revenue per product from PAID orders."""
+    paid_order_ids = (
+        db.query(OrderStatusHistory.order_id)
+        .filter(OrderStatusHistory.status == OrderStatus.PAID)
+        .subquery()
+    )
+    return (
+        db.query(
+            OrderItem.product_id.label("product_id"),
+            func.coalesce(func.sum(OrderItem.quantity), 0).label("units_sold"),
+            func.coalesce(
+                func.sum(OrderItem.unit_price * OrderItem.quantity), Decimal("0")
+            ).label("revenue"),
+        )
+        .join(paid_order_ids, paid_order_ids.c.order_id == OrderItem.order_id)
+        .group_by(OrderItem.product_id)
         .subquery()
     )
 
@@ -92,21 +114,34 @@ def top_products(
     db: Session = Depends(get_db),
     limit: int = Query(default=10, ge=1, le=50),
 ) -> list[TopProductChartItem]:
+    stats_subq = _product_stats_subquery(db)
+
     rows = (
-        db.query(Product)
-        .order_by(Product.units_sold.desc(), Product.revenue.desc())
+        db.query(
+            Product.id,
+            Product.number,
+            Product.name,
+            func.coalesce(stats_subq.c.units_sold, 0).label("units_sold"),
+            func.coalesce(stats_subq.c.revenue, Decimal("0")).label("revenue"),
+        )
+        .outerjoin(stats_subq, stats_subq.c.product_id == Product.id)
+        .order_by(
+            func.coalesce(stats_subq.c.units_sold, 0).desc(),
+            func.coalesce(stats_subq.c.revenue, Decimal("0")).desc(),
+        )
         .limit(limit)
         .all()
     )
+
     return [
         TopProductChartItem(
-            product_id=product.id,
-            product_number=product.number,
-            product_name=product.name,
-            units_sold=product.units_sold,
-            revenue=product.revenue,
+            product_id=row.id,
+            product_number=row.number,
+            product_name=row.name,
+            units_sold=row.units_sold,
+            revenue=row.revenue,
         )
-        for product in rows
+        for row in rows
     ]
 
 
@@ -145,19 +180,32 @@ def total_sales_over_time(
 
 @router.get("/product-revenue-share", response_model=list[ProductRevenueShareItem])
 def product_revenue_share(db: Session = Depends(get_db)) -> list[ProductRevenueShareItem]:
-    rows = db.query(Product).filter(Product.revenue > 0).order_by(Product.revenue.desc()).all()
-    total_revenue = sum((product.revenue for product in rows), Decimal("0"))
+    stats_subq = _product_stats_subquery(db)
 
+    rows = (
+        db.query(
+            Product.id,
+            Product.number,
+            Product.name,
+            func.coalesce(stats_subq.c.revenue, Decimal("0")).label("revenue"),
+        )
+        .join(stats_subq, stats_subq.c.product_id == Product.id)
+        .filter(stats_subq.c.revenue > 0)
+        .order_by(func.coalesce(stats_subq.c.revenue, Decimal("0")).desc())
+        .all()
+    )
+
+    total_revenue = sum((row.revenue for row in rows), Decimal("0"))
     if total_revenue == 0:
         return []
 
     return [
         ProductRevenueShareItem(
-            product_id=product.id,
-            product_number=product.number,
-            product_name=product.name,
-            revenue=product.revenue,
-            percentage=(product.revenue / total_revenue * Decimal("100")).quantize(Decimal("0.01")),
+            product_id=row.id,
+            product_number=row.number,
+            product_name=row.name,
+            revenue=row.revenue,
+            percentage=(row.revenue / total_revenue * Decimal("100")).quantize(Decimal("0.01")),
         )
-        for product in rows
+        for row in rows
     ]
