@@ -33,7 +33,7 @@ def list_products(
     sort_by: ProductSortField = Query(default="name"),
     sort_order: SortOrder = Query(default=SortOrder.ASC),
     skip: int = Query(default=0, ge=0),
-    limit: int = Query(default=50, ge=1, le=200),
+    limit: int = Query(default=10000, ge=1, le=10000),
 ) -> list[Product]:
     query = db.query(Product)
 

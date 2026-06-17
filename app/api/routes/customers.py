@@ -28,7 +28,7 @@ def list_customers(
     sort_by: CustomerSortField = Query(default="name"),
     sort_order: SortOrder = Query(default=SortOrder.ASC),
     skip: int = Query(default=0, ge=0),
-    limit: int = Query(default=50, ge=1, le=200),
+    limit: int = Query(default=10000, ge=1, le=10000),
 ) -> list[Customer]:
     query = db.query(Customer)
     if search:
