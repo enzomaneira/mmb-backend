@@ -3,7 +3,7 @@ from decimal import Decimal
 
 from fastapi import APIRouter, Depends, HTTPException, Query, status
 from sqlalchemy import asc, desc
-from sqlalchemy.orm import Session, joinedload
+from sqlalchemy.orm import Session, joinedload, selectinload
 
 from app.api.deps import get_db
 from app.models import Order, OrderItem
@@ -35,8 +35,8 @@ def list_orders(
     limit: int = Query(default=10000, ge=1, le=10000),
 ) -> list[Order]:
     query = db.query(Order).options(
-        joinedload(Order.items).joinedload(OrderItem.product),
-        joinedload(Order.status_history),
+        selectinload(Order.items).joinedload(OrderItem.product),
+        selectinload(Order.status_history),
     )
 
     if customer_id is not None:
@@ -68,8 +68,8 @@ def get_order(order_id: int, db: Session = Depends(get_db)) -> Order:
     order = (
         db.query(Order)
         .options(
-            joinedload(Order.items).joinedload(OrderItem.product),
-            joinedload(Order.status_history),
+            selectinload(Order.items).joinedload(OrderItem.product),
+            selectinload(Order.status_history),
         )
         .filter(Order.id == order_id)
         .first()
