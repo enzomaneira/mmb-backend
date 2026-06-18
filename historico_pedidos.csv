@@ -1,0 +1,1668 @@
+9o,Venda de bonecas e brinquedos criativos,,,,,,,,,,,,,,,
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,da onde eu conhe�o,,,,
+1,19/8/2014,21/8/2014,22/8/2014,,Naylessa,1 Elsa e 1 Anna,2,4,"R$ 60,00",boneca,venda ,Piaget,media do tempo de execução,média geral,soma,número de meses
+2,22/08/2014,23/8/14,23/08/2014,,Eliana,1 Branca de Neve,1,1,"R$ 35,00",boneca,venda ,novo,,,,
+3,22/8/14,23/8/14,23/8/14,,Michelle,"1 Anna, 1 Elsa e 1 Olaf",3,1,"R$ 0,00",bonecos,presente,eu,,,,
+4,22/8/14,22/8/14,22/8/14,,Ana Beatriz,1 Anna e 1 Elsa,2,1,"R$ 35,00",bonecas,venda ,prima,,,,
+5,22/8/14,25/8/14,26/8/14,,Kátia,1 Anna e 1 Elsa,2,4,"R$ 70,00",bonecas,venda ,Piaget,,,,
+6,22/8/14,31/8/14,1/9/2014,,Naylessa,1 Anna e 1 Elsa,2,10,"R$ 70,00",bonecas,venda ,Piaget,,,,
+7,22/8/14,30/09/14,1/10/2014,,Cristina,1 Anna e 1 Elsa,2,10,"R$ 70,00",bonecas,venda ,Andradas,,,,
+8,22/8/14,31/8/14,1/9/2014,,Giselda,"1 Cinderella, 1 Bella e
+ 1 Branca de Neve",3,10,"R$ 105,00",bonecas,venda ,Andradas,,,,
+9,22/8/14,1/9/2014,2/9/2014,,Juliana,1 Branca de Neve,1,10,"R$ 35,00",boneca,venda ,Andradas,,,,
+10,22/8/14,9/10/2014,9/10/2014,,Carol,"1 castelo, 1 Cinderella, 1 Bella, 
+1 Branca de Neve, 1 Tiana, 
+1 Rapunzel, 1 Anna, 1 Elsa, 
+1 Aurora, 1 Fiona e 1 Anastácia",11,30,"R$ 350,00",bonecas e castelo,venda ,Andradas,,,,
+11,24/8/14,1/9/2014,2/9/2014,,Débora,1 Rapunzel,1,8,"R$ 35,00",boneca,venda ,Andradas,,,,
+12,24/8/14,27/8/14,28/8/14,,Maria Fernanda,1 Anna e 1 Elsa,2,3,"R$ 0,00",bonecas,presente,eu,,,,
+13,25/8/14,1/9/2014,2/9/2014,,Naylessa,1 Sofia,1,7,"R$ 35,00",boneca,venda ,Piaget,,,,
+14,27/8/14,3/9/2014,4/9/2014,,Maria Célia,"1 Cinderella, 1 Bella, 1 Rapunzel, 1 Branca de Neve, 1 castelo, 1 Anna e 1 Elsa",7,6,"R$ 250,00",bonecas e castelo,venda ,tia,,,,
+15,28/8/14,1/9/2014,2/9/2014,,Juliana,1 castelo,1,4,"R$ 50,00",castelo,venda ,Andradas,,,,
+16,28/8/14,3/9/2014,4/9/2014,,Juliana,1 Elsa,1,6,"R$ 35,00",boneca,venda ,Andradas,,,,
+17,28/8/14,24/9/14,25/9/14,,Carol,1 personalizada,1,25,"R$ 50,00",boneca,venda ,Andradas,,,,
+18,29/8/14,3/9/2014,4/9/2014,,Kátia,1 Sofia,1,5,"R$ 35,00",boneca,venda ,Piaget,,,,
+19,29/8/14,12/9/2014,13/9/14,,Maria Célia,"1 Sofia, 1 Olaf, 2 Annas e 
+2 Elsas",6,14,"R$ 210,00",bonecos,venda ,tia,"8,3",,,1
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+20,8/9/2014,5/10/2014,6/10/2014,,Maria Célia,"1 Branca de Neve, 2 Auroras,
+ 2 castelos",5,27,"R$ 200,00",bonecos e castelo,venda ,tia,,,,
+21,12/9/2014,1/10/2014,2/10/2014,,Naylessa,1 Elsa,1,18,"R$ 35,00",boneca,venda ,Piaget,,,,
+22,12/9/2014,15/9/14,15/9/14,,Michelle,"1 Anna, 1 Elsa, 1 Hulk e
+ 1 Homem Aranha",4,4,"R$ 0,00",bonecos,presente,eu,,,,
+23,13/9/14,19/9/14,19/9/14,,Renata Varella,"1 castelo, 1 Anna, 1 Elsa, 
+1 Sofia, 1 Aurora, 1 Bella, 
+1 Tiana, 1 Branca de Neve, 
+1 Cinderela e 1 Rapunzel",10,6,"R$ 365,00",bonecas e castelo,venda ,Piaget,,,,
+24,14/9/14,6/10/2014,6/10/2014,,Maria Célia,4 Malévolas,4,22,"R$ 140,00",bonecas,venda ,tia,,,,
+25,16/9/14,25/9/14,25/9/14,,Simone,1 personalizada,1,9,"R$ 35,00",boneca,venda ,Olívia,,,,
+26,16/9/14,1/10/2014,2/10/2014,,Simone,1 Betty Boop,1,14,"R$ 35,00",boneca,venda ,Olívia,,,,
+27,22/9/14,5/10/2014,6/10/2014,,Maria Célia,1 Olaf,1,14,"R$ 35,00",boneco,venda ,tia,,,,
+28,22/9/14,11/10/2014,12/10/2014,,Michelle,1 Anastácia e 1 Elsa,2,20,"R$ 0,00",bonecas,presente,eu,,,,
+29,22/9/14,8/11/2014,8/11/2014,,Michelle,"1 Rapunzel, 1 Cinderella e 
+1 Bella",3,30,"R$ 0,00",bonecas,presente,eu,,,,
+30,22/9/14,30/9/14,30/9/14,,Michelle,1 Sofia,1,7,"R$ 0,00",boneca,presente,eu,,,,
+31,22/9/14,12/10/2014,12/10/2014,,Michelle,"1 Homem Aranha, 1 Thor, 
+1 Homem de ferro e 1 Wolverine",4,20,"R$ 0,00",bonecos,presente,eu,,,,
+32,22/9/14,29/9/14,29/9/14,,Renata Varella,1 Olaf,1,7,"R$ 35,00",boneco,venda ,Piaget,,,,
+33,23/9/14,29/9/14,29/9/14,,Mãe,1 Malévola,1,7,"R$ 0,00",boneca,presente,eu,,,,
+34,26/9/14,30/9/14,30/9/14,,Regina Helena,1 Cinderela e 1 Super Man,2,5,"R$ 70,00",bonecos,venda ,Andradas,,,,
+35,26/9/14,1/10/2014,1/10/2014,,Juliana Porto,1 Olaf,1,7,"R$ 35,00",boneco,venda ,Piaget,,,,
+36,27/9/14,28/9/14,28/9/14,,Chefe Fernanda,"1 Cinderella, 1 Bella, 1 Aurora, 
+1 Branca de Neve",4,2,"R$ 140,00",bonecas,venda ,Carmo,,,,
+37,27/9/14,4/10/2014,4/10/2014,,Chefe Paula,"1 Anna, 1 Elsa e 1 Olaf",3,8,"R$ 70,00",bonecos,venda ,Carmo,"12,6","10,45",,2
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+38,4/10/2014,18/10/14,18/10/14,,Chefe Fernanda,"2 Malévolas, 1 Branca de Neve, 
+1 Aurora",4,14,"R$ 140,00",bonecas,venda ,Carmo,,,,
+39,6/10/2014,16/10/14,19/10/14,,Maria Célia,"2 Olafs, 1 Fiona, 1 Anastácia",4,10,"R$ 100,00",bonecos,venda ,tia,,,,
+40,9/10/2014,18/10/14,23/10/14,,Tatiane,1 pequeno príncipe e 1 moto,2,9,"R$ 80,00",boneco e moto,venda ,amiga Carol,,,,
+41,10/10/2014,21/10/14,21/10/14,,Renata Varela,"1 Aurora, 1 Anastácia e 1 Fiona",3,11,"R$ 105,00",bonecas,venda ,Piaget,,,,
+42,12/10/2014,2/11/2014,2/11/2014,,Michelle,"1 Jasmine, 1 Ariel",2,20,"R$ 0,00",bonecas,presente,eu,,,,
+43,12/10/2014,15/10/14,15/10/14,,Michelle,"1 Mulher Maravilha, 1 Mulher 
+gato, 5 marcadores de página 
+Batman, 5 marcadores de página 
+Mulher maravilha",12,4,"R$ 0,00",bonecas e marcadores,presente,eu,,,,
+44,12/10/2014,17/10/14,17/10,,Thaís Hartog,1 Olaf,1,5,"R$ 35,00",bonecos,venda ,pós,,,,
+45,13/10/14,31/10/14,1/11/2014,,chefe Paula,"1 Thor, 1 Loki e 1 Batman",3,18,"R$ 120,00",Bonecos ,Venda,Carmo,,,,
+46,13/10/14,31/10/14,1/11/2014,,Enzo,"1 Thor, 1 Homem de ferro e 
+1 personalizado ",3,18,"R$ 0,00",Bonecos,Presente,Filho,,,,
+47,17/10/14,13/11/14,14/11/14,,Maria Célia,"1 Thor, 1 Wolverine, 1 Homem de ferro
+, 2 pequenos Príncipes e 3 Ariel 
+sereia",8,27,"R$ 180,00",bonecos,Venda,Tia,,,,
+48,18/10/14,8/11/2014,15/11/14,,Irmã da chefe Fernanda,"1 Branca de Neve, 1 Aurora e 1 
+Ariel sereia",3,22,"R$ 105,00",Bonecas,Venda,Carmo,,,,
+49,21/10/14,6/11/2014,7/11/2014,,Renata Varela,1 Ariel e 1 Jasmine,2,16,"R$ 70,00",Bonecas,Venda,Piaget ,,,,
+50,29/10/14,7/11/2014,7/11/2014,,Alexandre,1 Homem de ferro e 1 Elsa,2,9,"R$ 0,00",Bonecos,Presente,Marido,"3,7","8,2",,3
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+51,1/11/2014,4/4/2015,4/4/2015,,Lulu,5 fadas,5,150,"R$ 0,00",Bonecas,Presente,Sobrinha,,,,
+52,1/11/2014,24/12/14,24/12/14,,Michelle,"Lulu - 1 Malévola, 1 Branca de 
+Neve e 1 Fiona- Fefê - 1 Cinderela,
+ 1 Bella e 1 Aurora - Camila - 
+1 Aurora, 1 Ariel sereia e 1 Jasmine",9,53,"R$ 0,00",Bonecas,Presente,Sobrinhas,,,,
+53,4/11/2014,15/11/14,15/11/14,,Graziela,"1 casco e 2 máscaras de Tartaruga
+ Ninja",3,11,"R$ 37,00",Fantasia,venda,Notre Dame,,,,
+54,15/11/14,28/11/14,15/2/15,,Michele,1 buquê de Santo Antonio,5,13,"R$ 75,00",bonecos,venda,Agima,,,,
+55,2/11/2014,22/12/14,22/12/14,,Miguel,1 personalizado,1,50,"R$ 0,00",boneco,presente,filho,,,,
+56,2/11/2014,30/11/14,30/11/14,,Michelle,1 presépio,1,27,"R$ 0,00",bonecos,presente,eu,,,,
+57,4/11/2014,20/11,21/11/14,,Giselle,1 Peppa pig,1,15,"R$ 25,00",bonecos,venda,amiga,,,,
+58,4/11/2014,20/11/14,20/11/14,,Michelle ,1 família Peppa,4,15,"R$ 0,00",bonecos,presente,Nuno da Carol,,,,
+59,6/11/2014,6/11/2014,6/11/2014,,Michelle,"1 Wolverine, 1 Homem de Ferro,
+ 1 Anna e 1 Branca de Neve",4,1,"R$ 0,00",bonecos,doação,Bandeirantes,,,,
+60,8/11/2014,25/11/14,26/11/14,,Dani Britto,1 guirlanda de corujas,1,17,"R$ 80,00",guirlanda,venda,Andradas,,,,
+61,8/11/2014,12/11/2014,17/11/14,,Roseli,1 Homem Aranha,1,5,"R$ 40,00",boneco,venda,Andradas,,,,
+62,8/11/2014,22/11/14,22/11/14,,Claudia Brazão,1 Branca de Neve,1,14,"R$ 35,00",boneca,venda,Bandeirantes,,,,
+63,13/11/14,14/11/14,14/11/14,,Maria Célia,1 Peppa e 1 castelo,2,2,"R$ 75,00",castelo e boneco,venda,tia,,,,
+64,11/11/2014,17/11/14,17/11/14,,Regimara,2 Papai Noel espiralado,2,6,"R$ 60,00",enfeite de porta,venda,Andradas,,,,
+65,13/11/14,17/11/14,18/11/14,,Ana Paula Mattos,1 papai Noel espiralado,1,5,"R$ 30,00",enfeite de porta,venda,Piaget,,,,
+66,14/11/14,21/11,24/11/14,,Mônica mãe da Maitê,1 Elsa e 1 Anna,2,7,"R$ 70,00",bonecas,venda,Piaget,,,,
+67,15/11/14,15/11/14,15/11/14,,Alexandre,1 Jasmine,1,2,"R$ 0,00",boneca,presente,Marido,,,,
+68,19/11/14,24/11/14,24/11/14,,Giselda,1 Ariel sereia,1,6,"R$ 35,00",boneca,venda,Andradas,,,,
+,19/11/14,12/12/2014,15/12,,Liege,1 bailarina,1,28,"R$ 35,00",boneca,venda,Andradas,,,,
+70,23/11/14,27/11/14,27/11/14,,Jussara (Murilo),1 guirlanda corujas,1,5,"R$ 70,00",guirlanda,venda,Piaget,,,,
+71,24/11/14,26/11/14,2/12/2014,,Dani Brito,1 fada,1,3,"R$ 35,00",boneca,venda,Andradas,,,,
+72,25/11/14,28/11/14,28/11/14,,Michele da Agima,1 Anna e 1 Peppa,2,4,"R$ 60,00",bonecos,venda,Agima,,,,
+73,27/11/14,9/12/2014,9/12/2014,,Carol,1 bebê personalizada,1,12,"R$ 50,00",bonecas,venda,Andradas,,,,
+74,29/11/14,18/12/14,25/12/14,,Célia Renara,1 Elsa e 1 Olaf,2,19,"R$ 70,00",bonecos,venda,prima,"19,5",11,,4
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+75,3/12/2014,10/12/2014,10/12/2014,,Miguel,2 papais Noel esoiralado,2,7,"R$ 0,00",bonecos,presente,filho,,,,
+76,4/12/2014,5/12/2014,5/12/2014,,Lourdes,1 restauro de boneca,1,1,"R$ 35,00",boneca,conserto,Andradas,,,,
+77,4/12/2014,15/12/14,16/12/14,,Jussara (mãe),2 Malévolas,2,11,"R$ 70,00",bonecas,venda,empregada Mãe,,,,
+78,7/12/2014,26/12/14,2/1/2015,,Maria Célia,1 presépio,1,19,"R$ 130,00",bonecos,venda,tia,,,,
+79,8/12/2014,10/12/2014,10/12/2014,,Roseli,1 presépio,1,2,"R$ 130,00",bonecos,venda,Andradas,,,,
+80,10/12/2014,19/12/14,15/2/15,,Ana Cecília,1Marie,1,9,"R$ 40,00",bonecos,venda,Andradas,,,,
+81,14/12/14,18/12/14,18/12/14,,Karina,1 bailarina,1,4,"R$ 35,00",boneca,venda,e-Midia,,,,
+82,17/12/14,25/12/14,25/12/14,,Maria Célia,2 Maries,2,9,"R$ 80,00",bonecos,venda,tia,,,,
+83,23/12/2014,26/12/14,26/12/14,,Luciana Cunha,1 personalizado,1,2,"R$ 50,00",bonecos,venda,São José,,,,
+84,26/12/14,30/1/15,9/2/2014,,Maria Célia,2 personalizados,2,34,"R$ 100,00",bonecos,venda,tia,"9,8","10,76",,5
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+85,21/1/15,6/2/2015,9/2/2015,,Maria Célia,"2 Elsas, 1 Anna, 1 Olaf, 1 Branca de 
+Neve e 2 móbiles de bruxa",7,16,"R$ 260,00",bonecos e móbiles,venda,tia,,,,
+86,27/1/15,3/2/2015,9/2/2015,,Paola,5 móbiles alfabeto e brinquedos,5,8,"R$ 100,00",móbiles,venda,Objetivo,,,,
+87,27/1/15,3/2/2015,3/2/2015,,Gilmara,4 móbiles bruxa,4,8,"R$ 80,00",móbiles,venda,Objetivo,,,,
+88,27/1/15,3/2/2015,9/2/2015,,Bia luciana,3 móbiles menino maluquinho,3,8,"R$ 60,00",móbiles,venda,Objetivo,,,,
+89,27/1/15,3/2/2015,9/2/2015,,Luciana e Adriana,6 móbiles do caso do bolinho,6,8,"R$ 120,00",móbiles,venda,Objetivo,,,,
+90,27/1/15,3/2/2015,9/2/2015,,Adriana,3 móbiles alfabeto e brinquedos,3,8,"R$ 70,00",móbiles,venda,Objetivo,,,,
+91,27/1/15,15/2/15,19/2/15,,Raquel,5 móbiles Sítio,5,20,"R$ 100,00",móbiles,venda,Objetivo,,,,
+92,27/1/15,21/2/15,24/2/15,,Roseana e Mariana,8 móbile histórias,8,26,"R$ 140,00",móbiles,venda,Objetivo,"12,75",11,,6
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+93,3/2/2015,18/2/15,18/2/15,,Caroline,"30 ponteiras de lápis e 1 quadro 
+de chamada",31,15,"R$ 160,00",ponteiras e quadro de chamada,venda,professora ,,,,
+94,4/2/2015,18/2/15,calote - sem a entrega,,Alessandra Cóssio,1 alfabeto com botões,1,14,"R$ 0,00",alfabeto,venda,escoteiro,,,,
+95,5/2/2015,6/3/2015,7/3/2015,,Chefe Fernanda,1 príncipe BN e 1 Madrasta,2,30,"R$ 80,00",bonecos,venda,Carmo,,,,
+96,6/2/2015,,-,-,Carla ,móbiles,-,-,"R$ 0,00",desistiu...,,Privilégio,,,,
+97,17/2/15,24/2/15,28/2/15,,Chefe Paula,1 Sofia e 1 Capitão América,2,7,"R$ 80,00",bonecos,venda,Carmo,,,,
+98,27/2/15,15/3/15,15/3/15,,Janaína,2 palhaços,2,16,"R$ 0,00",bonecos,presente,São José,"16,5","11,8",,7
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+99,5/3/2015,12/3/2015,12/3/2015,,Andréa,1 casal personalizado,2,7,"R$ 80,00",bonecos,venda,Andradas,,,,
+100,6/3/2015,16/3/15,16/3/15,,RenataVarela,"1 madrasta, 2 coelhas, 1 fada e 
+1 princesa",5,10,"R$ 210,00",bonecos,venda,Piaget,,,,
+101,6/3/2015,13/4/15,13/4/15,,Michelle,1 Branca de Neve ,1,37,"R$ 0,00",boneca,presente - Lívia,eu,,,,
+102,6/3/2015,7/3/2015,7/3/2015,,Michelle,1 Bella e 1 Rapunzel,2,2,"R$ 0,00",bonecos,presente - Giovana,eu,,,,
+103,6/3/2015,7/3/2015,7/3/2015,,Michelle,1 Capitão América,1,2,"R$ 0,00",boneco,presente - Vitor,eu,,,,
+104,6/3/2015,7/3/2015,7/3/2015,,Michelle,2 coelhos,2,2,"R$ 0,00",bonecos,doação,formatura,,,,
+105,6/3/2015,7/3/2015,7/3/2015,,Michelle,1 coelho,1,2,"R$ 0,00",boneco,doação,Andradas,,,,
+106,6/3/2015,7/3/2015,7/3/2015,,Michelle,saquinhos de páscoa,10,2,"R$ 0,00",saquinhos,presente,eu,,,,
+107,14/3/15,,,,Camila,boneca,cancelado,,,,,,,,,
+108,19/3/15,29/3/15,29/3/15,,Michelle,1 boneco Hulk,1,10,"R$ 0,00",boneco,presente - Henrique,eu,,,,
+109,19/3/15,,,,Carol,2 livros sensoriais,,,,nunca fiz,divórcio,,,,,
+110,30/3/15,1/4/2015,1/4/2015,,Claudia Zanetti,1 Anna e 1 Elsa,2,2,"R$ 80,00",bonecas,venda,Piaget,,,,
+111,30/3/15,31/3/15,31/3/15,,Michelle,1 Batman,1,2,"R$ 0,00",boneco,pressente - Fred,eu,7,"11,2",,8
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+112,13/4/15,29/4/15,21/5/15,,Juliana Judice,1 luva indiozinhos,1,13,"R$ 30,00",fantoche,venda,Andradas,,,,
+113,21/4/15,22/5/15,22/5/15,,Maria Célia,2 personalizados,2,30,"R$ 100,00",bonecos,venda,tia,,,,
+114,26/4/15,18/5/15,30/5/15,,Caroline,"1 almofada foguete quadrada, 
+1 almofada foguete, 2 móbiles de
+ foguetes",4,22,"R$ 170,00",almofada e mobile,venda,professora,,,,
+115,27/4/15,29/4/15,12/5/2015,,Carla Jacy,1 luva indiozinho,1,2,"R$ 30,00",fantoche,venda,Andradas,"16,7","11,8",,9
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+116,23/5/15,23/5/15,23/5/15,,Michelle,1 Thor,1,1,"R$ 0,00",boneco,presente - Bruno,eu,,,,
+117,22/5/15,23/5/15,23/5/15,,Michelle,1 almofada Paris,1,2,"R$ 0,00",almofada,presente - Julia,eu,,,,
+118,22/5/15,29/5/15,29/5/15,,Taísa Rosa,1 Patati e 1 Patatá,2,7,"R$ 100,00",bonecos,venda,Bandeirantes,,,,
+119,21/5/15,28/5/15,28/5/15,,Carla Jacy,1 boneco Corinthians,1,7,"R$ 50,00",boneco,venda,Andradas,"4,2",11,,10
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+120,2/6/2015,8/8/2015,8/8/2015,,Glaucia,50 princesinhas Sofia,50,66,"R$ 540,00",bonecas,venda,infância,,,,
+121,3/6/2015,25/6/15,26/6/15,,Regina mãe da Eduarda,30 domadoras,30,22,"R$ 900,00",bonecas,venda,indicação Renata Moura,,,,
+122,28/6/15,12/7/2015,12/7/2015,,Pépe,2 Patatis e 2 Patatas,4,14,"R$ 200,00",bonecos,venda,tio,34,"12,8",,11
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+123,1/8/2015,14/8/15,14/8/15,,Michelle,"2 bolos, 11 B-Max, 11 Candy Crush,
+ 30 sacolinhas, 30 corujinhas",84,14,"R$ 0,00","bolo, bonecos, sacolas",aniversário,eu,,,,
+124,26/8/15,28/6/15,15/9/15,,Juliana Judice,1 Príncipe e 1 madrasta,2,2,"R$ 80,00",bonecos,venda,Andradas,,,,
+125,28/8/15,31/8/15,31/8/15,,Meire,"1 B-Max, 1 Branca de Neve,
+ 1 Príncipe",3,3,"R$ 120,00",bonecos,venda,Andradas,,,,
+126,10/8/2015,15/8/15,15/8/15,,Giselle,"1 Olaf, 1 Elsa e 1 Anna",3,5,"R$ 120,00",bonecos,venda,amiga,,,,
+127,9/8/2015,10/8/2015,10/8/2015,,Maria Célia,2 joaninhas,2,2,"R$ 16,00",bonecos,venda,tia,"5,2","12,1",,12
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+128,1/9/2015,15/9/15,15/9/15,,Juliana Judice,1 boneca Waldorf e passarinhos,2,15,"R$ 65,00",bonecos,venda,Andradas,15,"12,4",,13
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+129,1/11/2015,8/11/2015,8/11/2015,,Rosângela,1 Superman,1,7,"R$ 40,00",boneco,venda,Andradas,,,,
+130,8/11/2015,15/11/15,15/11/15,,Karina,1 kombi,1,7,"R$ 30,00",enfeite de porta,venda,e-Mídia,,,,
+131,8/11/2015,15/11/15,15/11/15,,Michelle,1 Nossa Senhora,1,7,"R$ 0,00",boneca,presente - Célia,eu,,,,
+132,15/11/15,22/11/15,22/11/15,,Crislaine,2 bonecas,2,7,"R$ 50,00",bonecas,venda,Andradas,,,,
+133,22/11/15,29/11/15,29/11/15,,Andradas,beca,1,7,"R$ 30,00",beca,venda,Andradas,,,,
+134,22/11/15,29/11/15,29/11/15,,Michelle,1 escoteiro Up,1,7,"R$ 0,00",boneco,presente - Breno,eu,,,,
+135,12/10/2015,12/10/2015,12/10/2015,,Michelle,roupas de heróis,60,7,"R$ 0,00",fantasia,doação,escola,7,12,,14
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+136,1/12/2015,8/12/2015,8/12/2015,,Kátia Ramires,5 Branca de Neve,5,7,"R$ 150,00",bonecas,venda,Iveta,,,,
+137,1/12/2015,8/12/2015,8/12/2015,,Samantha,3 Minecrafts,3,7,"R$ 120,00",bonecos,venda,Notre Dame,,,,
+138,1/10/2015,nunca fiz,-,,Renata Varela,livro de pano,-,-,-,,,Piaget,,,,
+139,1/12/2015,7/12/2015,7/12/2015,,Carla Jacy,1 gato preto,1,6,"R$ 40,00",boneco,venda,Andradas,,,,
+140,1/12/2015,8/12/2015,8/12/2015,,Juliana Pujol,1 Hulk e 1 estrela,2,7,"R$ 45,00",boneco,venda,Andradas,,,,
+141,20/12/15,1/2/2016,1/2/2016,,Talita,1 boneca papel higiênico,1,40,"R$ 50,00",boneca,venda,Andradas,,,,
+142,1/12/2015,23/12/15,23/12/15,,Rosana Dias,15 bonecos de neve,15,22,"R$ 225,00",bonecos,venda,Andradas,,,,
+143,1/12/2015,8/12/2015,8/12/2015,,Luciana,"1 Mulan, 1 Sininho e 1 Ariel",3,7,"R$ 120,00",bonecas,venda,Andradas,,,,
+144,15/12/15,20/12/15,20/12/15,,Juliana Pujol,1 Elsa,1,5,"R$ 40,00",boneca,venda,Andradas,,,,
+145,15/12/15,20/12/15,20/12/15,,Carol Escobar,8 bonecos de neve,8,5,"R$ 120,00",bonecos,venda,Andradas,,,,
+146,17/12/15,20/12/15,20/12/15,,Carol Escobar,9 bonecos de neve,9,3,"R$ 135,00",bonecos,venda,Andradas,"4,8","11,5",,15
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+147,13/1/16,26/1/16,26/1/16,,Meire,1 Sininho,1,13,"R$ 40,00",boneca,venda,Andradas,13,"11,6",,16
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+148,1/2/2016,14/3/16,14/3/16,,Janaina,30 sacolas Mike,30,40,"R$ 360,00",sacolas,venda,São José,,,,
+149,1/2/2016,20/2/16,20/2/16,,Neuza (mãe da Luciana),1 móbile de animais,1,20,"R$ 120,00",móbile,venda,Andradas,,,,
+150,1/2/2016,13/2/16,13/2/16,,Chefe Paula,1 Mulher Maravilha,1,12,"R$ 40,00",boneca,venda,Carmo,,,,
+151,1/2/2016,10/2/2016,10/2/2016,,Meire,1 Peter Pan,1,9,"R$ 40,00",boneco,venda,Andradas,,,,
+152,1/2/2016,24/2/16,24/2/16,,Rosana Dias,45 chaveiros Mickey,45,23,"R$ 225,00",chaveiros,venda,Andradas,,,,
+153,18/2/16,20/2/16,20/2/16,,Renata Varella,"1 Alice, 1 Rainha, 1 chapeleiro, 
+1 Gato e 1 Coelho",5,3,"R$ 300,00",bonecos,venda,Piaget,,,,
+154,24/2/16,28/2/16,28/2/16,,Giselda,1 bonequinha de luxo,1,5,"R$ 40,00",boneca,venda,Andradas,16,"11,8",,17
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+155,1/3/2016,10/4/2016,10/4/2016,,Mãe,"1 Bolo de cinema, 1 Branca de Neve, 
+1 Elsa, 1 Malévola, 1 Batman, 1 
+Superman, 1 Homem de Ferro, 1 
+Bonequinha de luxo, 1 Chaplin, 1 
+Buzz, 1 Sr. Friederichesen, 1 Yoda, 
+1 Indiana Jones, 1 Shrek, 1 Minion, 
+1 Marilyn, 1 Alice, 1 Fera, 1 Mary 
+Poppins, 1 Harry Potter, 1 Roger 
+Rabbit, 1 MIB, 1 James Bond, 1 
+Dorothy, 1 Tartaruga Ninja, 1 Jack 
+Sparol, 1 Gremilins",27,40,"R$ 0,00",bolo e bonecos,presente,mãe,,,,
+156,1/3/2016,9/6/2016,9/6/2016,,Carla Alícia,"1 Cinderela, 1 Branca de Neve, 
+1 Elsa, 1 Anna, 9 personalizadas",13,100,"R$ 540,00",bonecas,venda,Andradas,,,,
+157,2/2/2016,2/4/2016,2/4/2016,,Rosana Dias,1 Buquê Santo Antonio,1,30,"R$ 0,00",bonecos,presente,Andradas,,,,
+158,9/3/2016,11/3/2016,11/3/2016,,Michelle,Rapunzel,1,2,"R$ 0,00",boneca,presente - Lívia,eu,,,,
+159,3/3/2016,10/3/2016,10/3/2016,,Alexandre,1 Elsa e 1 Anna,2,7,"R$ 0,00",bonecas,presente - Sofia,eu,,,,
+160,7/3/2016,10/3/2016,10/3/2016,,Crislaine,1 boneca de pano,1,4,"R$ 25,00",boneca,venda,Andradas,,,,
+161,8/3/2016,10/3/2016,10/3/2016,,Ana Carolina,1 Russel,1,3,"R$ 50,00",boneco,venda,escoteira,,,,
+162,10/3/2016,12/3/2016,12/3/2016,,Alcatéia,1 Baloo,1,3,"R$ 0,00",boneco,presente,eu,,,,
+163,11/3/2016,30/3/16,30/3/16,,Cristina,1 Masha e 1 Urso,2,19,"R$ 90,00",bonecos,venda,Andradas,"23,1","12,4",,18
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+164,6/4/2016,10/4/2016,10/4/2016,,Juliana Porto,1 Indiana Jones,1,5,"R$ 40,00",bonecos,venda,Piaget,,,,
+165,7/4/2016,10/4/2016,10/4/2016,,Danda,1 Malévola,1,4,"R$ 40,00",boneca,venda,manicure,,,,
+166,9/4/2016,13/4/16,13/4/16,,Moniza,1 Dona Maricota,1,5,"R$ 60,00",boneca,venda,Andradas,,,,
+167,9/4/2016,10/4/2016,10/4/2016,,Carol Escobar,1 Dorothy,1,2,"R$ 40,00",boneca,venda,Andradas,,,,
+168,9/4/2016,24/5/16,24/5/16,,Vivi,1 bonequinha de luxo,1,45,"R$ 40,00",boneca,venda,Andradas,,,,
+169,25/4/16,29/4/16,29/4/16,,Caroline Ribas,1 porta papel higiêncio ,1,5,"R$ 20,00",porta papel higiênico,venda,professora,,,,
+170,25/4/16,3/5/2016,3/5/2016,,Fernanda Camarano,1 chaveiro Minion,1,9,"R$ 10,00",chaveiro,venda,Andradas,,,,
+171,20/4/16,22/4/16,22/4/16,,Maria Célia,2 Harry Potter,2,3,"R$ 80,00",bonecos,venda,tia,"9,7","12,2",,19
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+172,1/5/2016,2/5//16,2/5/2016,,Renata Varella,"1 Fada Branca e 3 suportes de 
+madeira",4,2,"R$ 90,00",boneca e suporte,venda,Piaget,,,,
+173,1/5/2016,4/5/2016,4/5/2016,,Danda,1 Fiona e 1 Shrek pq,2,4,"R$ 40,00",bonecos,venda,manicure,,,,
+174,2/5/2016,2/5/2016,2/5/2016,,Ana Maria Sodré,1 Woody,1,2,"R$ 60,00",boneco,venda,Andradas,,,,
+175,3/5/2016,7/5/2016,7/5/2016,,Maria Célia,"1 Anna, 1 Ariel, 1 Fera",3,5,"R$ 120,00",bonecos,venda,tia,,,,
+176,5/5/2016,10/5/2016,10/5/2016,,Sheila Blum,1 Dona Maricota,1,6,"R$ 60,00",boneca,venda,Andradas,,,,
+177,10/5/2016,21/8/16,21/8/16,,Maria Célia,"1 Alice, 1 Mary Poppins, 1 Roger 
+Rabbit, 1 Harry Potter, 1 Dorothy, 1 
+pequeno Príncipe, 1 Fera, 1 Marilyn, 
+1 Tartaruga Ninja, 1 Minion, 1 Sr. 
+Friederichesen, 1 Rainha Branca, 
+1 gato que ri, 1 Chapeleiro, 1 
+Coelho Branco, 1 James Bond, 
+1 Indiana Jones",17,90,"R$ 680,00",bonecos,venda,tia,,,,
+178,13/5/16,13/12/16,13/12/16,,Vivi,2 comissários de bordo,2,210,"R$ 100,00",bonecos,venda,Andradas,,,,
+179,14/5/16,20/5/16,20/5/16,,Michelle,1 Marie,1,6,"R$ 0,00",bonecos,presente - Miguel,eu,,,,
+180,14/5/16,15/5/16,15/5/16,,Michelle,1 botão flor,1,2,"R$ 0,00",boneca,presente - mãe,eu,"36,3","13,4",,20
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+181,11/6/2016,16/6/16,16/6/16,,ChefePaula,1 Sininho e 1 Capitão Gancho,2,6,"R$ 80,00",bonecos,venda,Carmo,,,,
+182,13/6/16,20/6/16,20/6/16,,Kathia,1 Yoda pequeno,1,7,"R$ 20,00",boneco,venda,cabelereira,,,,
+183,13/6/16,20/6/16,20/6/16,,Danda,"1 Yoda, 1 Darth Vaider e 
+1 Chewbaca",3,7,"R$ 120,00",bonecos,venda,manicure,,,,
+184,11/6/2016,15/6/16,15/6/16,,Fabiana (salão),"1 Shrek, 1 Fiona e 3 filhos",5,5,"R$ 80,00",bonecos,venda,salão,,,,
+185,11/6/2016,15/6/16,15/6/16,,Danda,1 Gremilins e 1 Jack Sparow,2,5,"R$ 80,00",bonecos,venda,manicure,,,,
+186,12/6/2016,19/6/16,19/6/16,,Rosana Dias,1 Malévola e 1 Aurora,2,7,"R$ 80,00",bonecas,venda,Andradas,,,,
+187,12/6/2016,19/6/16,19/6/16,,Carla Alícia,2 personalizadas,2,7,"R$ 80,00",bonecas,venda,Andradas,,,,
+188,13/6/16,20/6/16,20/6/16,,Maria Célia,1 personalizada,1,7,"R$ 50,00",boneca,venda,tia,,,,
+189,13/6/16,20/6/16,20/6/16,,Anabel,1 Lady Bug e 1 Catnoir ,2,7,"R$ 80,00",bonecos,venda,Andradas,,,,
+190,14/6/16,21/6/16,21/6/16,,Kathia,1 Hulk,1,7,"R$ 40,00",boneco,venda,cabelereira,,,,
+191,14/6/16,21/6/16,21/6/16,,Maria Célia,5 personalizadas,5,7,"R$ 230,00",bonecas,venda,tia,,,,
+192,15/6/16,22/6/16,22/6/16,,Meire,1 Anna e 1 Elsa,2,7,"R$ 80,00",bonecas,venda,Andradas,,,,
+193,15/6/16,22/6/16,22/6/16,,Regina Sanches,1 Pug personalizado,1,7,"R$ 50,00",boneco,venda,infância,,,,
+194,16/6/16,23/6/16,23/6/16,,Laura,1 baleia,1,7,"R$ 60,00",boneco,venda,Andradas,"6,6",13,,21
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+195,1/7/2016,1/7/2016,1/7/2016,,Loja Limonada,"10 fantasias Elsa, 6 fantasias Anna, 
+4 máscaras Homem de ferro, 2 
+chaveiros de coruja e 1 fantasia de 
+Batman",23,1,"R$ 226,00",diversos,venda,loja André - São José,,,,
+196,2016,2016,2016,,Camila,1 personalizada,1,1,"R$ 0,00",boneca,presente,sobrinha,,,,
+197,2016,2016,2016,,Célia Renata,1 personalizada,cancelada,,,,,prima,,,,
+198,2016,2016,2016,,Britto,33 chaveiros Corujinha,33,30,"R$ 165,00",chaveiros,venda,Britto,,,,
+199,2016,2016,2016,,Meire,1 mulher Maravilha,1,7,"R$ 40,00",boneca,venda,Andradas,,,,
+200,2016,2016,2016,,Michelle,1 Ariel,1,7,"R$ 0,00",boneca,presente Sofia da Glaucia,dentista,,,,
+201,2016,2016,2016,,Meire,"80 chaveiros Frozen. 1 Olaf, 8 
+fantasias Elsa, 7 fantasias Anna",96,30,"R$ 590,00","bonecos, fantasias e chaveiros",venda,Andradas,,,,
+202,2016,2016,2016,,Britto,34 chaveiros Corujinha,34,30,"R$ 170,00",chaveiros,venda,Britto,,,,
+203,2016,2016,2016,,Renata Moura,1 Lady Bug e 1 Chatnoir,2,7,"R$ 80,00",bonecos,venda,São José,,,,
+204,2016,2016,2016,,Britto,40 marcadores de livro,40,15,"R$ 200,00",marcadores,venda,Britto,,,,
+205,2016,2016,2016,,Michelle,buquê de rosas,1,5,"R$ 0,00",buquê,presente - vó Quita,eu,,,,
+206,2016,2016,2016,,Michelle,almofada,1,2,"R$ 0,00",almofada,presente - tio Adolar,eu,,,,
+207,2016,2016,2016,,Michelle,80 angry birds,80,15,"R$ 0,00",bonecos,aniversário Miguel,eu,,,,
+208,2016,2016,2016,,Gisele Machado,"3 quadrinhos anjo e passarinho e 
+1 móbile nuvem",4,15,"R$ 210,00",quadrinhos e móbiles,venda,Andradas,,,,
+209,2016,2016,2016,,Carla Jacy,1 guirlanda Sagrada Família,1,7,"R$ 60,00",guirlanda,venda,Andradas,,,,
+210,2016,2016,2016,,Roberta Bruno,6 bonecos roqueiros personalizados,6,10,"R$ 300,00",bonecos,venda,rede,,,,
+211,2016,2016,2016,,Luciana Munia,40 bodys com sachê,40,10,"R$ 240,00",lembrancinha,venda,infância,,,,
+212,2016,2016,2016,,Luciana Munia,20 almofadinhas piquet,20,5,"R$ 40,00",lembrancinha,venda,infância,,,,
+213,2016,2016,2016,,Rosaninha,3 marcadores Coruja,3,2,"R$ 15,00",marcadores,venda,Andradas,,,,
+214,2016,2016,2016,,Claudia Alonso,"1 Chapolim, 1 Chiquinha, 1 Frida e 
+1 Amelie Polan",4,7,"R$ 180,00",bonecos,venda,madrinha,,,,
+215,2016,2016,2016,,Rose Petin,Chapéu Beca,1,3,"R$ 15,00",fantasia,venda,Andradas,,,,
+216,2016,2016,2016,,Roberta Bruno,50 chaveiros corujinha,50,20,"R$ 300,00",chaveiros,venda,rede,,,,
+217,2016,2016,2016,,Claudia Alonso,1 personalizada,1,7,"R$ 45,00",boneca,venda,madrinha,,,,
+218,2016,2016,2016,,Rosana Dias,1 guirlanda dentes,1,5,"R$ 50,00",guirlanda,venda,Andradas,,,,
+219,2016,2016,2016,,Cristina,1 boneca negra,1,5,"R$ 40,00",boneca,venda,Andradas,,,,
+220,2016,2016,2016,,Nara,6 sereiazinhas Ariel pocket,6,5,"R$ 120,00",bonecas,venda,Piaget,,,,
+221,2016,2016,2016,,Roberta dentista,1 guirlanda e 10 dentes para árvore,11,7,"R$ 120,00",guirlanda e enfeite,venda,indicação,,,,
+222,2016,2016,2016,,Glaucia,1 guirlanda dentes,1,7,"R$ 60,00",guirlanda,venda,dentista,,,,
+223,2016,2016,2016,,Tânia,1 Branca de Neve,1,5,"R$ 40,00",boneca,venda,Andradas,,,,
+224,2016,2016,2016,,Mônica Teixeira,1 Fred Mercury - personalizado,1,7,"R$ 50,00",boneco,venda,Andradas,,,,
+225,2016,2016,2016,,Giselle,1 Luan Santana - personalizado,1,7,não retirou...,,,,,,,
+226,2016,2016,2016,,Michelle,1 Caio Castro,1,nunca fiz,,,presente - Maitê,eu,,,,
+227,2016,2016,2016,,Michelle,1 Cinderela e 1 Shrek,2,7,"R$ 0,00",bonecos,presente - Miguel,eu,,,,
+228,2016,2016,2016,,Fabiana Chaquime,6 dentes pingentes,6,5,"R$ 48,00",enfeites,venda,Piaget,,,,
+229,2016,2016,2016,,Renata Moura,1 Lady Bug e 1 Chatnoir,2,5,"R$ 80,00",bonecos,venda,São José,,,,
+230,2016,2016,2016,,Giselda,1 guirlanda dente,1,5,"R$ 60,00",guirlanda,venda,Andradas,,,,
+231,2016,2016,2016,,Rosana Dias,18 botas personalizadas,18,7,"R$ 360,00",botas,venda,Andradas,,,,
+232,2016,2016,2016,,Carol Escobar,"25 ursinhas pingentes, 1 Papai Noel, 
+18 pingentes Noel",44,7,"R$ 420,00",boneco e enfeites,venda,Andradas,"8,8",12,,27
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+233,jan./17,jan./17,jan./17,,Maria Célia,"6 personalizadas, 1 Chapolim, 
+1 Chiquinha e 1 Frida",9,7,"R$ 360,00",bonecos,venda,tia,,,,
+234,jan./17,jan./17,jan./17,,Mariana Salgado,1 personalizada,1,7,"R$ 50,00",boneca,venda,indicação,,,,
+235,jan./17,jan./17,jan./17,,Natali,"1 Dora, 1 Diego, 1 Botas e 1 Onça",4,7,"R$ 200,00",bonecos,venda,Britto,7,"11,8",,28
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+236,fev./17,fev./17,fev./17,,Cristiane Casella,"1 Cinderela, 1 Branca de Neve",2,7,"R$ 80,00",bonecas,venda,Andradas,,,,
+237,fev./17,fev./17,fev./17,,Bete,1 Frida,1,7,"R$ 50,00",boneca,venda,Vips,,,,
+238,fev./17,fev./17,fev./17,,Mônica Christol,1 Frida,1,7,"R$ 50,00",boneca,venda,rede,,,,
+239,fev./17,fev./17,fev./17,,Ana Matosinho,"1 Chapeuzinho, 1 Lobo, 1 vovó e 
+1 Caçador",4,7,"R$ 200,00",bonecos,venda,indicação,,,,
+240,fev./17,fev./17,fev./17,,Luiza,1 Bubasaur e 1 Ash,2,7,"R$ 100,00",bonecos,venda,Andradas,7,"11,6",,29
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+241,março/17,março/17,março/17,,Michelle,"1 Harry Potter, 1 Rony, 1 Hermione, 
+1 Draco, 1 Snape, 1 Luna, 1 
+Dumbledore, 1 diretora, 1 Hagrid, 
+1 coruja, 20 corujinhas",30,30,"R$ 0,00",bonecos e lembrancinha,aniversário Miguel,eu,,,,
+242,março/17,março/17,março/17,,Maria Célia,"1 Vovó, 1 Lobo e 1 Chapeuzinho",3,7,"R$ 150,00",bonecos,venda,tia,,,,
+243,março/17,março/17,março/17,,Rosaninha,1 Chapeuzinho,1,7,"R$ 60,00",boneca,venda,Andradas,,,,
+244,março/17,março/17,março/17,,Brígida,3 personagens Clash Royale,3,7,"R$ 150,00",bonecos,venda,Piaget,"9,2","11,5",,30
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+245,abril/17,abril/17,abril/17,,Ana Paula (lobinho),1 guirlanda Corujas,1,7,"R$ 60,00",guirlanda,venda,Carmo,,,,
+246,abril/17,abril/17,abril/17,,Luiza,1 Pikachu,1,7,"R$ 50,00",boneco,venda,Andradas,,,,
+247,abril/17,abril/17,abril/17,,Tatiane,1 varinha Sininho,1,7,"R$ 5,00",varinha,venda,Flávio,,,,
+248,abril/17,abril/17,abril/17,,Carla Roberta,1 Oscar Oásis,1,7,"R$ 50,00",boneco,venda,Flávio,7,"11,3",,31
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+249,maio/17,maio/17,maio/17,,Adriana Paula,1 Harry Potter,1,7,"R$ 50,00",boneco,venda,salão,,,,
+250,maio/17,maio/17,maio/17,,Juliana Judice,1 casinha Chapeuzinho,1,7,"R$ 60,00",casinha,venda,Andradas,,,,
+251,maio/17,maio/17,maio/17,,Ligia,1 almofada unicórnio,1,7,"R$ 50,00",almofada,venda,Piaget,,,,
+252,maio/17,maio/17,maio/17,,Sheila,1 almofada unicórnio,1,7,"R$ 60,00",almofada,venda,prima,7,"11,1",,32
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+253,junho/17,junho/17,junho/17,,Adriana Paula,1 casal junino,2,7,"R$ 40,00",bonecos,venda,salão,,,,
+254,junho/17,junho/17,junho/17,,Adriana Paula,1 Hermione,1,7,"R$ 50,00",boneca,venda,salão,7,11,,33
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+255,julho/17,julho/17,julho/17,,Maria Célia,4 personalizadas e 1 Lobo Mau,5,7,"R$ 250,00",bonecos,venda,tia,7,"10,8",,34
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+256,agosto/17,agosto/17,agosto/17,,Maria Célia,1 personalizada,1,7,"R$ 50,00",boneca,venda,tia,,,,
+257,agosto/17,agosto/17,agosto/17,,Adriana Paula,1 Rony Weasley,1,7,"R$ 50,00",boneco,venda,salão,7,"10,7",,35
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+258,setembro/17,setembro/17,setembro/17,,Adriana Paula,1 Draco Malfoy,1,7,"R$ 50,00",boneco,venda,salão,7,"10,6",,36
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+259,outubro/17,outubro/17,outubro/17,,Maria Célia,1 Cinderela Barbie,1,7,"R$ 150,00",boneca,venda,tia,,,,
+260,outubro/17,outubro/17,outubro/17,,Denise,"1 Cinderella, 1 Príncipe, 1 Branca de 
+Neve e 1 Príncipe",4,7,"R$ 200,00",bonecas,venda,rede,,,,
+261,outubro/17,outubro/17,outubro/17,,Luana Serra,2 gorros de aviador,2,7,"R$ 60,00",gorro,venda,rede,,,,
+262,outubro/17,outubro/17,outubro/17,,Luana Serra,2 rabos de Dino,2,7,"R$ 40,00",fantasia,venda,rede,,,,
+263,outubro/17,outubro/17,outubro/17,,Carol Escobar,"20 jogos de formas geométricas e 
+2 tapetes",22,7,"R$ 340,00",jogos,venda,Andradas,7,"10,5",,37
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+264,nov./17,nov./17,nov./17,,Vanessa,1 painel de texturas,1,7,"R$ 70,00",painel,venda,indicação,,,,
+265,nov./17,nov./17,nov./17,,Jussara (mãe),1 móbile sereias e fadas,1,7,"R$ 70,00",móbile,venda,empregada (mãe),,,,
+266,nov./17,nov./17,nov./17,,Claudia Alonso,3 macacos sem rabo e 1 Maui,4,7,"R$ 200,00",bonecos,venda,madrinha,,,,
+267,nov./17,nov./17,nov./17,,Rosaninha,1 Lobo Mau,1,7,"R$ 60,00",boneco,venda,Andradas,7,"10,4",,38
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+268,dez./17,dez./17,dez./17,,Maria Denise,1 Papai Noel surfista,1,7,"R$ 50,00",boneco,venda,Flávio,,,,
+269,dez./17,dez./17,dez./17,,Denise,"1 Bela, 1 Fera e 1 Aurora",3,7,"R$ 150,00",bonecos,venda,rede,,,,
+270,dez./17,dez./17,dez./17,,Rosana Dias,"20 porta talher Noel, 4 mini guirlandas",24,7,"R$ 440,00",guirlanda e porta talher,venda,Andradas,,,,
+271,dez./17,dez./17,dez./17,,Gisele Machado,10 passarinhos,10,7,"R$ 70,00",bonecos,venda,Andradas,,,,
+272,dez./17,dez./17,dez./17,,Mãe,8 guirlandas de rolha,8,7,"R$ 0,00",guirlandas,presente,mãe,,,,
+273,dez./17,dez./17,dez./17,,Alecris,6 porta talher,6,7,"R$ 120,00",porta talher,venda,bandeirantes,,,,
+274,dez./17,dez./17,dez./17,,Luana Serra,25 enfeites sentimentos,25,7,"R$ 200,00",enfeites Natal,venda,rede,,,,
+275,dez./17,dez./17,dez./17,,Andressa,1 Papai Noel surfista,1,7,"R$ 50,00",boneco,venda,Flávio,,,,
+276,dez./17,dez./17,dez./17,,Denise,1 Bruxa má,"nunca fiz, perdi contato",,,,,indicação,,,,
+277,dez./17,dez./17,dez./17,,Denise,1 flor pequeno príncipe ,"nunca fiz, perdi contato",,,,,indicação,,,,
+278,dez./17,dez./17,dez./17,,Paula Lima,1 presépio de parede,cancelou,,,,,Piaget,,,,
+279,dez./17,dez./17,dez./17,,Simone Nunes,13 enfeites sentimentos,13,7,"R$ 100,00",enfeites Natal,venda,Olívia,,,,
+280,dez./17,dez./17,dez./17,,Rosana Dias,5 corujas árvore peso de porta,5,7,"R$ 100,00",bonecos,venda,Andradas,,,,
+281,dez./17,dez./17,dez./17,,Danda,1 Papai Noel calendário de pendurar,1,7,"R$ 120,00",bonecos,venda,manicure,,,,
+282,dez./17,dez./17,dez./17,,Beatriz Minte,1 Calendário montessori,1,7,"R$ 100,00",painel,venda,indicação,,,,
+283,dez./17,dez./17,dez./17,,Beatriz Minte,1 papai Noel calendário sentado,1,7,"R$ 120,00",boneco,venda,indicação,,,,
+284,dez./17,dez./17,dez./17,,Simone Nunes,1 árvore feltro,cancelou,,,,,Olívia,,,,
+285,dez./17,dez./17,dez./17,,Claudia Alonso,1 personalizada,1,7,"R$ 70,00",bonecas,venda,madrinha,,,,
+286,dez./17,dez./17,dez./17,,Andressa,1 fusca Herbie,1,7,"R$ 50,00",boneco,venda,Flávio,,,,
+287,dez./17,dez./17,dez./17,,Janaína,1 Papai Noel calendário de parede,1,7,"R$ 100,00",boneco,venda,São José,,,,
+288,dez./17,dez./17,dez./17,,Luciana Coelho,1 Papai Noel e 2 mini guirlandas,3,7,"R$ 100,00",boneco e guirlanda,venda,Flávio,,,,
+289,dez./17,dez./17,dez./17,,Ana Paula Damico,1 árvore feltro,1,7,"R$ 220,00",árvore,venda,São José,7,"10,3",,39
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+290,jan./18,jan./18,jan./18,,Maria Célia,"1 Thor, 1 Wolverine",2,7,"R$ 100,00",bonecos,venda,tia,,,,
+291,jan./18,jan./18,jan./18,,Paulo Maneira,60 chaveiros Yellowfant,60,7,"R$ 300,00",chaveiros,venda,primo,,,,
+292,jan./18,jan./18,jan./18,,Luana Serra,6 móbiles nuvem,6,7,"R$ 300,00",móbile,venda,rede,,,,
+293,jan./18,jan./18,jan./18,,Silvia Carla,1 móbile Safari,1,7,"R$ 80,00",móbile,venda,Andradas,,,,
+294,jan./18,jan./18,jan./18,,Marcela Base,1 Frida,1,7,"R$ 50,00",boneca,venda,Andradas ,,,,
+295,jan./18,jan./18,jan./18,,Roberta Bruno,"1 Mulher Maravilha, 1 Moana, 
+1 Fiona, 1 Valente, 1 Bella e 1
+Branca de Neve",6,7,"R$ 300,00",bonecas,venda,rede,,,,
+296,jan./18,jan./18,jan./18,,Roberta Bruno,"1 Alice, 1 Rapunzel, 1 Elsa, 1 
+Cinderela e 1 Sereia",5,7,"R$ 250,00",bonecas,venda,rede,7,"10,2",,40
+pedido,data pedido,data do término,data da entrega,,cliente,pedido,quantidade,tempo de execução,valor,obs,,,,,,
+297,2018,2018,2018,,Angela mãe,1 guirlanda Lar doce lar,1,7,"R$ 0,00",guirlanda,presente,mãe,,,,
+298,2018,2018,2018,,Mônica Teixeira,1 guirlanda passarinhos,1,7,"R$ 80,00",guirlanda,venda,Andradas,,,,
+299,2018,2018,2018,,Danda,1 guirlanda personalizada,1,7,"R$ 80,00",guirlanda,venda,manicure,,,,
+300,2018,2018,2018,,Renata Godoy,2 bonecos personalizados,2,7,"R$ 100,00",bonecos,venda,jazz,,,,
+301,2018,2018,2018,,Adriana Paula,1 guirlanda Harry Potter,1,7,"R$ 80,00",guirlanda,venda,salão,,,,
+302,2018,2018,2018,,Joyce Bandeirante,1 guirlanda personalizada,1,7,"R$ 100,00",guirlanda,venda,bandeirantes,,,,
+303,2018,2018,2018,,Fernanda Camarano,1 guirlanda personalizada,1,7,"R$ 80,00",guirlanda,venda,Andradas,,,,
+304,2018,2018,2018,,Elaine Cidade,1guirlanda personalizada e 1dentista,2,7,"R$ 180,00",guirlandas,venda,Cidade,,,,
+305,2018,2018,2018,,Karina Gabão,1 guirlanda personalizada,1,7,"R$ 80,00",guirlanda,venda,e-Midia,,,,
+306,2018,2018,2018,,Ana Maria Sodré,1 guirlanda Harry Potter,1,7,"R$ 80,00",guirlanda,venda,Andradas,,,,
+307,2018,2018,2018,,Carol Escobar,1 boneca Lol unicórnio,1,7,"R$ 70,00",boneca,venda,Andradas,,,,
+308,2018,2018,2018,,Cristiane Veríssimo,1 guirlanda personalizada,1,7,"R$ 80,00",guirlanda,venda,Andradas,,,,
+309,2018,2018,2018,,Fernanda Camarano,1 casal de bonecos de Neve,2,7,"R$ 50,00",bonecos,venda,Andradas,,,,
+310,2018,2018,2018,,Chefe Paula,1 guirlanda personalizada,1,7,"R$ 120,00",guirlanda,venda,Carmo,,,,
+311,2018,2018,2018,,Cristina Rodrigues,1 guirlanda personalizada,1,7,"R$ 80,00",guirlanda,venda,Andradas,,,,
+312,2018,2018,2018,,Cristina Rodrigues,1 guirlanda personalizada,1,7,"R$ 80,00",guirlanda,venda,Andradas,,,,
+313,2018,2018,2018,,Simone amiga da Cris,1 guirlanda personalizada,1,7,"R$ 100,00",guirlanda,venda,indicação,,,,
+314,2018,2018,2018,,Claudia Alonso,6 travesseirinhos personalizados,6,7,"R$ 180,00",lembrancinha,venda,madrinha,,,,
+315,2018,2018,2018,,Cidinha,1 guirlanda Mickey,1,7,"R$ 80,00",guirlanda,venda,Andradas,,,,
+316,2018,2018,2018,,Claudia Alonso,2 travesseirinhos personalizados,2,7,"R$ 60,00",lembrancinha,venda,madrinha,,,,
+317,2018,2018,2018,,Fabiana Chaquime,2 Lol,2,7,"R$ 140,00",boneca,venda,Piaget,,,,
+318,2018,2018,2018,,Claudia Alonso,3 travesseirinhos personalizados,3,7,"R$ 100,00",lembrancinha,venda,madrinha,7,"9,5",,51
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+319,2019,2019,2019,,Giselda,"1 Lobo Mau, 3 porquinhos e 2 
+árvores",6,7,"R$ 200,00",bonecos,venda,Andradas,,,,
+320,2019,2019,2019,,Michelle,10 coelhos de pendurar no varal,10,7,"R$ 0,00",páscoa,pessoal,eu,,,,
+321,2019,2019,2019,,Simone Cidade,1 Bonequinha de luxo,1,7,"R$ 60,00",boneca,venda,Cidade,,,,
+322,2019,2019,2019,,Vanessa Teodoro,1 presépio,1,7,"R$ 130,00",natal,venda,Cidade,,,,
+323,2019,2019,2019,,Márcia Cidade,1 Bailarina e 1 Chapeuzinho,2,7,"R$ 120,00",bonecas,venda,Cidade,,,,
+324,2019,2019,2019,,Carla Cidade,1 coelho na cenoura,1,7,"R$ 60,00",páscoa,venda,Cidade,,,,
+325,2019,2019,2019,,Adriana Paula,1 coelho na cenoura,1,7,"R$ 60,00",páscoa,venda,salão,,,,
+326,2019,2019,2019,,Jeane adjunta,bonequinhos com velcro pra avental,1,7,"R$ 23,00",bonecos,venda,rede,,,,
+327,2019,2019,2019,,Simone Cidade,1 bonequinha de luxo,1,7,"R$ 60,00",boneca,venda,Cidade,,,,
+328,2019,2019,2019,,Dorcas,6 porta talher Noel,6,7,"R$ 120,00",porta talher,venda,Cidade,,,,
+329,2019,2019,2019,,Regina Alonso,80 dedoches,80,7,"R$ 400,00",dedoches,venda,mãe da madrinha,,,,
+330,2019,2019,2019,,Dorcas,1 bailarina,1,7,"R$ 60,00",boneca,venda,Cidade,,,,
+331,2019,2019,2019,,Marcela Cidade,1 Branca de Neve,1,7,"R$ 60,00",boneca,venda,Cidade,,,,
+332,2019,2019,2019,,Michelle,3 gatinhos,3,7,"R$ 0,00",bonecos,pessoal,eu,,,,
+333,2019,2019,2019,,Vanessa Teodoro,1 boneca personalizada,1,7,"R$ 60,00",boneca,venda,Cidade,,,,
+334,2019,2019,2019,,Michelle,enfeites de árvore Tsum Tsum,105,60,"R$ 0,00",natal,pessoal,eu,,,,
+335,2019,2019,2019,,Juliana Adjunta,2 personalizadas,2,7,"R$ 120,00",bonecas,venda,Prandi,,,,
+336,2019,2019,2019,,Keila,1 personalizada,1,7,"R$ 60,00",boneca,venda,Prandi,,,,
+337,2019,2019,2019,,Keila,1 Chapeuzinho,1,7,"R$ 60,00",boneca,venda,Prandi,,,,
+338,2019,2019,2019,,Keila,1 Lobo Mau,1,7,"R$ 60,00",boneco,venda,Prandi,,,,
+339,2019,2019,2019,,Danda,24 enfeites de árvore,24,7,"R$ 200,00",natal,venda,manicure,,,,
+340,2019,2019,2019,,Regina Alonso,30 dedoches,30,10,"R$ 150,00",dedoches,venda,mãe da madrinha,,,,
+341,2019,2019,2019,,Patricia Miranda,"1 Hello Kit, 1 My Melody e 1 Sapo",3,7,"R$ 150,00",bonecos,venda,infância,,,,
+342,2019,2019,2019,,Marcela Scarante,2 capas de diário,2,7,"R$ 100,00",capa,venda,São José e 28,"9,3","9,4",,60
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+343,5/10/2019,18/10/19,19/10/19,30/11/19,Danda,2 pacotes de enfeite de Natal Mickey,24,14,"R$ 200,00",Natal,venda,manicure,,,,
+344,19/10/19,1/11/2019,15/11/19,15/11/19,Silvana  irmã da Sandra,"1 Moana, 1 Maui, 1 galo e 1 porco",4,14,"R$ 240,00",bonecos,venda,indicação,,,,
+345,20/10/2019,24/10/19,26/10/19,26/10/19,Patricia Miranda,1 My Melody,1,5,"R$ 50,00",bonecos,venda,infância,,,,
+346,22/10/19,PE,25/10/19,25/10/19,Suelaine,1 capa de diário,1,P E,"R$ 50,00",escolar,venda,rede,,,,
+347,25/10/19,2/11/2019,15/11/19,25/11/19,Cristina Rodrigues,1 boneca negra,1,9,"R$ 40,00",boneca pano,venda,Andradas,,,,
+348,26/10/19,27/10/19,28/10/19,28/10/19,Regina Alonso,20 dedoches de passarinho personalizado,20,2,"R$ 100,00",dedoches,venda,mãe da madrinha,,,,
+349,26/1019,30/11/19,2/12/2019,2/12/2019,Regina Alonso,"2 Lilicas personalizadas, 2 estrelas 
+grandes personalizadas e 100 
+estrelinhas",104,35,"R$ 680,00",bonecos,venda,mãe da madrinha,,,,
+350,28/10/19,P E,28/10/19,24/12/19,Claudia Alonso,"1 guirlanda praia e 3 corujinhas de 
+Natal",4,P E,"R$ 220,00","guirlanda e
+ bonecos",venda,madrinha,,,,
+351,29/10/19,P E,2/11/2019,2/11/2019,Milena Freitas,1 guirlanda Noel praia,1,P E,"R$ 100,00",guirlanda,venda,Notre Dame,"8,7","9,4",,61
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+352,2/11/2019,18/11/19,20/11/19,7/12/2019,Yanka,1 Bita,1,17,"R$ 60,00",boneco,venda,manicure,,,,
+353,2/11/2019,8/11/2019,15/11/19,15/11/19,Brígida,1 brazão personalizado,1,7,"R$ 20,00",lembrancinha,venda,Piaget,,,,
+354,4/11/2019,10/11/2019,6/11/2019,17/11/19,Dayse,"1 pocket Bella, 1 pocket Branca de 
+Neve e 1 pocket Fiona",3,7,"R$ 75,00",bonecas,venda,Notre Dame,,,,
+355,6/11/2019,15/11/19,20/11/19,20/11/19,Michelle amiga da Helen,"20 enfeites Mickey - mão, calça e 
+cabeça",20,10,"R$ 120,00",Natal,venda,salão,,,,
+356,6/11/2019,11/11/2019,12/11/2019,12/11/2019,Regina Alonso,20 dedoches passarinho personalizado,20,6,"R$ 100,00",dedoches,venda,mãe da madrinha,,,,
+357,11/11/2019,9/12/2019,9/12/2019,17/12/19,Carol Escobar,20 ursinhas para árvore de Natal,20,28,"R$ 160,00",natal,venda,Andradas,,,,
+358,12/11/2019,16/11/19,17/11/19,17/11/19,Elaine Cidade,2 cachorrinhos,2,5,"R$ 40,00",bonecos,venda,Cidade,,,,
+359,15/11/19,17/11/19,17/11/19,17/11/19,Bruna Sena,"1 guirlanda Disney, 1 enfeite de ár-
+vore Mickey e 4 pingente Mickey",11,3,"R$ 200,00",guirlanda e natal,venda,salão,,,,
+360,17/11/19,29/3/20,29/3/20,29/3/20,Pedro Henrique,nome Gaia no cordão,1,meses,"R$ 0,00",móbile,presente,sobrinho,,,,
+361,18/11/19,4/12/2019,5/12/2019,5/12/2019,Márcia Moutinho,1 guirlanda personalizada,1,17,"R$ 100,00",guirlanda,venda,instagran,,,,
+362,21/11/19,11/12/2019,15/12,2/1/2020,Ana amiga da Cris,1 guirlanda personalizada,1,20,"R$ 80,00",guirlanda,venda,indicação,,,,
+363,24/11/19,15/12/19,15/12/19,15/12/19,Rosana Dias,1 Papai Noel atravessado na árvore,1,21,"R$ 100,00",boneco,venda,Andradas,"11,7","9,4",,62
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+364,9/12/2019,P E,9/12/2019,17/12/19,Carol Escobar,1 capa de diário ,1,P E,"R$ 50,00",escolar,venda,Andradas,,,,
+365,14/12/19,17/12/19,17/12/19,17/12/19,Danda,6 luvas Mickey,6,P E,"R$ 30,00",Natal,venda,manicure,,,,
+366,14/12/19,23/12/19,24/12/19,24/12/19,Claudia Alonso,1 personalizada,1,10,"R$ 60,00",boneca,venda,madrinha,,,,
+367,15/12,20/12/19,24/12/19,24/12/19,Regina Alonso,2 estrelas grandes personalizada,2,6,"R$ 60,00",boneca,venda,mãe da madrinha,,,,
+368,16/12/19,24/12/19,24/12/19,24/12/19,Regina Alonso,2 Lilicas - personalizada,2,9,"R$ 120,00",boneca,venda,mãe da madrinha,5,"9,3",,63
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+369,7/2/2020,5/3/2020,6/3/2020,6/3/2020,Luciana Seinf,1 Ermitão - personalizado,1,26,"R$ 70,00",boneco,venda,rede,26,"9,4",,65
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+370,9/3/2020,P E,10/3/2020,10/3/2020,Alexandra,1 capa de diário,1,P E,"R$ 40,00",escolar,venda,Andradas,,,,
+371,3/3/2020,P E,5/3/2020,11/3/2020,Carla Martins,1 capa de diário,1,P E,"R$ 40,00",escolar,venda,rede,,,,
+372,1/3/2020,10/3/2020,10/3/2020,10/3/2020,Wânia,1 Polvo e 1 peixe,2,10,"R$ 140,00",bonecos,venda,rede,,,,
+373,12/3/2020,15/3/20,16/3/20,16/3/20,Luana Serra,5 capacetes e faixas medievais,5,4,"R$ 250,00",fantasia,venda,rede,,,,
+374,6/3/2020,16/3/20,16/3/20,17/3/20,Martinha,"1 Capa de diário adaptada para 
+caderno",1,10,"R$ 40,00",escolar,venda,Andradas,,,,
+375,6/3/2020,29/3/20,16/6/20,15/5/20,Cristina Rodrigues,1 baleia e 1 caranguejo,2,23,"R$ 140,00",bonecos,venda,Andradas,,,,
+376,11/3/2020,19/3/20,,,Wânia,"1 tartaruga - nunca entregue por
+conta da pandemia",1,8,"R$ 0,00",bonecos,cancelada,rede,"7,8","9,4",,66
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+377,21/4/20,23/4/20,24/4/20,24/4/20,Emília Piedade,"1 enfeite lar doce lar, 1 Anna 
+chaveiro e 1 Nemo chaveiro",3,3,"R$ 115,00","decoração e 
+lembrancinha",venda,Britto,,,,
+378,24/4/20,27/4/20,28/4/20,28/4/20,Emíia Piedade,1 chaveiro Mário,1,3,"R$ 15,00",chaveiros,venda,Britto,3,"9,3",,67
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+379,22/5/20,28/5/20,30/5/20,30/5/20,Yanka,1 placa mesversário,1,7,"R$ 40,00",decoração,venda,manicure,,,,
+380,22/5/20,25/5/20,15/5/20,25/5/20,Juliana Judice,1 gatinho preto anjinho,1,4,"R$ 20,00",boneco,venda,Andradas,,,,
+381,31/5/2020,14/6/20,17/6/20,17/6/20,Karina Gabão,5 bonecas Zen,5,15,"R$ 150,00",boneca,venda,e-Mídia,"8,6","9,3",,68
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+382,3/6/2020,14/6/20,15/6/20,15/6/20,Litz,1 boneca Zen,1,10,"R$ 50,00",boneca,venda,Iveta,,,,
+383,6/6/2020,14/6/20,15/6/20,15/6/20,Emília Piedade,2 bonecas Zen e 1 chaveiro anjo,2,8,"R$ 150,00",boneca,venda,Britto,,,,
+384,13/6/20,18/6/20,27/6/20,27/6/20,Yanka,1 placa de mesversário,1,5,"R$ 40,00",decoração,venda,manicure,,,,
+385,16/6/20,P E,16/6/20,15/7/20,Cristina Rodrigues,1 kit fundo do mar,1,P E,"R$ 700,00",bonecos,venda,Andradas,,,,
+386,17/6/20,24/6/20,24/6/20,24/6/20,Juliana Judice,1 cachorrinho com asas,1,7,"R$ 20,00",bonecos,venda,Andradas,,,,
+387,1/6/2020,2/6/2020,2/6/2020,2/6/2020,Luiz Antonio,1 Branca de Neve,1,2,"R$ 0,00",boneca,presente,pai,"5,3","9,2",,69
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+388,1/7/2020,4/7/2020,5/7/2020,5/7/2020,Emília Piedade,1 boneca Zen,1,4,"R$ 70,00",boneca,venda,Britto,,,,
+389,11/7/2020,22/7/20,24/7/20,24/7/20,Valéria Myrha,1 quiet book Corujinha,1,12,"R$ 100,00",quiet book,venda,igreja,,,,
+390,11/7/2020,22/7/20,24/7/20,24/7/20,Angela mãe,1 quiet book Corujinha,1,12,"R$ 100,00",quiet book,venda,mãe,,,,
+391,12/7/2020,22/7/20,24/7/20,24/7/20,Renata Moura,1 quiet book Corujinha,1,12,"R$ 100,00",quiet book,venda,São José,,,,
+392,15/7/20,23/7/20,30/7/20,30/7/20,Yanka,1 placa de mesversário,1,8,"R$ 40,00",decoração,venda,manicure,,,,
+393,12/7/2020,P E,24/7/20,24/7/20,Juliana Pujol,1 pescaria de ímã,1,P E,"R$ 50,00",escolar,venda,Andradas,8,"9,2",,70
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+394,15/8/20,20/8/20,20/8/20,20/8/20,Yanka,1 placa de mesversário,1,6,"R$ 40,00",decoração,venda,manicure,6,"9,1",,71
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+395,15/9/20,26/9/20,26/9/20,26/9/20,Yanka,1 placa de mesversário,1,10,"R$ 40,00",decoração,venda,manicure,,,,
+396,21/9/20,27/9/20,29/9/20,29/9/20,Keila,2 luvas patinho e 1 luva sereia,3,7,"R$ 105,00",fantoche,venda,Prandi,"8,5","9,1",,72
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+397,5/10/2020,P E,5/10/2020,5/10/2020,Patricia Miranda,1 luva patinho e 1 jogo Qual é a cor?,2,P E,"R$ 80,00",jogo e fantoche,venda,infância,,,,
+398,11/10/2020,23/10/20,27/10/20,15/10/20,Monica teixeira,Árvore de feltro de parede,2,12,"R$ 150,00",natal,venda,Andradas,,,,
+399,1/10/2020,6/10/2020,13/10/20,26/10/20,Dani Britto,1 Malévola,1,5,"R$ 60,00",boneca,venda,Andradas,,,,
+400,1/10/2020,8/10/2020,24/10/20,24/10/20,Cristina Rodrigues,"1 boneca negra de pano e 1 perso-
+nalizada",2,7,"R$ 120,00",bonecas,venda,Andradas,,,,
+401,6/10/2020,PE,7/10/2020,7/10/2020,Regina Alonso,"1 quiet book corujinha e 1 quiet 
+book viés",2,P E,"R$ 230,00",quiet books,venda,mãe da madrinha,,,,
+402,9/10/2020,26/10/20,29/10/20,29/10/20,Andréa Mara,1 árvore de parede,1,17,"R$ 120,00",natal,venda,jazz,,,,
+403,15/10/20,P E,16/10/20,16/10/20,Magda Maximina,1 capa de diário,1,P E,"R$ 30,00",escolar,venda,Cidade,,,,
+404,15/10/20,P E,16/10/20,16/10/20,Carol Escobar,1 capa de diário,1,P E,"R$ 40,00",escolar,venda,Andradas,,,,
+405,19/10/20,30/10/20,3/11/2020,2/11/2020,Fernanda Camarano,1 guirlanda personalizada,1,11,"R$ 70,00",guirlanda,venda,Andradas,,,,
+406,23/10/20,31/10/20,1/11/2020,5/11/2020,Rosana Dias,1 guirlanda personalizada,1,8,"R$ 70,00",guirlanda,venda,Andradas,,,,
+407,24/10/20,PE,24/10/20,27/11/20,Cristina Rodrigues,"1 quiet book das frutas e 1 mini 
+quiet book",2,P E,"R$ 200,00",quiet book,venda,Andradas,,,,
+408,20/10/20,26/10/20,29/10/20,29/10/20,Mônica Teixeira,"1 guirlanda personalizada  e 1 árvore 
+de parede",1,6,"R$ 40,00",decoração,venda,manicure,,,,
+409,29/10/20,P E,30/10/20,12/11/2020,Danda,1 porta papel higienico Noel,1,P E,"R$ 70,00",natal,venda,manicure,5,9,,73
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+410,6/11/2020,P E,6/11/2020,6/11/2020,Juliana Pujol,1 quebra-cabeça diversidade,1,P E,"R$ 45,00",jogo,venda,Andradas,,,,
+411,6/11/2020,7/11/2020,8/11/2020,8/11/2020,Angela mãe,1 flâmula Sagrada Família,1,2,"R$ 0,00",natal,presente,mãe,,,,
+412,8/11/2020,10/11/2020,12/11/2020,15/11/20,Patricia Maneira,"2 porta talher, 1 Flâmula Noel e 1
+porta papel higiênico",4,3,"R$ 100,00",natal,venda,irmã,,,,
+413,8/11/2020,18/11/20,18/11/20,18/11/20,Salete - sogra da Fernanda,1 guirlanda personalizada,1,10,"R$ 70,00",guirlanda,venda,indicação,,,,
+414,11/11/2020,12/11/2020,12/11/2020,12/11/2020,Angela mãe,"1 guirlanda personalizada e 1 
+fruteira com puffys star wars",10,2,"R$ 0,00",natal,presente,mãe,,,,
+415,14/11/20,23/11/20,23/11/20,14/11/20,Andréa Sanches,1 kit de puffys Harry Potter,6,9,"R$ 110,00",natal,venda,Porchat,,,,
+416,13/11/20,P E,13/11/20,13/11/20,Osmary,1 kit de puffys Harry Potter,6,P E,"R$ 110,00",natal,venda,Cidade,,,,
+417,14/11/20,23/11/20,24/11/20,24/11/20,Adriana Paula,1 kit Puffys Harry Potter,6,10,"R$ 110,00",natal,venda,salão,,,,
+418,18/11/20,23/11/20,23/11/20,25/11/20,Mônica Teixeira,"1 Hermione puffy e 2 enfeites senti-
+mentos",3,6,"R$ 30,00",natal,venda,Andradas,,,,
+419,17/11/20,P E,18/11/20,26/11/20,Litz,1 papai Noel zen,1,PE,"R$ 60,00",boneco,venda,Iveta,,,,
+420,17/11/20,2/12/2020,3/12/2020,8/12/2020,Litz,1 personalizado - Gandhi,1,15,"R$ 60,00",boneco,venda,Iveta,,,,
+421,19/11/20,28/11/20,28/11/20,28/11/20,Fernanda Camarano,1 guirlanda personalizada,1,9,"R$ 70,00",guirlanda,venda,Andradas,,,,
+422,23/11/20,28/11/20,28/11/20,28/11/20,Fernanda Camarano,1 guirlanda personalizada,1,6,"R$ 70,00",guirlanda,venda,Andradas,,,,
+423,28/11/20,1/12/2020,3/12/2020,4/12/2020,Deborah Ruffo,1 puffy Darth Vaider e 1 puffy Yoda,2,4,"R$ 40,00",natal,venda,salão,,,,
+424,29/11/20,P E,29/11/20,30/11/20,Janaína Alberto,1 papai Noel surfista,1,P E,"R$ 60,00",boneco,venda,São José,,,,
+425,29/11/20,P E,30/11/20,1/12/2020,Juliana Pujol,1 gato branco na caixa,1,P E,"R$ 40,00",boneco,venda,Andradas,,,,
+426,29/11/20,30/11/20,30/11/20,1/12/2020,Juliana Pujol,2 enfeites de árvore Mickey,2,2,"R$ 40,00",natal,venda,Andradas,,,,
+427,29/11/20,P E,29/11,29/11/20,Valéria Myrha,1 quebra-cabeça da diversidade,1,P E,"R$ 50,00",jogo,venda,igreja,,,,
+428,29/11/20,P E,30/11/20,29/11/20,Salete - sogra da Fernanda,1 árvore de parede,1,P E,"R$ 120,00",natal,venda,indicação,,,,
+429,30/11/20,P E,30/11/20,30/11/20,Ivone,1 flâmula Noel e 1 papai noel surfista,2,P E,"R$ 160,00",natal,venda,Bazar,4,"8,9",,74
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+430,6/12/2020,9/12/2020,9/12/2020,9/12/2020,Laura Gradilone,1 boneca Cacau pretinha,1,4,"R$ 60,00",boneca,venda,Andradas,,,,
+431,10/12/2020,13/12/20,13/12/20,10/12/2020,Danda,1 guirlanda personalizada,1,4,"R$ 100,00",guirlanda,venda,manicure,,,,
+432,10/12/2020,14/12/20,20/12/20,19/12/20,Cristina Rodrigues,1 Cacau Branca e 1 preta,2,5,"R$ 120,00",bonecas,venda,Andradas,,,,
+433,14/12/20,18/12/20,19/12/20,18/12/20,Magda Sá,1 guirlanda personalizada,1,5,"R$ 90,00",guirlanda,venda,Piaget,,,,
+434,18/12/20,21/12/20,21/12/20,21/12/20,Wânia Garcia,2 guirlandas personalizadas,2,4,"R$ 140,00",guirlanda,venda,indicação,,,,
+435,18/12/20,P E,18/12/20,18/12/20,Michelle,18 potes Natal e 1 kit puffy star wars,25,P E,"R$ 0,00",natal,presente,eu,,,,
+436,19/12/20,P E,20/12/20,20/12/20,Lydia,1 coruja Natal com ventosa,1,P E,"R$ 0,00",Natal,presente,Bazar,,,,
+437,19/12/20,P E,20/12/20,22/12/20,Carol Escobar,1 Bota Noel,1,P E,"R$ 30,00",Natal,venda,Andradas,,,,
+438,19/12/20,P E,20/12/20,30/12/20,Litz,3 gatinhos na caixa,3,P E,"R$ 120,00",Natal,venda,Iveta,,,,
+439,19/12/20,P E,20/12/20,20/12/20,Janaína salão,1 papai Noel zen,1,P E,"R$ 60,00",boneco,venda,salão,,,,
+440,19/12/20,P E,30/12/20,30/12/20,Mônica Christol,1 Big book dos animais,1,P E,"R$ 200,00",quiet book,venda,rede,,,,
+441,21/12/20,23/12/20,24/12/20,24/12/20,Naylessa,1 guirlanda personalizada,1,3,"R$ 70,00",guirlanda,venda,Piaget,,,,
+442,21/12/20,23/12/20,23/12/20,23/12/20,Wânia Garcia,1 guirlanda personalizada,1,3,"R$ 90,00",guirlanda,venda,indicação,"2,1","8,8",,75
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+443,12/1/2021,15/1/21,15/1/21,3/2/2021,Arteiras,1 boneca Zen,1,4,"R$ 42,50",boneca,venda,Arteiras,,,,
+444,6/1/2021,P E,6/1/2021,6/1/2021,Arteiras,1 presépio,1,P E,"R$ 110,50",Natal,venda,Arteiras,,,,
+445,19/1/21,22/1/21,22/1/21,22/1/21,Rosaninha,1 Frida,1,4,"R$ 60,00",boneca,venda,Andradas,"2,6","8,7",,76
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+446,11/2/2021,13/2/21,22/2/21,22/2/21,Mônica Falcão,1 enfeite de porta classe,1,10,"R$ 70,00",decoração,venda,Porchat,,,,
+447,23/2/21,26/2/21,26/2/21,26/2/21,Walquiria Ciglio,2 coelhos de varal,2,4,"R$ 50,00",páscoa,venda,igreja,,,,
+448,24/2/21,26/2/21,26/2/21,3/3/2021,Arteiras,1 coelhinho e 30 cenouras,31,3,"R$ 276,25",páscoa,venda,arteiras,,,,
+449,27/2/21,1/3/2021,1/3/2021,1/3/2021,Magda Sá,1 guirlanda Páscoa,1,3,"R$ 80,00",páscoa,venda,Piaget,"8,7","8,7",,77
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+450,10/3/2021,14/3/21,não buscou,,Adriana Paula,1 coelho de varal,1,5,"R$ 0,00",páscoa,venda cancelada,salão,,,,
+451,10/3/2021,14/3/21,16/3/21,16/3/21,Maria Denise,2 ovos embalagens,2,5,"R$ 60,00",páscoa,venda,Flávio,5,"8,6",,78
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+452,1/4/2021,P E,2/4/2021,2/4/2021,Janaína Alberto,1 Coelhinha My,1,P E,"R$ 120,00",Páscoa,venda,São José,,,,
+453,2/4/2021,4/4/2021,4/4/2021,4/4/2021,Luiz Antonio pai,1 elefantinha pano,1,3,"R$ 0,00",boneca pano,presente,pai,"1,5","8,5",,79
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+454,1/5/2021,P E,1/5/2021,1/5/2021,Ana Cristina Clemente,1 boneca Cacau,1,P E,"R$ 60,00",boneca pano,venda,Britto,,,,
+455,1/5/2021,P E,2/5/2021,25/5/21,Cristina Rodrigues,1 boneca My,1,P E,"R$ 250,00",boneca pano,venda,Andradas,,,,
+456,4/5/2021,P E,4/5/2021,10/5/2021,Sandra faxineira,2 bonecas My,2,P E,"R$ 400,00",boneca pano,venda,Faxineira,,,,
+457,19/5/21,22/5/21,22/5/21,22/5/21,Silvana  irmã da Sandra,Família da Peppa Pig,4,4,"R$ 200,00",bonecos ,venda,irmã da Sandra,,,,
+458,20/5/21,23/5/21,27/5/21,27/5/21,Michelle amiga da Ana,1 Mergulhadora e 1 Elefantinha pano,2,4,"R$ 80,00",bonecos,venda,indicação,,,,
+459,31/5/21,P E,1/6/2021,31/5/21,Roberta Bruno,1 boneca My e 1 boneco Tutu,2,P E,"R$ 350,00",bonecos,venda,rede,"1,3","8,4",,80
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+460,6/6/2021,P E,6/6/2021,6/6/2021,Regina Alonso,1 boneca My,1,P E,"R$ 250,00",boneca,venda,mãe da madrinha,,,,
+461,2/6/2021,6/6/2021,8/6/2021,7/6/2021,Silvia Carla,1 móbile Safari,1,5,"R$ 100,00",móbile,venda,Andradas,,,,
+462,7/6/2021,8/6/2021,8/6/2021,7/6/2021,Silvia Carla,1 leãozinho,1,2,"R$ 50,00",boneco,venda,Andradas,,,,
+463,16/6/21,20/7/21,22/7/21,23/7/21,Dani Britto,"1 quadro de chamada e 1 quadro de
+ajudante",2,34,"R$ 100,00",escolar,venda,Andradas,"10,2","8,4",,81
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+464,4/7/2021,P E,4/7/2021,4/7/2021,Claudia Alonso,"1 quiet book corujinha, 1 quiet book
+das frutas e 1 card sensorial",3,P E,"R$ 250,00",quiet book e jogo,venda,madrinha,,,,
+465,20/7/21,11/9/2021,12/9/2021,11/9/2021,Helvina,1 maleta casinha de boneca,1,41,"R$ 90,00",brinquedo,venda,Piaget,"20,5","8,5",,82
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+466,23/8/21,4/9/2021,5/9/2021,4/9/2021,Cenaila,1 efefantinho pano,1,12,"R$ 60,00",boneco,venda,Britto,,,,
+467,26/8/21,P E,26/8/21,30/8/21,Carol Escobar,1 sereia pano,1,P E,"R$ 90,00",boneca,venda,Andradas,6,"8,4",,83
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+468,12/9/2021,28/9/21,28/9/21,12/9/2021,Roberta Bruno,"3 rolinhos almofada, 1 baleia térmica,
+2 tornozeleiras de arroz e 1 kit tapa 
+olho",7,16,"R$ 265,00",decoração,venda,rede,,,,
+469,15/9/21,1/10/2021,10/12/2021,30/9/21,Fabiana França / eu,40 polvinhos do humor,40,15,"R$ 30,00",boneco,venda,eu,,,,
+470,18/9/21,P E,18/9/21,11/12/2021,Carol Escobar,"1 paleta pintor, 1 flâmula Sagrada 
+família, 1 Papai Noel",3,P E,"R$ 310,00","jogo, Natal",venda,Andradas,,,,
+471,4/9/2021,9/9/2021,9/9/2021,17/10/21,Yanka,1 Hulk,1,6,"R$ 80,00",boneco,venda,manicure,,,,
+472,27/9/21,P E,27/9/21,4/10/2021,Sandra faxineira,3 polvinhos do humor,3,P E,"R$ 80,00",bonecos,venda,faxineira,"7,4","8,4",,84
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+473,4/10/2021,P E,4/10/2021,4/10/2021,Silvana  irmã da Sandra,2 polvinhos do humor,2,P E,"R$ 55,00",bonecos,venda,indicação,,,,
+474,3/10/2021,P E,3/10/2021,3/10/2021,Grace Santiago,1 polvinho do humor,1,P E,"R$ 30,00",boneco,venda,Andradas,,,,
+475,2/10/2021,P E,4/10/2021,2/10/2021,Bruna Katzor,2 polvinhos do humor,2,P E,"R$ 55,00",bonecos,venda,Porchat,,,,
+476,5/10/2021,P E,9/10/2021,9/10/2021,Cristina Rodrigues,4 polvinhos do humor,4,P E,"R$ 100,00",bonecos,venda,Andradas,,,,
+477,12/10/2021,P E,13/10/21,22/10/21,Iara ,1 polvinho do humor,1,P E,"R$ 30,00",boneco,venda,Porchat,,,,
+478,30/10/21,P E,30/10/21,30/10/21,Alecris,1 enfeite de porta Noel surfista pq,1,P E,"R$ 50,00",natal,venda,bandeirantes,,,,
+479,23/10/21,P E,24/10/21,24/10/21,Patricia Maneira e mãe,2 kits de puffys Noel,6,P E,"R$ 100,00",Natal,venda,irmã,,,,
+480,25/10/21,P E,25/10/21,25/10/21,José Roberto,1 kit puffys Noel,6,P E,"R$ 100,00",Natal,venda,tio,0,"8,3",,85
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+481,7/11/2021,20/11/21,22/11/21,9/11/2021,Aline Cage,"1 guirlanda personalizada, 1 kit puffy
+Star Wars, 10 puffys personalizados,
+1 kit puffy Noel, 1 kit puffy Harry 
+Potter, 1 Papai Noel Surfista e 1 
+polvinho do humor",32,13,"R$ 740,00",Natal,venda,indicação,,,,
+482,7/11/2021,P E,25/11/21,26/11/21,Fabiana França,1 enfeite de porta Rena,1,P E,"R$ 60,00",Natal,venda,Andradas,,,,
+483,11/11/2021,P E,12/11/2021,12/11/2021,Simone Stefani,1 kit puffys Harry Potter,6,P E,"R$ 100,00",Natal,venda,São José,,,,
+484,11/11/2021,21/11/21,21/11/21,21/11/21,Danda,"1 capa de vaso sanitário, 1 kit de 
+Puffy Noel, 2 kits de Puffy Alice",19,10,"R$ 400,00",Natal,venda,manicure,,,,
+485,11/11/2021,26/11/21,30/11/21,29/11/21,Bruna Sena,2 kits enfeite Mickey,12,15,"R$ 200,00",Natal,venda,salão,,,,
+486,13/11/21,P E,15/11/21,15/11/21,Tânia Luz,1 kit puffys Noel,6,P E,"R$ 100,00",Natal,venda,Andradas,,,,
+487,15/11/21,27/11/21,27/11/21,27/11/21,Maria Célia,2 porta papel higiênico Noel,2,12,"R$ 100,00",Natal,venda,tia,,,,
+488,17/11,PE,25/11/21,25/11/21,Sônia Souza,1 Flâmula Sagrada Família,1,P E,"R$ 150,00",Natal,venda,Andradas,,,,
+489,20/11/21,P E,20/11/21,20/11/21,Milena Lazanha,1 papai Noel surfista,1,P E,"R$ 100,00",Natal,venda,bandeirantes,,,,
+490,25/11/21,2/12/2021,3/12/2021,17/12/21,Iara ,1 capa para vaso sanitário,1,8,"R$ 100,00",Natal,venda,Porchat,,,,
+491,26/11/21,30/11/21,1/12/2021,1/12/2021,Juliana Pujol,1 Alice,1,5,"R$ 100,00",boneca,venda,Andradas,"5,7","8,2",,86
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+492,9/12/2021,P E,9/12/2021,9/12/2021,Regina Alonso,"1 quebra-cabeça animais e 1 Sereia
+pano",2,P E,"R$ 210,00",jogo e boneca,venda,mãe da madrinha,,,,
+493,14/12/21,P E,14/2/21,20/12/21,Sandra faxineira,2 polvinhos do humor,2,P E,"R$ 50,00",lembrancinha,venda,faxineira,,,,
+494,21/12/21,27/12/21,28/12/21,29/12/21,Jussara (mãe),1 guirlanda princesas,1,7,"R$ 100,00",guirlanda,venda,empregada da mãe,,,,
+495,29/12/21,PE,29/12/21,29/12/21,Claudia Alonso,1 boneca Cacau,1,P E,"R$ 70,00",boneca pano,venda,madrinha,"1,8","8,1",,87
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+496,22/1/22,P E,15/2/22,15/2/22,Cristina Rodrigues,1 feirinha,1,P E,"R$ 200,00",brinquedo,venda,Andradas,,,,
+497,23/1/22,P E,2/2/2022,2/2/2022,Janaína Alberto,1 feirinha,1,P E,"R$ 200,00",brinquedo,venda,São José,,,,
+498,23/1/22,P E,30/1/22,30/1/22,Elenilda Amorim,1 feirinha,1,P E,"R$ 200,00",brinquedo,venda,rede,,,,
+499,25/1/22,31/1/22,1/2/2022,25/1/22,Silvia Carla,1 móbile Safari e 1 leãozinho,1,7,"R$ 150,00",decoração,venda,Andradas,,,,
+500,28/1/22,29/1/22,31/1/22,31/1/22,Roberta Bruno,1 boneca Julie,1,2,"R$ 100,00",boneca,venda,rede,"1,8","7,9",,89
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+501,5/2/2022,P E,5/2/2022,2/3/2022,Carol Escobar,1 enfeite de madeira Páscoa,1,P E,"R$ 120,00",páscoa,venda,Andradas,,,,
+502,20/2/22,28/2/22,2/3/2022,2/3/2022,Wânia rede,1 tapete sensorial,1,8,"R$ 130,00",escolar,venda,rede,,,,
+503,26/2/22,7/3/2022,8/3/2022,13/3/22,Carol Escobar,1 tapete alfabeto,1,10,"R$ 130,00",escolar,venda,Andradas,6,"7,8",,90
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+504,15/3/22,PE,15/3/22,25/3/22,Carol Escobar,6 sacolinhas de Páscoa,6,P E,"R$ 120,00",páscoa,venda,Andradas,,,,
+505,15/3/22,P E,25/3/22,25/3/22,Tânia Luz,6 fivelas Páscoa,6,P E,"R$ 90,00",páscoa,venda,Andradas,,,,
+506,16/3/22,P E,16/3/22,25/3/22,Litz,3 sacolinhas de Páscoa,3,P E,"R$ 60,00",páscoa,venda,Iveta,,,,
+507,16/3/22,20/3/22,21/3/22,25/3/22,Litz,5 coelhinhos no palito Timart,5,5,"R$ 100,00",páscoa,venda,Iveta,,,,
+508,17/3/22,18/3/22,21/3/22,25/3/22,Carla Jacy,1 dedoche coelho,1,1,"R$ 10,00",páscoa,venda,Andradas,,,,
+509,20/3/22,24/3/22,25/3/22,27/3/22,Walquiria Ciglio,2 coelhos no palito Timart,2,5,"R$ 40,00",páscoa,venda,igreja,,,,
+510,21/3/22,3/4/2022,6/4/2022,7/4/2022,Karen Porchat,"1 fantoche tartaruga e 1 fantoche
+caracol",2,14,"R$ 50,00",fantoche,venda,Porchat,,,,
+511,25/3/22,10/4/2022,11/4/2022,12/4/2022,Porchat,203 dedoches,203,17,"R$ 1.000,00",dedoches,venda,Porchat,,,,
+512,25/3/22,27/3/22,28/3/22,30/3/22,Lúcia Porchat,1 almofada rolinho,1,3,"R$ 40,00",decoração,venda,Porchat,5,"7,7",,91
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+513,2/4/2022,14/4/22,14/4/22,2/4/2022,Regina Alonso,"3 sacolinhas páscoa e 2 coelhinhos 
+Timart",5,12,"R$ 100,00",páscoa,venda,mãe da madrinha,,,,
+514,2/4/2022,P E,4/4/2022,4/4/2022,Cristhiane Borges,3 sacolinhas Páscoa,3,P E,"R$ 60,00",páscoa,venda,Porchat,,,,
+515,2/4/2022,P E,7/4/2022,7/4/2022,Silmara Coelho,1 coelhinha bolsa,1,P E,"R$ 30,00",páscoa,venda,Britto,,,,
+516,2/4/2022,P E,6/4/2022,25/4/22,Iara ,1 card sensorial,1,P E,"R$ 45,00",páscoa,venda,Porchat,,,,
+517,3/4/2022,13/4/22,13/4/22,13/4/22,Fabiana França,2 coelhinhas bolsa,2,10,"R$ 60,00",páscoa,venda,Andradas,,,,
+518,5/4/2022,P E,7/4/2022,7/4/2022,Roberta PAEI,2 coelhos no varal,2,P E,"R$ 80,00",páscoa,venda,Andradas,,,,
+519,6/4/2022,14/5/22,16/5/22,18/5/22,Carol Escobar,"1 fantoche tartaruga e 1 fantoche 
+Caracol",2,38,"R$ 75,00",fantoche,venda,Andradas,,,,
+520,6/4/2022,9/5/2022,10/5/2022,3/6/2022,amiga da Karen Porchat,1 fantoche tartaruga,1,33,"R$ 25,00",fantoche,venda,indicação,,,,
+521,8/4/2022,P E,8/4/2022,22/4/22,Cristina Rodrigues,20 sacolinhas de páscoa,20,P E,"R$ 400,00",páscoa,venda,Andradas,,,,
+522,9/4/2022,P E,9/4/2022,9/4/2022,Patricia Miranda,1 pescaria de ímã,1,P E,"R$ 50,00",jogo,venda,infância,,,,
+523,9/4/2022,P E,9/4/2022,9/4/2022,Wilson Maneira,1 jogo da memória de picolés,1,P E,"R$ 50,00",jogo,venda,primo,,,,
+524,12/4/2022,P E,12/4/2022,12/4/2022,Elaine Zipoli,1 sacolinha de páscoa,1,P E,"R$ 25,00",páscoa,venda,Porchat,,,,
+525,13/4/22,P E,13/4/22,20/4/22,Sandra faxineira,"6 sacolinhas de páscoa e 7 dedoches
+coelhinhos",13,P E,"R$ 170,00",páscoa,venda,faxineira,,,,
+526,16/4/22,P E,17/4/22,16/4/22,Patricia Miranda,1 almofadão,1,P E,"R$ 100,00",decoração,venda,infância,,,,
+527,23/4/22,12/6/2022,12/6/2022,14/6/22,Janaína Alberto,20 sacolinhas Homem Aranha,20,50,"R$ 260,00",lembrancinha,venda,São José,,,,
+528,26/4/22,2/5/2022,2/5/2022,26/4/22,Elsa Virtuoso,67 bolsas de chita,67,7,"R$ 190,00",lembrancinha,venda,Elsa,,,,
+529,29/4/22,PE,29/4/22,25/5/22,Litz,3 capas de diário,3,P E,"R$ 90,00",escolar,venda,Iveta,,,,
+530,29/4/22,P E,29/4/22,16/5/22,Marilice,2 capas de diário,2,P E,"R$ 60,00",escolar,venda,Porchat,"8,3","7,7",,92
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+531,3/5/2022,15/5/22,16/5/22,15/5/22,Roberta PAEI,2 bebês engatinhando - personalizado,1,12,"R$ 100,00",bonecos,venda,Porchat,,,,
+532,4/5/2022,14/7/22,15/7/22,15/7/22,Carla Jacy,1 rato e 6 fantoches personalizados,7,70,"R$ 200,00",boneco e fantoches,venda,Andradas,,,,
+533,4/5/2022,7/5/2022,9/5/2022,10/6/2022,Elsa Virtuoso,3 fantoches peixinhos virtuoso,3,4,"R$ 0,00",fantoches,doação,Elsa,,,,
+534,8/5/2022,P E,8/5/2022,24/6/22,Cristina Rodrigues,1 boneca Julie,1,P E,"R$ 100,00",boneca,venda,Andradas,,,,
+535,1/5/2022,5/5/2022,5/5/2022,5/5/2022,Michelle,28 bolsas de chita,28,5,"R$ 0,00",lembrancinha,doação,eu,"18,2","7,8",,93
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+536,9/6/2022,17/6/22,20/6/22,24/6/22,Maria Fernanda rede,"1 feirinha, 3 melões, 3 melancias e 
+3 abóboras",10,9,"R$ 290,00",brinquedo,venda,rede,,,,
+537,15/6/22,18/6/22,20/6/22,20/6/22,Marilice,1 capa de livro,1,4,"R$ 30,00",escolar,venda,Porchat,,,,
+538,14/6/22,22/6,22/6/22,22/6/22,Elsa Virtuoso,2 faixas de miss/mister caipirinha,2,9,"R$ 0,00",fantasia,doação,Elsa,,,,
+539,20/6/22,16/7/22,20/6/22,19/6/22,Márcia Crispim,1 fofolete vermelha,1,26,"R$ 20,00",boneca,venda,Olívia,,,,
+540,21/6/22,16/7/22,20/7/22,5/8/2022,Ana Cristina Base,1 capa de caderno,1,26,"R$ 25,00",escolar,venda,Andradas,"14,8","7,8",,94
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+541,7/7/2022,17/7/22,20/7/22,20/7/22,Viviane Macedo,1 Rainha Má,1,10,"R$ 80,00",boneca,venda,Andradas,,,,
+542,8/7/2022,18/7/22,12/10/2022,15/8/22,Cristina Rodrigues,1 joaninha,1,10,"R$ 80,00",boneca,venda,Andradas,,,,
+543,22/7/22,PE,25/7/22,25/7/22,Carla jacy,Quiet book casinha de bonecas,1,P E,"R$ 300,00",quiet book,venda,Andradas,,,,
+544,22/7/22,31/7/22,1/8/2022,15/8/22,Litz,1 Arca de Noé,1,10,"R$ 180,00",brinquedo,venda,Iveta,,,,
+545,23/7/22,5/8/2022,8/8/2022,5/8/2022,Roberta PAEI,1 móbile bailarina,1,14,"R$ 120,00",móbile,venda,Porchat,,,,
+546,25/7/22,P E,25/7/22,26/7/22,Viviane Macedo,1 capa de diário,1,P E,"R$ 30,00",escolar,venda,Andradas,"7,3","7,8",,95
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+547,1/8/2022,7/8/2022,8/8/2022,8/8/2022,Roberta Bruno,"2 rolinhos 80x20cm (cortar 40x92cm), 
+1 rolinho 30x7com (cortar 27x40cm), 
+2 pares de tornozeleira com velcro 
+40x15cm (cortar 32x42cm) e 5 saqui-
+nhos algodão cru com zíper invisível 
+9x18cm (cortar 20 x 20cm)",10,7,"R$ 250,00",decoração,venda,rede,,,,
+548,4/8/2022,14/8/22,15/8/22,15/8/22,Marilice,1 capa de livro,1,10,"R$ 30,00",escolar,venda,Porchat,"8,5","7,8",,96
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+549,3/9/2022,27/9/22,28/9/22,29/9/22,Janaina Alberto,1 quiet book Sereia,1,24,"R$ 150,00",quiet book,venda,São José,,,,
+550,5/9/2022,8/10/2022,8/10/2022,8/10/2022,Michelle,"25 cavalinhos de pau e 25 unicórnios
+ de pau",50,33,"R$ 0,00",brinquedos,presente,eu,,,,
+551,5/9/2022,24/9/22,24/9/22,24/9/22,Michelle,1 patinho colorido,1,20,"R$ 0,00",escolar,presente,eu,,,,
+552,12/9/2022,14/9/22,8/11/2022,8/11/2022,Susana PAEI,1 capa para vaso sanitário Noel azul,1,3,"R$ 100,00",Natal,venda,Porchat,,,,
+553,22/9/22,15/10/22,16/10/22,16/10/22,Kelly Veridiane,4 bonecos personalizados,4,24,"R$ 200,00",bonecos,venda,Elsa,,,,
+554,23/9/22,PE,24/9/22,14/10/22,Cristina Rodrigues,1 boneca Julie,1,P E,"R$ 100,00",boneca,venda,Andradas,,,,
+555,28/9/22,4/10/2022,5/10/2022,26/10/22,Marilice,1 patinho colorido,1,7,"R$ 100,00",escolar,venda,Porchat,"14,5","7,9",,97
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+556,4/10/2022,11/10/2022,12/10/2022,11/10/2022,Cristina Rodrigues,25 marcadores Coruja elástico,25,8,"R$ 375,00",lembrancinha,venda,Andradas,,,,
+557,7/10/2022,23/10/22,3/11/2022,11/11/2022,Litz,"1 kit estrelinhas gatinhos e 1 kit
+estrelinhas cachorrinhos",12,17,"R$ 200,00",Natal,venda,Iveta,,,,
+558,9/10/2022,P E,10/10/2022,10/10/2022,Regina Alonso,2 unicórnios de pau,2,P E,"R$ 80,00",brinquedo,venda,mãe da madrinha,,,,
+559,13/10/22,P E,14/10/22,14/10/22,Danda,"1 unicórnio de pau e 1 cavalinho de
+pau",2,P E,"R$ 80,00",brinquedo,venda,manicure,,,,
+560,17/10/22,5/11/2022,8/11/2022,25/11/22,Litz,1 urso Yoga,1,20,"R$ 180,00",boneco,venda,Iveta,,,,
+561,27/10/22,P E,31/10/22,14/11/22,Carol Real,"1 árvore com luz e gatinho e 1 árvore
+3D grande",2,P E,"R$ 160,00",Natal,venda,Porchat,,,,
+562,28/10/22,2/12/2022,10/12/2022,15/12/22,Cristina Rodrigues,27 rótulos para vidro Natal,27,33,"R$ 540,00",Natal,venda,Andradas,"11,1","7,9",,98
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+563,3/11/2022,P E,3/11/2022,4/11/2022,Cristhiane Borges,1 capa de diário,1,P E,"R$ 30,00",escolar,venda,Porchat,,,,
+564,4/11/2022,6/11/2022,7/11/2022,15/11/22,Elaine Cidade,1 cachorrinho Timart,1,3,"R$ 25,00",boneco,venda,Cidade,,,,
+565,6/11/2022,P E,6/11/2022,6/11/2022,Maria Célia,"1 kit Pequeno príncipe, 1 kit cachor-
+rinhos, 1 kit Mágico de Oz e 1 kit
+Noel",24,P E,"R$ 350,00",Natal,venda,tia,,,,
+566,6/11/2022,P E,6/11/2022,14/11/22,Mônica Teixieira,1 boneca Emília,1,P E,"R$ 50,00",boneca,venda,Andradas,,,,
+567,10/11/2022,25/11/22,28/11/22,28/11/22,Rosaninha,1 guirlanda personalizada,1,15,"R$ 100,00",guirlanda,venda,Andradas,,,,
+568,10/11/2022,31/12/23,1/2/2023,8/2/2023,Marilice,16 bichinhos do mar pequenos,16,40,"R$ 250,00",lembrancinha,venda,Porchat,,,,
+569,8/11/2022,P E,8/11/2022,11/11/2022,Carla Jacy,1 rótulo para vidro  Papai Noel,1,P E,"R$ 25,00",Natal,venda,Andradas,,,,
+570,11/11/2022,18/11/22,19/11/22,19/11/22,Danda,2 kits estrelinhas Copa,12,7,"R$ 200,00",Natal,venda,manicure,,,,
+571,12/11/2022,14/11/22,15/11/22,15/11/22,Hilda Medeiros,2 bonecas personalizadas,2,3,"R$ 200,00",bonecas,venda,Rio,,,,
+572,14/11/22,25/11/22,29/11/22,1/12/2022,Claudia Alonso,25 estrelinhas Pequeno Príncipe,25,11,"R$ 375,00",Natal,venda,madrinha,,,,
+573,16/11/22,20/11/22,22/11/22,22/11/22,Karen Porchat,1 Jack cabeça e pulsos para árvore,1,5,"R$ 100,00",Natal,venda,Porchat,,,,
+574,25/11/22,PE ,27/11/22,25/11/22,Glaucia Fukakusa,1 kit Puffys Natal,6,P E,"R$ 100,00",Natal,venda,infância,,,,
+575,26/11/22,3/12/2022,18/12/22,3/12/2022,Bete Vips,1 guirlanda de estrelas personalizada,1,8,"R$ 180,00",Natal,venda,vips,,,,
+576,27/11/22,P E,27/11/22,27/11/22,Regina Alonso,1 kit Pequeno Príncipe,6,P E,"R$ 100,00",Natal,venda,mãe da madrinha,,,,
+577,27/11/22,P E,28/11/22,8/12/2022,Mônica Teixieira,"1 estrelinha de cachorrinho cocker,
+1 estrelinha pequeno príncipe",2,P E,"R$ 40,00",Natal,venda,Andradas,,,,
+578,28/11/22,P E,28/11/22,28/11/22,Ana Célia,1 estrelinha de cachorrinha rosa,1,P E,"R$ 20,00",Natal,venda,Andradas,,,,
+579,28/11/22,P E,28/11/22,30/11/22,Monique mãe da Gabi,"1 papai Noel na lua e 1 enfeite de 
+porta Papai Noel na Chaminé",2,P E,"R$ 200,00",Natal,venda,Andradas,,,,
+580,28/11/22,P E,28/11/22,30/11/22,Rhuama Base,1 kit Puffys Monstrinhos,6,P E,"R$ 100,00",Natal,venda,Andradas,,,,
+581,29/11/22,6/12/2022,6/12/2022,15/12/22,Litz,"1 kit puffys Harry Potter e 1 kit de 
+puffys Star Wars",13,8,"R$ 200,00",Natal,venda,Iveta,"5,2","7,8",,99
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+582,3/12/2022,13/12/22,18/12/22,17/12/22,Isadora filha da Bete,1 guirlanda personalizada,1,10,"R$ 100,00",Natal,venda,Vips,,,,
+583,8/12/2022,P E,8/12/2022,10/12/2022,Lilian amiga da Dani Taborda,1 kit Harry Potter,6,P E,"R$ 100,00",Natal,venda,indicação,,,,
+584,8/12/2022,11/12/2022,13/12/22,13/12/22,Ana Cláudia do Margareth,1 kit Harry Potter,6,4,"R$ 100,00",Natal,venda,indicação,,,,
+585,9/12/2022,15/12/22,16/12/22,16/12/22,Luiz Antonio pai,1 Branca de Neve,1,7,"R$ 100,00",boneca,venda,pai,,,,
+586,10/12/2022,P E,14/12/22,12/12/2022,Renata canal 4,"6 puffys, sendo 1 Yoda e o kit Harry 
+Potter sem a Luna e 1 guirlanda
+Papai Noel praia",7,P E,"R$ 180,00",Natal,venda,indicação,,,,
+587,14/12/22,18/12/22,19/12/22,18/12/22,Claudia Alonso,12 estrelinhas Noel,12,5,"R$ 180,00",Natal,venda,madrinha,,,,
+588,17/12/22,P E,23/12/22,17/12/22,Beatriz Vilalta,"1 unicórnio de pau e 1 enfeite de 
+porta Snoopy presente",2,P E,"R$ 40,00",brinquedo e Natal,"venda e
+presente",nora,,,,
+589,18/12/22,P E,18/12/22,22/12/22,Cristina Rodrigues,1 unicórnio de pau,1,P E,"R$ 40,00",brinquedo,venda,Andradas,,,,
+590,23/12/22,P E,23/12/22,23/12/22,Cristina Rodrigues,"2 unicórnios de pau e 1 rótulo para
+vidro Natal",3,P E,"R$ 100,00",brinquedo e Natal,venda,Andradas,"2,8","7,7",,100
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+591,1/1/2023,P E,2/1/2023,2/1/2023,Carla Jacy,"1 jogo do sorvete com cards e 
+pregadores",1,P E,"R$ 60,00",brinquedo,venda,Andradas,,,,
+592,13/1/23,18/03/23,19/03/23,24/03/23,Cristina Rodrigues,"bonecos Julie - 10, 1 casal índio, 1 
+casal branco, 1 casal negro, 1 casal
+ruivo, 1 casal japonês e 5 sacolas",10,65,"R$ 850,00",bonecos pano,venda,Andradas,em 4x,,,
+593,7/1/2023,16/1/23,19/1/23,16/1/23,Carla Jacy,1 livro Gato Xadrez,1,10,"R$ 130,00",livro,venda,Andradas,25,"7,8",,101
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+594,13/2/23,22/2/23,23/2/23,23/2/23,Kelly Katzor,1 Senhor Alfabeto e 1 Sra. Numeral,2,9,"R$ 140,00",bonecos,venda,Elsa,,,,
+595,14/2/23,PE,23/2/23,23/2/23,Cibele ,1 pescaria de animais marinhos,1,P E,"R$ 60,00",jogo,venda,Dolores,,,,
+596,23/2/23,2/3/2023,3/3/2023,23/2/23,Roberta Moura,1 Sra. Numeral,1,8,"R$ 80,00",boneca,venda,Porchat,"8,5","7,8",,102
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+597,1/3/2023,PE,2/3/2023,3-Jan,Roberta Moura,2 coelhos de varal,2,PE,"R$ 80,00",Páscoa,venda,Porchat,,,,
+598,1/3/2023,3/3/2023,4/3/2023,4/3/2023,Karen Porchat,1 personalizado pq Por favor,1,3,"R$ 25,00",boneco,venda,Porchat,,,,
+599,2/3/2023,11/3/2023,13/3/23,13/3/23,Roberta Moura,1 coelha de varal lilás,1,9,"R$ 40,00",Páscoa,venda,Porchat,,,,
+600,9/3/2023,20/03/23,21/3/23,24/3/23,Karen Porchat,1 personalizado pq Por favor azul,1,11,"R$ 25,00",boneco,venda,Porchat,,,,
+602,9/3/2023,26/3/23,27/3/23,24/3/23,Roberta Moura,1 Sr. Alfabeto,1,16,"R$ 80,00",boneco pano,venda,Porchat,,,,
+601,11/3/2023,19/3/23,21/3/23,25/3/23,Daniela Taborda,1 borboleta/lagarta,1,8,"R$ 80,00",boneco feltro,venda,Porchat,,,,
+603,16/3/23,22/3/23,23/3/23,23/3/23,Roberta Moura,2 capas de caderno,2,6,"R$ 60,00",escolar,venda,Porchat,,,,
+604,20/3/23,PE,20/3/23,20/3/23,Carla Jacy,1 mini quiet book de Páscoa,1,PE,"R$ 90,00",quiet book,venda,Andradas,,,,
+605,24/3/23,3/4/2023,9/4/2023,14/4/23,Mônica Teixeira,1 boneca Julie negra com maria chiq,1,10,"R$ 100,00",boneca pano,venda,Andradas,em 2x,,,
+606,27/03/23,4/4/2023,5/4/2023,5/4/2023,Ariane Porchat,1 chamadinha,1,8,"R$ 70,00",escolar,venda,Porchat,em 2x,,,
+607,29/03/23,1/4/2023,3/4/2023,31/03/23,Roberta Moura,20 saquinhos de feltro,20,3,"R$ 40,00",lembrancinha,venda,Porchat,,,,
+608,29/03/23,PE,30/03/23,30/03/23,Carol Rizzo,1 coelhinha My,1,PE,"R$ 120,00",boneca pano,venda,Dolores,"6,1","7,7",,103
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+609,2/4/2023,PE,7/4/2023,7/4/2023,Patricia Miranda,10 coelhinhos para barra de chocolate,10,PE,"R$ 250,00",páscoa,venda,comadre,,,,
+610,3/4/2023,PE,4/4/2023,4/4/2023,Roberta Moura,1 descanso de caneca coelha lilás,1,PE,"R$ 30,00",páscoa,venda,Porchat,,,,
+611,8/4/2023,7/5/2023,12/6/2023,29/5/23,Daniela Taborda,3 mini Shrek e 2 mini Ginger,5,29,"R$ 75,00",boneco feltro,venda,Porchat,,,,
+612,14/4/23,23/4/23,26/4/23,27/4/23,Marilice,1 sacola com 10 carneirinhos,1,9,"R$ 150,00",escolar,venda,Porchat,em 2x,,,
+613,14/4/23,29/4/23,30/4/23,30/4/23,Fernanda Camaraño,1 enfeite de porta e 1 enfeite de mesa gatinhos,2,15,"R$ 190,00",decoração,venda,Andradas,,,,
+614,15/4/23,24/4/23,24/4/23,25/4/23,Carla Jacy,1 trio de cubos,1,9,"R$ 120,00",brinquedo,venda,Andradas,,,,
+615,27/4/23,7/5/2023,8/5/2023,16/5/23,Marilice,1 sacola com 1 carneirinho pequena,1,10,"R$ 40,00",bonecos,venda,Porchat,"10,2","7,7",,104
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+616,7/5/2023,18/5/23,7/6/2023,6/6/2023,Roberta Moura,1 personalizada de pé,1,11,"R$ 80,00",boneca feltro,venda,Porchat,,,,
+617,9/5/2023,3/8/2023,18/8/23,21/8/23,Maria Célia,15 fantoches e 15 sacolinhas personalizadas,30,86,"R$ 750,00",fantoches/lembrancinhas,venda,tia,,,,
+618,16/5/23,21/5/23,23/5/23,16/5/23,Roberta Bruno,30 chaveiros flork,30,6,"R$ 360,00",lembrancinha,venda,rede,,,,
+619,19/05/23,29/05/23,2/6/2023,1/6/2023,Roberta Bruno,50 gatinhos 10cm tecidos variados,50,10,"R$ 500,00",lembrancinha,venda,rede,2x,,,
+620,22/05/23,31/05/23,5/6/2023,5/6/2023,Carla Jacy,1 batata quente,1,9,"R$ 40,00",jogo,venda,andradas,,,,
+621,22/05/23,31/05/23,5/6/2023,23/6/23,Cristina Rodrigues,1 batata quente,1,9,"R$ 40,00",jogo,venda,andradas,,,,
+622,30/05/23,4/6/2023,5/6/2023,30/6/23,Cristina Rodrigues,9 personagens Timart marinhos,9,5,"R$ 135,00",bonecos feltro,venda,andradas,"19,4","7,8",,105
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+623,2/6/2023,PE,2/6/2023,2/6/2023,Geny Base Dolores,1 cavalinho de pau,1,PE,"R$ 40,00",brinquedo,venda,Dolores,,,,
+624,3/6/2023,9/6/2023,12/6/2023,11/6/2023,Lúcia Porchat,1 Baiacu,1,6,"R$ 25,00",boneco feltro,venda,Porchat,,,,
+625,3/6/2023,9/6/2023,10/6/2023,3/6/2023,Miguel Maneira,1 personalizada,1,6,"R$ 50,00",boneca feltro,venda,filho,,,,
+626,5/6/2023,11/6/2023,12/6/2023,16/06/23,Marilice,1 sacolinha e dois cachorrinhos,3,6,"R$ 55,00",lembrancinha,venda,Porchat,,,,
+627,7/6/2023,10/6/2023,12/6/2023,23/6/23,Litz,29 pregadores + 3 de brinde,32,3,"R$ 145,00",escolar,venda,Iveta,,,,
+628,8/6/2023,24/6/23,25/6/23,25/8/23,Cristina Rodrigues,16 personagens Timart marinhos,16,16,"R$ 240,00",bonecos feltro,venda,Andradas,,,,
+629,12/6/2023,27/6/23,27/6/23,27/6/23,Fernanda Dolores,20 personagens caixinha de música,20,15,"R$ 300,00",bonecos feltro,venda,Dolores,,,,
+630,12/6/2023,29/6/23,29/6/23,1/8/2023,Cibele Dolores,15 personagens caixinha de música,15,17,"R$ 225,00",bonecos feltro,venda,Dolores,2x,,,
+631,12/6/2023,4/7/2023,5/7/2023,5/7/2023,Neusinha Dolores,"Kit 3 porquinhos, Lobo Mau e casinhas",7,22,"R$ 200,00",escolar,venda,Dolores,,,,
+632,12/6/2023,10/7/2023,12/7/2023,25/8/23,Cristina Rodrigues,2 bonecos Julie - 1 cega e 1 amputado,2,27,"R$ 160,00",bonecos pano,venda,Andradas,,,,
+633,13/6/23,PE,27/6/23,27/6/23,Fernanda Dolores,1 pescaria de ímã,1,PE,"R$ 60,00",brinquedo,venda,Dolores,,,,
+634,14/6/23,11/7/2023,20/7/23,25/7/23,Cláudia de Paula,1 personalizado feltro capoeira,1,27,"R$ 80,00",boneco feltro,venda,Dolores,,,,
+635,14/6/23,3/9/2023,4/9/2023,26/9/23,Cláudia de Paula,1 painel presépio,1,84,"R$ 230,00",Natal,venda,Dolores,,,,
+636,16/6/23,30/6/23,1/7/2023,30/6/23,Jussara (mãe),1 estrela de Davi de pendurar,1,14,"R$ 60,00",decoração,venda,mãe,,,,
+637,19/6/23,12/7/2023,12/7/2023,25/9/23,Cristina Rodrigues,1 Julie de Frida,1,23,"R$ 80,00",boneca pano,venda,Andradas,,,,
+638,23/6/23,7/7/2023,12/7/2023,12/7/2023,Tatiana CP Dolores,1 guirlanda 2 princesas,1,14,"R$ 80,00",decoração,venda,Dolores,,,,
+639,27/6/23,12/7/2023,12/7/2023,12/7/2023,Fabiana Base Porchat,2 girassóis,2,15,"R$ 60,00",decoração,venda,Porchat,"17,3","7,9",,106
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+640,2/7/2023,cancelado,-,-,Mateus Franco,1 boneca feltro personalizada,1,-,"R$ 100,00",boneco feltro,venda,Miguel,,,,
+641,3/7/2023,9/7/2023,20/7/23,3/7/2023,Karen Porchat,2 corações no palito com faixa bordada,1,6,"R$ 50,00",decoração,venda,Porchat,,,,
+642,4/7/2023,19/7/23,20/7/23,5/8/2023,Sandra Lapetina,13 bichinhos de caixinha de música,13,15,"R$ 195,00",boneco feltro,venda,Dolores,2x,,,
+643,4/7/2023,3/9/2023,4/9/2023,25/10/23,Cristina Rodrigues,4 bebês Orixás,4,60,"R$ 240,00",boneco feltro,venda,Andradas,,,,
+644,20/7/23,7/8/2023,7/8/2023,7/8/2023,Rosana Aquino,"1 abelha, 1 grilo e 1 formiga",3,18,"R$ 60,00",boneco feltro,venda,Dolores,,,,
+645,26/7/23,8/8/2023,9/8/2023,15/8/23,Marilice,2 estrela de Davi de pendurar,2,13,"R$ 120,00",decoração,venda,Porchat,,,,
+646,26/7/23,12/8/2023,14/8/23,16/8/23,Cláudia de Paula,2 fantoches - menina e menino,2,18,"R$ 80,00",escolar,venda,Dolores,,,,
+647,26/7/23,20/8/23,21/8/23,21/8/23,Rosana Aquino,"1 pato, 1 lenhador, 1 carpinteiro e 1 tronco",4,25,"R$ 80,00",escolar,venda,Dolores,,,,
+648,30/7/23,PE,7/8/2023,7/8/2023,Carla Jacy,1 cachorrinho de argolas,1,PE,"R$ 100,00",brinquedo,venda,Andradas,"19,3",8,,107
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+649,2/8/2023,21/8/23,22/8/23,25/8/23,Litz,1 painel de chamada,1,19,"R$ 90,00",escolar,venda,Iveta,,,,
+650,3/8/2023,6/8/2023,11/8/2023,3/8/2023,Laura Villas,1 cavalo de fogo e uma boneca ,2,3,"R$ 150,00",boneco feltro,venda,prima,,,,
+651,5/8/2023,26/8/23,28/8/23,29/8/23,Sandra Lapetina,"1 elefante, 1 galinha, 1 tartaruga, 1 cobra, 1 cachorro e 1 gato",6,20,"R$ 90,00",boneco feltro,venda,Dolores,,,,
+652,8/8/2023,14/8/23,14/8/23,14/8/23,Cris Reis,1 grilo,1,6,"R$ 20,00",boneco feltro,venda,Dolores,,,,
+653,8-Oct,29/8/23,29/8/23,29/8/23,Michelle Maneira,"1 naninha raposa, 1 naninha gato e 1 Branca de Neve luxo",3,18,"R$ 0,00",bonecos pano e feltro,presentes,eu,,,,
+654,10/8/2023,15/8/23,20/8/23,10/8/2023,Angela mãe,1 estrela de Davi,1,6,"R$ 0,00",decoração,presente,mãe,,,,
+655,14/8/23,26/8/23,26/8/23,1/9/2023,Marilice,1 estrela de Davi e 1 Espírito Santo,2,12,"R$ 100,00",decoração,venda,Porchat,,,,
+656,14/8/23,27/8/23,28/8/23,29/8/23,Angélica Otero,2 chaveiros cachorro personalizado,2,13,"R$ 30,00",lembrancinha,venda,Dolores,,,,
+657,21/8/23,PE,21/8/23,25/8/23,Carla Jacy,1 Jogo Qual é a Cor?,1,PE,"R$ 50,00",brinquedo,venda,Andradas,,,,
+658,21/8/23,PE,21/8/23,24/11/23,Cristina Rodrigues,1 boneca Julie negra e 1 mini quiet book,2,PE,"R$ 170,00",boneco pano e quiet book,venda,Andradas,,,,
+659,21/8/23,8/9/2023,11/9/2023,23/9/23,Carla Jacy,1 quiet book A casa e seu dono,1,18,"R$ 150,00",quiet book,venda,Andradas,,,,
+660,21/8/23,8/9/2023,11/9/2023,25/1023,Cristina Rodrigues,1 quiet book A casa e seu dono,1,18,"R$ 150,00",quiet book,venda,Andradas,,,,
+661,21/8/23,22/9/23,25/9/23,23/12/23,Cristina Rodrigues,"1 Nanã, 1 Omulu e 1 Oxalá - bebês Orixás",3,31,"R$ 180,00",bonecos feltro,venda,Andradas,,,,
+662,21/8/23,PE,21/8/23,23/12/23,Cristina Rodrigues,1 jogo pareamento numérico,1,PE,"R$ 90,00",brinquedo,venda,Andradas,,,,
+663,29/8/23,8/9/2023,12/9/2023,12/9/2023,Lourdes Porchat,1 Jacaré Joca,1,10,"R$ 70,00",brinquedo,venda,Porchat,,,,
+664,29/8/23,9/9/2023,11/9/2023,25/01/23,Cristina Rodrigues,1 Hipopótama,1,11,"R$ 100,00",boneco feltro,venda,Andradas,,,,
+665,29/8/23,21/9/23,21/9/23,25/9/23,Desirèe Lima,3 bonecos Julie negros,3,23,"R$ 240,00",boneco pano,venda,Andradas,,,,
+666,30/8/23,5/9/2023,5/9/2023,18/9/23,Marilice,2 Espírito Santo porta,2,6,"R$ 80,00",decoração,venda,Porchat,,,,
+667,30/8/23,13/9/23,13/9/23,13/9/23,Mãe,7 Espírito Santo porta,7,14,"R$ 0,00",decoração,presente,mãe,,,,
+668,31/8/23,1/9/2023,2/9/2023,31/8/23,Ricielle,1 Pelezinho,1,2,"R$ 60,00",decoração,venda,indicação,,,,
+669,31/8/23,23/9/23,23/9/23,23/9/23,Michelle,1 bota salto Natal,1,23,"R$ 0,00",Natal,presente,eu,,,,108
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+670,5/9/2023,PE,21/9/23,25/10/23,Desirèe Lima,2 feirinhas,2,PE,"R$ 400,00",brinquedo,venda,Andradas,,,,
+671,6/9/2023,25/9/23,24/10/23,24/11/23,Desirèe Lima,3 bonecos Julie família indígena,3,19,"R$ 230,00",boneco pano,venda,Andradas,,,,
+672,6/9/2023,27/10/23,26/11/23,24/11/23,Desirèe Lima,1restaurante e 1 kit panelinha,2,51,"R$ 340,00",brinquedos,venda,Andradas,,,,
+673,14/9/23,18/9/23,19/9/23,16/10/23,Marilice,2 Espírito Santo porta,2,4,"R$ 80,00",decoração,venda,Porchat,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+674,4/10/2023,9/10/2023,11/10/2023,11/10/2023,Ana Carolina Pereira,1 Pascal (Rapunzel),1,5,"R$ 60,00",boneco feltro,venda,Porchat,,,,
+675,4/10/2023,31/10/23,7/11/2023,4/10/2023,Denise Dolores,"1 painel de histórias com as histórias dos 3 porquinhos, Chapeuzinho Vermelho, João e Maria e Cachinhos Dourados",5,27,"R$ 400,00",escolar,venda,Dolores,,,,
+676,4/10/2023,25/11/23,27/11/23,27/11/23,Denise Dolores,"Caixa Musical - jacaré, borboleta, pintinho, pombinha, baleia, barata, paatinho, aranha, caraanguejo, sapo, peixe, formiga, minhoca, elefante, galinha, tartaruga, cobra, gato, cachorro",19,50,"R$ 285,00",escolar,venda,Dolores,,,,
+677,6/10/2023,22/10/23,24/10/23,25/10/23,Daniela Taborda,1 fazendinha e 1 pista de carrinhos,2,16,"R$ 180,00",brinquedo,venda,Porchat,,,,
+678,11/10/2023,23/10/23,25/10/23,25/10/23,Danda,1 bota de salto de Natal,1,12,"R$ 50,00",Natal,venda,salão,,,,
+679,16/10/23,Cancelado,-,-,Cibele Dolores,Personagens bíblicos,8,-,"R$ 120,00",bonecos feltro,venda,Dolores,,,,
+680,16/10/23,21/10/23,22/10/23,25/10/23,Cristina,14 sacolas,14,4,"R$ 70,00",sacolas,venda,Andradas,,,,
+681,16/10/23,22/10/23,23/10/23,25/10/23,Carla Jacy,6 Noel Bag,6,6,"R$ 120,00",Natal,venda,Andradas,,,,
+682,19/10/23,4/11/2023,9/11/2023,24/11/23,Marilice,2 sacolinhas com ovelhinhas,4,5,"R$ 80,00",lembrancinha,venda,Porchat,,,,
+683,24/10/23,4/11/2023,11-Jun,29/11/23,Fabiana Base Porchat,1 árvore com girassol na ponta,1,10,"R$ 120,00",Natal,venda,Porchat,,,,
+684,24/10/23,26/10/23,6/11/2023,30/10/23,Nalu Porchat,6 estrelas Noel,6,2,"R$ 100,00",Natal,venda,Porchat,,,,
+685,25/10/23,PE,25/10/23,25/10/23,Danda,1 tampa de vaso Noel,1,PE,"R$ 100,00",Natal,venda,salão,,,,
+686,25/10/23,PE,25/10/23,22/11/23,Danda,1 guirlanda Noel praia,1,PE,"R$ 80,00",Natal,venda,salão,,,,
+687,25/10/23,PE,25/10/23,22/11/23,Danda,1 enfeite de porta placas sentimentos Natal,1,PE,"R$ 150,00",Natal,venda,salão,,,,
+688,25/10/23,PE,25/10/23,23/12/23,Danda,1 Papai e 1 Mamãe Noel de pijama,2,PE,"R$ 360,00",Natal,venda,salão,,,,
+689,25/10/23,25/11/23,26/11/23,6/12/2023,Desirée Lima,"1 frango assado, 1 mercadinho e 1 café da manhã",3,30,"R$ 480,00",brinquedos,venda,Andradas,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+690,6/11/2023,PE,7/11/2023,9/11/2023,Nalu Porchat,6 estrelinhas Noel,6,PE,"R$ 100,00",Natal,venda,Porchat,,,,
+691,6/11/2023,15/11/23,17/11/23,17/11/23,Karen Porchat,7 enfeites de Natal do estranho mundo de Jack,7,9,"R$ 120,00",Natal,venda,Porchat,,,,
+692,9/11/2023,PE,10/11/2023,12/11/2023,Carol Rizzo,1 kit puffys Noel e 1 kit de puffys presépio,12,PE,"R$ 200,00",Natal,venda,Dolores,,,,
+693,10/11/2023,15/11/23,16/11/23,16/11/23,Álvaro enteado da Elaine,1 guirlanda personalizada ,1,5,"R$ 100,00",Natal,venda,Cidade,,,,
+694,13/11/23,30/01/24,6/2/2024,24/05/2024,Cristina Rodrigues,"kit restaurante, frango, panelinhas, mercado e café da manhã",5,78,"R$ 820,00",brinquedos,venda,Andradas,,,,
+695,13/11/23,11/1/2023,6/2/2024,24/05/2024,Cristina Rodrigues,1 feirinha,1,59,"R$ 200,00",brinquedos,venda,Andradas,,,,
+696,13/11/23,18/02/24,19/02/24,13/06/2024,Cristina Rodrigues,1 cachorrinho de argolas,1,94,"R$ 100,00",brinquedos,venda,Andradas,,,,
+697,13/11/23,11/1/2024,1/2/2024,24/11/23,Carla Jacy,1 feirinha,1,59,"R$ 200,00",brinquedos,venda,Andradas,,,,
+698,13/11/23,30/01/24,1/2/2024,23/02/24,Carla Jacy,"kit restaurante, frango, panelinhas, mercado e café da manhã",5,79,"R$ 820,00",brinquedos,venda,Andradas,,,,
+699,13/11/23,PE,13/11/23,23/02/24,Cristina Rodrigues,14 Noel Bag,14,PE,"R$ 280,00",Natal,venda,Andradas,,,,
+700,14/11/23,20/11/23,24/11/23,24/11/23,Carla Jacy,36 pinturas em Ecobag e 13 chaveiros de flores na lã,49,6,"R$ 245,00",lembrancinha,venda,Andradas,,,,
+701,22/11/23,PE,24/11/23,24/11/23,Tânia,1 puffys Harry e 1 Puffy Star wars,13,PE,"R$ 220,00",Natal,venda,Andradas,,,,
+702,23/11/23,26/11/23,27/11/23,28/11/23,Isabela Calderon,1 guirlanda personalizada ,1,4,"R$ 140,00",Natal,venda,SP Instagran,,,,
+703,25/11/23,9/12/2023,12/12/2023,12/12/2023,Thaís Saraiva,kit feirinha personalizado - equivalente a 4,4,14,"R$ 750,00",brinquedos,venda,Rede,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+704,5/12/2023,13/12/23,14/12/23,14/12/23,Rosana Dolores,1 boneca personalizada,1,8,"R$ 100,00",boneca feltro,venda,Dolores,,,,
+705,5/12/2023,17/12/23,18/12/23,25/06/24,Cristina Rodrigues,1 bola sensorial e 1 quiet book baby animais,2,12,"R$ 200,00",brinquedos,venda,Andradas,,,,
+706,7/12/2023,10/12/2023,11/12/2023,11/12/2023,Claudia Igreja,3 Espírito Santo,3,3,"R$ 180,00",decoração,venda,Igreja,,,,
+707,8/12/2023,PE,9/12/2023,9/12/2023,Regina Alonso,1 rena com roupa,1,PE,"R$ 100,00",Natal,venda,mae da madrinha,,,,
+708,9/12/2023,13/12/23,14/12/23,22/12/23,Litz,1 saia de árvore personalizada,1,4,"R$ 100,00",Natal,venda,Iveta,,,,
+709,9/12/2023,PE,18/12/23,9/12/2023,Roberta Bruno,1 enfeite placas Natal e 1 kit de Puffys Harry Potter,7,PE,"R$ 250,00",Natal,venda,rede,,,,
+710,9/12/2023,12/12/2023,18/12/23,9/12/2023,Roberta Bruno,1 guirlanda personalizada e 1 kit puffys Harry Potter,7,3,"R$ 200,00",Natal,venda,rede,,,,
+711,13/12/23,PE,13/12/23,13/12/23,Carol Rizzo,1 flâmula Noel azul,1,PE,"R$ 80,00",Natal,venda,Dolores,,,,
+712,13/12/23,PE,13/12/23,15/12/23,Valéria Dolores,1 guirlanda Noel praia,1,PE,"R$ 80,00",Natal,venda,Dolores,,,,
+713,13/12/23,PE,13/12/23,15/12/23,Michella Ruiz,3 estrelinhas de gatinhos,3,PE,"R$ 60,00",Natal,venda,Dolores,,,,
+714,13/12/23,PE,13/12/23,14/12/23,Rosana Aquino,1 kit puffys Noel,6,PE,"R$ 100,00",Natal,venda,Dolores,,,,
+715,14/12/23,14/12/23,15/12/23,14/12/23,Marcela Santos,2 sacolas pintadas com chaveiro,2,1,"R$ 80,00",lembrancinha,venda,rede,,,,
+716,15/12/23,17/12/23,18/12/23,25/06/24,Cristina Rodrigues,1 bola sensorial,1,3,"R$ 100,00",brinquedo,venda,Andradas,,,,
+717,15/12/23,23/03/24,3/4/2024,3/4/2024,Yanka,1 urso com macacão de bebê - Memory bear,1,100,"R$ 100,00",boneco pano,venda,salão,,,,
+718,15/12/23,17/12/23,17/12/23,17/12/23,Michelle,17 camisetas pintadas com frase,17,3,"R$ 0,00",lembrancinha,presente,eu,,,,
+719,19/12/23,11/2/2024,18/02/24,12/2/2024,Cláudia de Paula,2 bonecos nordestinos personalizados,2,54,"R$ 200,00",boneco feltro,venda,Dolores,,,,
+720,23/12/23,PE,23/12/23,25/07/24,Cristina Rodrigues,1 boneca Julie pequena e 1 trio de cubos,2,PE,"R$ 180,00",boneca pano/brinquedo,venda,Andradas,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+721,2/1/2024,14/01/23,15/01/23,15/01/23,Yasmin,"1 chamadinha, 1 calendário, 1 cartaz aniversário e 1 guirlanda de animais marinhos",4,12,"R$ 230,00",escolar,venda,Olivia,,,,
+722,9/1/2024,PE,9/1/2024,13/01/24,Carla Jacy,1 fofolete lilás,1,PE,"R$ 20,00",boneca pano,venda,Andradas,,,,
+723,9/1/2024,25/02/24,27/02/24,25/07/24,cristina,1 bola sensorial,1,46,"R$ 100,00",brinquedo,venda,Andradas,,,,
+724,9/1/2024,12/1/2024,15/01/24,15/01/24,Michelle Maneira,4 pinturas em camisetas,4,3,"R$ 0,00",diversos,presente,eu,,,,
+725,18/01/24,26/01/24,29/01/24,28/01/24,Taís amiga da Yasmin,"1 cobra, 1 Anna e 1 Elsa dedoche com cabeça cheia",3,8,"R$ 45,00",bonecos feltro,venda,indicação,,,,
+726,21/01/24,13/02/24,19/02/24,23/08/24,Cristina Rodrigues, 1 livro Gato Xadrez,1,23,"R$ 140,00",quiet book,venda,Andradas,,,,
+727,28/01/24,7/4/2024,23/04/24,23/08/24,Cristina Rodrigues,personagens caixinha de música - aranha / patinho / alecrim / sapo/ sapinha / cobra / tomate / ratinho / pintinho amarelinho ,9,70,"R$ 180,00",bonecos feltro,venda,Andradas,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+728,1/2/2024,1/2/2024,2/2/2024,2/2/2024,Mônica Varela,30 folhas adesivadas/plastificadas,30,1,"R$ 45,00",papelaria,venda,Porchat,,,,
+729,1/2/2024,3/2/2024,5/2/2024,5/2/2024,Karen Porchat,20 folhas adesivas / plastificadas,20,2,"R$ 30,00",papelaria,venda,Porchat,,,,
+730,1/2/2024,1/2/2024,2/3/2024,1/2/2024,Rosana Bernardo,12 folhas adesivas,12,1,"R$ 18,00",papelaria,venda,Porchat,,,,
+731,1/2/2024,12/2/2024,12/2/2024,23/02/24,Carla Jacy,1 quiet book baby com nome na capa,1,11,"R$ 120,00",quiet book,venda,Andradas,,,,
+732,2/2/2024,3/2/2024,3/2/2024,4/2/2024,Mônica Teixeira,8 folhas adesivas / plastificadas,8,1,"R$ 12,00",papelaria,venda,Andradas,,,,
+733,2/2/2024,4/2/2024,5/2/2024,7/2/2024,Litz,27 folhas adesivas / plastificadas,27,2,"R$ 40,50",papelaria,venda,Iveta,,,,
+734,7/2/2024,18/02/24,21/02/24,21/02/24,Yanka,1 galinha pintadinha,1,11,"R$ 100,00",boneco feltro,venda,Salão,,,,
+735,7/2/2024,17/02/24,19/02/24,23/02/24,Litz,"1 cartaz aniversário, 1 calendário, folhas adesivas",3,11,"R$ 229,00",escolar,venda,Iveta,,,,
+736,7/2/2024,28/07/24,1/8/2024,24/01/25,Cristina Rodrigues,"1 feirinha, 1 kit frango, restaurante, mercadinho, café da manhã e panelinhas",6,171,"R$ 1.020,00",brinquedos,venda,Andradas,,,,
+737,15/02/24,6/4/2024,6/4/2024,25/04/24,Carla Jacy,Menininhos e menininhas,2,51,"R$ 200,00",bonecos feltro,venda,Andradas,,,,
+738,15/02/24,20/03/24,20/03/24,20/03/24,Michelle Maneira,Bolas montessoris,12,34,"R$ 0,00",brinquedos,material,eu,,,,
+739,19/02/24,17/03/24,18/03/24,23/02/24,Carla Jacy,1 maleta médica,1,27,"R$ 120,00",brinquedos,venda,Andradas,,,,
+740,21/02/24,22/02/24,22/02/24,22/02/24,Karen Porchat,2 folhas adesivas,2,1,"R$ 3,00",papelaria,venda,Porchat,,,,
+741,21/02/24,22/02/24,25/02/24,25/02/24,Mônica Teixeira,5 folhas adesivas,5,3,"R$ 7,50",papelaria,venda,Andradas,,,,
+742,29/02/24,17/03/24',18/03/24,18/03/24,Cristiane Costa,1 chamadinha borboletas,1,17,"R$ 130,00",escolar,venda,Dolores,,,,
+743,29/02/24,29/02/24,29/02/24,29/02/24,Rosana Bernardo,2 folhas adesivas,2,1,"R$ 3,00",papelaria,venda,Porchat,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+744,1/3/2024,PE,7/3/2024,23/03/24,Carla Jacy,1 porta barra de chocolate e 1 sacola Páscoa,2,PE,"R$ 50,00",páscoa,venda,Andradas,,,,
+745,7/3/2024,13/03/24,14/03/24,14/03/24,Cristina Libras,2 mãos articuladas,2,6,"R$ 140,00",escolar,venda,Porchat,,,,
+746,7/3/2024,16/03/24,26/03/24,7/3/2024,Cristina Rodrigues,10 sacolas,10,9,"R$ 80,00",sacolas,venda,Andradas,,,,
+747,12/3/2024,29/03/24,2/4/2024,2/4/2024,Carol Rizzo,2 bonecos Julie negros,2,17,"R$ 200,00",bonecos pano,venda,Dolores,,,,
+748,12/3/2024,PE,12/3/2024,25/09/24,Cristina Rodrigues,1 boneca Tatá e 1 boneca Mallu,2,PE,"R$ 120,00",bonecas pano,venda,Andradas,,,,
+749,12/3/2024,PE,12/3/2024,25/10/24,Cristina Rodrigues,1 raposa Dominic e 1 bola sensorial,2,PE,"R$ 200,00",boneca pano e brinquedo,venda,Andradas,,,,
+750,15/03/24,16/03/24,18/03/24,26/03/24,Marilice,6 folhas adesivas,6,1,"R$ 10,00",papelaria,venda,Porchat,,,,
+751,15/03/24,16/03/24,20/03/24,03/052024,Litz,5 folhas adesivas + 5 plastificações pequenas,10,1,"R$ 10,00",papelaria,venda,Porchat,,,,
+752,17/03/24,PE,17/03/24,17/03/24,Ana Vizinha,1 maleta médica,1,PE,"R$ 120,00",brinquedo,venda,vizinha,,,,
+753,18/03/24,20/03/24,20/03/24,18/03/24,Rosana Bernardo,3 folhas adesivas,3,2,"R$ 10,00",papelaria,venda,Porchat,,,,
+754,22/03/24,15/05/24,15/05/24,15/05/24,Desirèe Lima,1 família negra com muda de roupa,3,54,"R$ 280,00",boneco pano,venda,Andradas,,,,
+755,22/03/24,14/05/24,15/05/24,14/06/24,Desirèe Lima,1 família japonesa com muda de roupa,3,54,"R$ 280,00",boneco pano,venda,Andradas,,,,
+756,22/03/24,14/05/24,15/05/24,25/06/24,Desirèe Lima,1 família branca com muda de roupa,3,54,"R$ 280,00",boneco pano,venda,Andradas,,,,
+757,22/03/24,14/04/24,15/05/24,15/04/2024,Desirèe Lima,1 família parda com muda de roupa,3,23,"R$ 280,00",boneco pano,venda,Andradas,,,,
+758,23/03/24,21/04/24,23/04/24,25/04/24,Carla Jacy,1 livro Casa Sonolenta,1,30,"R$ 150,00",quiet book,venda,Andradas,,,,
+759,23/03/24,PE,24/03/24,24/03/24,Regina Alonso,"2 tapete caneca, e coelhos para barra de chocolate e 2 sacolinhas de Páscoa",6,PE,"R$ 150,00",Páscoa,venda,mãe da madrinha,,,,
+760,25/03/24,PE,25/03/24,25/03/24,Taís amiga da Yasmin,1 dedoche coelhinho,1,PE,"R$ 10,00",Páscoa,venda,indicação,,,,
+761,26/03/24,PE,26/03/24,25/03/25,Cristina Rodrigues,16 sacolas Páscoa e 10 coelhos para barra de chocolate,26,PE,"R$ 650,00",Páscoa,venda,Andradas,,,,
+762,27/03/24,PE,27/03/24,25/04/25,Cristina Rodrigues,20 sacolinhas Páscoa,20,PE,"R$ 500,00",Páscoa,venda,Andradas,,,,
+763,29/03/24,30/03/24,1/4/2024,1/4/2024,Letícia Miranda,1 boneco personalizado nadador,1,2,"R$ 100,00",boneco feltro,venda,Margareth,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+764,3/4/2024,18/04/24,19/04/24,19/04/24,Viviam Aguiar,1 Lilo para mesa de festa,1,15,"R$ 120,00",boneca feltro,venda,indicação da Thaís,,,,
+765,7/4/2024,25/04/24,26/04/24,26/04/24,Juliana Pujol,"1 kit menininha com 3 roupas, mochila e bolsa",1,18,"R$ 140,00",boneca feltro,venda,Andradas,,,,
+766,8/4/2024,14/05/24,26/06/24,25/09/24,Cristina Rodrigues,"1 barata, 1 minhoca e 1 minhoco",3,36,"R$ 60,00",boneco feltro,venda,Andradas,,,,
+767,11/4/2024,26/04/24,29/04/24,30/05/2024,Daniela Taborda,1 personalizado Dinossauro,1,15,"R$ 120,00",boneco feltro,venda,Andradas,,,,
+768,11/4/2024,18/05/24,20/05/24,30/05/2024,Daniela Taborda,1 personalizado Tiny Chef,1,37,"R$ 70,00",boneco feltro,venda,Andradas,,,,
+769,18/04/2024,28/04/24,29/04/24,28/04/24,Fernanda Santos,2 Memory Bear,2,10,"R$ 200,00",boneco pano,venda,Porchat,,,,
+770,23/04/24,28/04/24,29/04/24,29/04/24,Karen Porchat,1 caixa esquema corporal rosto,1,5,"R$ 80,00",brinquedo,venda,Porchat,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+771,1/5/2024,7/6/2024,26/06/24,25/04/25,Cristina Rodrigues,1 livro Bom dia todas as cores,1,37,"R$ 200,00",quiet book,venda,Andradas,,,,
+772,1/5/2024,7/6/2024,8/6/2024,24/05/2024,Carla Jacy,1 livro Bom dia todas as cores,1,37,"R$ 200,00",quiet book,venda,Andradas,,,,
+773,4/5/2024,5/5/2024,5/5/2024,5/5/2024,Michelle Maneira,Sachês,30,1,"R$ 0,00",lembrancinha,,eu,,,,
+774,7/5/2024,19/05/24,20/05/24,20/05/24,Letícia Miranda,1 menininha de avental de nutricionista,1,12,"R$ 60,00",boneca feltro,venda,Margareth,,,,
+775,8/5/2024,26/05/24,27/05/24,28/05/24,Patrícia B1 Margareth,4 gomos de laranja com velcro para se unirem,4,18,"R$ 20,00",brinquedo,venda,Margareth,,,,
+776,8/5/2024,8/5/2024,9/5/2024,9/5/2024,Wânia,19 saquinhos para sachês,19,1,"R$ 38,00",lembrancinha,venda,Indicação,,,,
+777,8/5/2024,8/5/2024,9/5/2024,9/5/2024,Pétala,18 saquinhos para sachês,18,1,"R$ 36,00",lembrancinha,venda,Margareth,,,,
+778,8/5/2024,8/5/2024,9/5/2024,16/05/24,Glauciane,17 saquinhos para sachês,17,1,"R$ 34,00",lembrancinha,venda,Porchat,,,,
+779,8/5/2024,8/5/2024,9/5/2024,9/5/2024,Clariana,16 saquinhos para sachês,16,1,"R$ 32,00",lembrancinha,venda,Porchat,,,,
+780,11/5/2024,19/05/24,20/05/24,19/05/24,Michelle Maneira,1 naninha pequeno príncipe para doação RS,1,8,"R$ 0,00",boneco feltro,,eu,,,,
+781,11/5/2024,4/8/2023,4/8/2023,4/8/2023,Michelle Maneira,1 boneca Esperança RS,1,85,"R$ 0,00",boneca pano,,eu,,,,
+782,13/05/24,PE,14/05/24,21/05/24,Wânia rede,2 saquinhos para sachê,2,PE,"R$ 4,00",lembrancinha,venda,Indicação,,,,
+783,14/05/24,25/05/24,25/05/24,25/05/24,Irene Andradas,1 teatro de fantoches e fantoches seu Lobato,2,11,"R$ 340,00",fantoches,venda,Andradas,,,,
+784,14/05/24,9/10/2024,9/10/2024,9/10/2024,Michelle Maneira,17 naninhas pintinho amarelinho,17,147,"R$ 0,00",brinquedo,,eu,,,,
+785,15/05/24,13/06/24,17/06/24,14/06/24,Carla Jacy,2 bonecos Julie negros - casal,2,29,"R$ 200,00",boneca pano,venda,Andradas,,,,
+786,21/05/24,10/6/2024,11/6/2024,15/07/24,Desirèe Lima,1 boneca Julie com 1 mudas de roupa,1,20,"R$ 120,00",boneca pano,venda,Andradas,,,,
+787,23/05/24,10/6/2024,11/6/2024,15/07/24,Desirèe Lima,1 casal bonecos Julie pardo,2,19,"R$ 120,00",boneca pano,venda,Andradas,,,,
+788,23/05/24,23/06/24,24/06/24,23/06/24,Thaís Saraiva,1 casal bonecos Julie juninos e 2 faixas e coroas Miss e Mister caipirinha,4,30,"R$ 0,00",boneca pano,doação,Indicação,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+789,4/6/2024,16/06/24,17/06/24,17/06/24,Anaí Dolores,1 baleia e 1 jacaré,2,12,"R$ 200,00",boneco feltro,venda,Dolores,,,,
+790,14/06/24,25/06/24,26/06/24,25/06/24,Priscila Salinas,2 capas de bíblia,2,11,"R$ 100,00",escolar,venda,indicação,,,,
+791,21/06/24,26/06/24,27/06/24,24/06/24,Thaís Saraiva,2 bonecos Julie caipiras,2,5,"R$ 170,00",bonecos pano,venda,indicação,,,,
+792,21/06/24,23/06/24,24/06/24,26/06/24,Litz Araújo,13 folhas adesivas,13,2,"R$ 19,50",papelaria,venda,Iveta,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+793,1/7/2024,6/7/2024,7/7/2024,1/7/2024,Luana Cruz,1 casal de bonecos Julie negros,2,5,"R$ 200,00",boneco pano,venda,Indicação,,,,
+794,6/7/2024,PE,6/7/2024,6/7/2024,Angela mãe,1 bolsa montessori,1,PE,"R$ 0,00",brinquedo,,família,,,,
+795,6/7/2024,PE,6/7/2024,6/7/2024,Enzo Maneira,1 bola montessori,1,PE,"R$ 0,00",brinquedo,,família,,,,
+796,28/07/24,30/07/24,1/8/2024,30/07/24,Carla Jacy,1 paninho com cabeça de urso,1,2,"R$ 60,00",brinquedo,venda,Andradas,,,,
+797,31/07/24,3/8/2024,5/8/2024,4/8/2024,Mara Benincasa,1 paninho com cabeça de urso,1,3,"R$ 60,00",brinquedo,venda,Andradas,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+798,1/8/2024,3/8/2024,5/8/2024,15/08/23,Barbara Contro,1 paninho com cabeça de urso,1,2,"R$ 60,00",brinquedo,venda,Margareth,,,,
+799,1/8/2024,4/8/2024,5/8/2024,4/8/2024,Carla Jacy,1 pintura de camiseta,1,3,"R$ 35,00",lembrancinha,venda,Andradas,,,,
+800,1/8/2024,25/08/24,26/08/24,26/08/24,Mari Andradas,28 pecinhas de um painel pronto,28,24,"R$ 112,00",diversos,venda,Andradas,,,,
+801,5/8/2024,13/08/24,14/08/24,14/08/24,Ana Claudia,1 gato xadrez,1,8,"R$ 140,00",quiet book,venda,Indicação,,,,
+802,8/8/2024,13/08/24,14/08/24,14/08/24,Fernanda Dolores,1 gato xadrez,1,5,"R$ 140,00",quiet book,venda,Dolores,,,,
+803,8/8/2024,18/08/24,18/08/24,19/08/24,Nathaly Buteslauf,1 a casa e seu dono,1,10,"R$ 200,00",quiet book,venda,Dolores,,,,
+804,16/08/24,26/08/24,31/08/24,28/08/24,Edilma,1 painel Senninha,1,10,"R$ 140,00",escolar,venda,Indicação,,,,
+805,19/08/24,21/08/24,24/08/24,23/08/24,Mônica Teixeira,2 pinturas de camisetas,2,2,"R$ 70,00",lembrancinha,venda,Andradas,,,,
+806,22/08/24,9/9/2024,22/09/24,9/9/2024,Bete Rocio,1 móbile e 2 lápis,3,18,"R$ 145,00",decoração,venda,Indicação,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+807,10/9/2024,20/09/24,21/09/24,21/09/24,Fernanda Hunold,1 Mogli de pano,1,11,"R$ 90,00",boneco pano,venda,escoteiro,,,,
+808,10/9/2024,29/09/24,30/09/24,27/09/24,Sheila Regina,1 móbile e 1 enfeite de porta fazendinha,2,19,"R$ 235,00",decoração,venda,família,,,,
+809,13/09/24,19/09/24,23/09/24,23/09/24,Glauciane Saraiva,1 chaveiro personalizado,1,6,"R$ 20,00",lembrancinha,venda,Porchat,,,,
+810,13/09/24,22/09/24,25/09/24,22/09/24,Assisele Canatella,3 bichinhos Timart com ímã,3,9,"R$ 60,00",boneco feltro,venda,família,,,,
+811,19/09/24,PE,23/09/24,25/10/24,Carla Jacy,1 boneca Julie e 1 boneca My,2,PE,"R$ 350,00",bonecas pano,venda,Andradas,,,,
+812,23/09/24,29/09/24,4/10/2024,25/09/24,Carla Jacy,1 pintura em camiseta,1,5,"R$ 35,00",lembrancinha,venda,Andradas,,,,
+813,25/09/24,12/10/2024,15/10/24,15/10/24,Barbara Chiaratti,1 chaveiro personalizado,1,16,"R$ 20,00",lembrancinha,venda,Indicação,,,,
+814,25/09/24,12/10/2024,12/10/2024,10/11/2024,Rhuama,2 bonecos Roblox,2,17,"R$ 140,00",bonecos feltro,venda,Andradas,,,,
+815,26/09/24,PE,27/09/24,23/05/25,Cristina Rodrigues,1 Dolores e 1 Isabela,2,PE,"R$ 200,00",bonecos feltro,venda,Andradas,,,,
+816,27/09/24,26/10/24,29/10/24,10/12/2024,Sheila Regina,40 chaveiros ovelhinhas,40,30,"R$ 435,00",lembrancinha,venda,família,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+817,2/10/2024,1/11/2024,11-Apr,1/11/2024,Mel mãe da Maria Clara,1 Branca de Neve,1,30,"R$ 100,00",boneca feltro,venda,Indicação,,,,
+818,2/10/2024,2/11/2024,2/12/2024,2/12/2024,Mel mãe da Maria Clara,1 Branca de Neve,1,31,"R$ 100,00",boneca feltro,venda,Indicação,,,,
+819,8/10/2024,12/1/2025,8/2/2025,23/05/25,Cristina Rodrigues,1 Dolores,1,94,"R$ 100,00",boneca feltro,venda,Andradas,,,,
+820,14/10/24,PE,17/10/24,14/10/24,Helen amiga da Carla,1 Boneca My e 1 unicórnio de pau,2,PE,"R$ 300,00",boneca pano/brinquedo,venda,Indicação,,,,
+821,14/10/24,15/10/24,17/10/24,14/11/24,Helen amiga da Carla,1 Boneca My e 1 cachorrinho de argolas,2,2,"R$ 350,00",boneca pano/brinquedo,venda,Indicação,,,,
+822,17/10/24,1/12/2024,2/12/2024,9/12/2024,Cláudia de Paula,1 boneca personalizada,1,44,"R$ 100,00",boneca feltro,venda,Dolores,,,,
+823,21/10/24,11/11/2024,12/11/2024,11-Dec,Ana Claudia,1 kit puffys Harry Potter e 1 kit de puffys Stitch,12,21,"R$ 250,00",Natal,venda,,,,,
+824,22/10/24,15/11/24,16/11/24,23/11/24,Carla Jacy,Livro O cabelo de Lelê,1,24,"R$ 230,00",quiet book,venda,Andradas,,,,
+825,22/10/24,14/12/24,16/12/24,16/12/24,Jeane Margareth,1 cachorrinho com paninho,1,53,"R$ 60,00",brinquedo,venda,Margareth,,,,
+826,23/10/24,26/10,27/10/24,26/10/24,Helen amiga da Carla,1 Boneca My - só a boneca,1,4,"R$ 100,00",boneca pano,venda,indicação,,,,
+827,23/10/24,9/11/2024,11/11/2024,14/11/24,Barbara Contro,11 bichinhos do mar Timart,11,17,"R$ 198,00",lembrancinha,venda,Margareth,,,,
+828,30/10/24,9/11/2024,11/11/2024,13/11/24,Carol Morello,1 almofada jacaré,1,10,"R$ 60,00",decoração,venda,Margareth,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+829,1/11/2024,24/11/24,25/11/24,24/11/24,Samantha Barbosa,1 móbile musical disney e 1 enfeite de porta,2,23,"R$ 320,00",decoração,venda,Notre Dame,,,,
+830,6/11/2024,1/12/2024,1/12/2024,1/12/2024,Beatriz Vilalta,1 Stitch,1,24,"R$ 70,00",boneco feltro,venda,família,,,,
+831,7/11/2024,26/11/24,26/11,26/11/24,Allure,3 kits puffys Natal 2 e 1 guirlanda Papai e Mamãe Noel,19,19,"R$ 575,00",Natal,venda,prédio,,,,
+832,10/11/2024,PE,15/11/24,15/11/24,Tânia Luz,1 kit de puffys Mágico de oz e 1 kit puffys Stitch,8,PE,"R$ 175,00",Natal,venda,Andradas,,,,
+833,11/11/2024,30/11/24,2/12/2024,2/12/2024,Tânia Luz,1 kit puffys Grinch e 1 kit de puffys princesas,8,19,"R$ 175,00",Natal,venda,Andradas,,,,
+834,11/11/2024,4/12/2024,9/12/2024,10/12/2024,Glauciane Saraiva,2 estrelinhas cachorrinhos,2,23,"R$ 40,00",Natal,venda,Porchat,,,,
+835,13/11/24,9/12/2024,10/12/2024,9/12/2024,Lúcia Cozinha,1 boneca Lucy Snoopy 15cm,1,26,"R$ 50,00",boneca feltro,venda,Porchat,,,,
+836,21/11/24,3/12/2024,3/12/2024,3/12/2024,Mônica Varela,1 guirlanda personalizada,1,12,"R$ 100,00",Natal,venda,Porchat,,,,
+837,27/11/24,6/12/2024,9/12/2024,10/12/2024,Glauciane Saraiva,1 Papai Noel maçaneta de porta,1,9,"R$ 60,00",Natal,venda,Porchat,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+838,2/12/2024,22/12/24,22/12/24,25/12/24,Beatriz Vilalta,1 Harry Potter,1,20,"R$ 100,00",boneco feltro,venda,família,,,,
+839,4/12/2024,10/12/2024,11/12/2024,13/12/24,Renata Base,1 estrelinha Gatinho,1,6,"R$ 20,00",Natal,venda,Margareth,,,,
+840,8/12/2024,PE,8/12/2024,8/12/2024,Maria Célia,"1 kit puffys Noel 2, 1 kit Puffys Stitch, 1 dominó de frutas",9,PE,"R$ 245,00",Natal,venda,família,,,,
+841,9/12/2024,PE,9/12/2024,9/12/2024,Maria Célia,"1 kit Puffys Noel 2, 1 kit puffys monstrinhos, 1 kit puffys princesas, 1 kit puffys Harry 2, 1 kit de Puffys Encanto, 1 kit de puffys Grinch, 1 pinheirinho de alinhavo, 1 quiet book corujinha, 1 quiet book pinguim, 1 capa de vaso sanitário, 2 estrelinhas gatinhos, 3 estrelinhas de cachorrinhos",40,PE,"R$ 850,00",Natal,venda,família,,,,
+842,9/12/2024,PE,9/12/2024,11/12/2024,Maria Célia,"1 Mirabel, 1 guirlanda Natal, e livro Big book",3,PE,"R$ 440,00",Natal,venda,família,,,,
+843,12/12/2024,27/01/25,29/01/25,3/2/2025,Desirèe Lima,1 familia Julie e 12 manutenções,18,45,"R$ 350,00",boneco pano,venda,,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+844,5/1/2025,4/3/2025,5/3/2025,25/06/25,Cristina Rodrigues,1 casal de bonecos negros Julie,2,58,"R$ 240,00",boneco pano,venda,Andradas,,,,
+845,5/1/2025,PE,8/2/2025,25/07/25,Cristina Rodrigues,1 livro O cabelo de Lele,1,PE,"R$ 250,00",quiet book,venda,Andradas,,,,
+846,21/01/25,31/01/25,2/2/2025,5/3/2025,Priscila Albino,1 personalizado e 1 sacola alfabeto,2,10,"R$ 160,00",boneco feltro,venda,Indicação,,,,
+847,24/01/25,2/2/2025,2/2/2025,2/2/2025,Luiz Maneira pai,1 guirlanda personalizada,1,9,"R$ 0,00",decoração,,familia,,,,
+848,25/01/25,24/05/25,24/05/25,24/05/25,Michelle Maneira,104 tiaras de orelha personalizada,104,118,"R$ 0,00",lembrancinha,,eu,,,,
+849,25/01/25,1/8/2025,1/8/2025,1/8/2025,Michelle Maneira,8 bonecos vilões da Disney,8,,"R$ 0,00",bonecos feltro,,eu,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+850,3/2/2025,5/2/2025,6/2/2025,6/2/2025,Rosana Bernardo,13 folhas adesivas,13,2,"R$ 26,00",papelaria,venda,Porchat,,,,
+851,3/2/2025,5/2/2025,6/2/2025,6/2/2025,Mônica Varela,8 folhas adesivas,8,2,"R$ 16,00",papelaria,venda,Porchat,,,,
+852,4/2/2025,10/2/2025,11/2/2025,11/2/2025,Litz,42 folhas adesivas,42,6,"R$ 84,00",papelaria,venda,Iveta,,,,
+853,10/2/2025,10/2/2025,11/2/2025,11/2/2025,Adriana Araújo,6 folhas adesivas,6,1,"R$ 12,00",papelaria,venda,Porchat,,,,
+854,10/2/2025,11/2/2025,11/2/2025,28/02/25,Marilice,7 folhas adesivas,7,1,"R$ 14,00",papelaria,venda,Porchat,,,,
+855,18/02/25,PE,22/02/25,25/02/25,Carla Jacy,1 alfabeto de feltro,1,PE,"R$ 180,00",escolar,venda,Andradas,,,,
+856,19/02/25,22/02/25,24/02/25,28/02/25,Marilice,10 folhas papelaria,10,3,"R$ 20,00",papelaria,venda,Porchat,,,,
+857,20/02/25,22/02/25,24/02/25,3/3/2025,Adriana Araújo,34 folhas papelaria,34,2,"R$ 68,00",papelaria,venda,Porchat,,,,
+858,20/02/25,5/3/2025,5/3/2025,5/3/2025,Rosana Aquino,4 bonecos Julie,4,13,"R$ 480,00",boneco pano,venda,Dolores,,,,
+859,21/02/25,28/02/25,6/3/2025,6/3/2025,Érika Porchat,1 tapete 20x 30 amarradinho,1,7,"R$ 120,00",decoração,venda,Porchat,,,,
+860,24/02/25,25/02/25,25/02/25,3/3/2025,Adriana Araújo,7 folhas plastificadas,7,1,"R$ 14,00",papelaria,venda,Porchat,,,,
+861,24/02/25,25/02/25,26/02/25,25/02/25,Margareth Gomes,24 folhas adesivas,24,1,"R$ 50,00",papelaria,venda,Porchat,,,,
+862,24/02/25,24/02/25,24/02/25,24/02/25,Mônica Varela,1 folha adesiva,1,1,"R$ 2,00",papelaria,venda,Porchat,,,,
+863,28/02/25,1/3/2025,6/3/2025,6/3/2025,Mônica Varela,5 folhas adesivas,5,1,"R$ 10,00",papelaria,venda,Porchat,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+864,6/3/2025,8/3/2025,10/3/2025,19/03/25,Adriana Araújo,5 folhas adesivas,7,2,"R$ 14,00",papelaria,venda,Porchat,,,,
+865,20/03/25,23/03/25,24/03/25,29/04/25,Marilice,8 folhas plastificadas,8,3,"R$ 16,00",papelaria,venda,Porchat,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+866,11/4/2025,6/5/2025,7/5/2025,7/5/2025,Helen amiga da Carla,"1 cabelo de Lelê, 1 livro Sereia, 1 bola montessori, 1 a casa e seu dono, 1 menininha e fantoches do seu Lobato",6,25,"R$ 1.150,00",bonecos e brinquedos,venda,Indicação,,,,
+867,13/04/25,18/05/25,19/05/25,26/06/25,Porchat,sacolas,150,35,"R$ 300,00",sacolas,venda,Porchat,,,,
+868,13/04/25,13/04/25,14/04/25,13/04/25,Michelle Maneira,coelhinhos baby,2,1,"R$ 0,00",Páscoa,doação,eu,,,,
+869,30/04/25,11/5/2025,19/05/25,12/6/2025,Marilice,12 páginas plastificadas de rotina,12,11,"R$ 24,00",papelaria,venda,Porchat,,,,
+870,30/04/25,25/05/25,29/05/25,27/05/25,Thaís Saraiva,faixa de miss e mister caipirinha,2,25,"R$ 100,00",escolar,venda,Margareth,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+871,12/5/2025,29/05/25,29/05/25,29/05/25,Carol Rizzo,1 boneco personalizado homem-cão,1,17,"R$ 120,00",boneco feltro,venda,Dolores,,,,
+872,17/05/25,1/6/2025,1/6/2025,13/06/25,Desirèe Lima,10 bonequinhas de braços e pernas de tranças,10,15,"R$ 250,00",boneco pano,venda,Andradas,,,,
+873,19/05/25,7/6/2025,9/6/2025,12/6/2025,Marilice,10 ovelhinhas Timart,10,19,"R$ 250,00",boneco feltro,venda,Porchat,,,,
+874,22/05/25,29/06/25,25/07/25,23/08/25,Cristina Rodrigues,1 luva Indiozinhos e 1 Jacaré Joca,2,38,"R$ 150,00",escolar,venda,Andradas,,,,
+875,22/05/24,10/7/2025,25/07/25,23/08/25,Cristina Rodrigues,1 painel para escovas de dente,1,49,"R$ 150,00",escolar,venda,Andradas,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+876,11/6/2025,15/06/25,15/06/25,11/6/2025,Nathaly Buteslauf,"1 kit divertidamente, 1 flor e 1 vela",13,4,"R$ 280,00",boneco feltro,venda,Dolores,,,,
+877,17/06/25,5/7/2025,15/07/25,15/07/25,Nathaly Antunes,1 kit divertidamente,11,18,"R$ 250,00",boneco feltro,venda,Indicação,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+878,1/7/2025,6/7/2025,9/7/2025,15/07/25,Carla Jacy,2 pinturas de camisetas,2,5,"R$ 70,00",pintura,venda,Andradas,,,,
+879,8/7/2025,21/07/25,21/07/25,21/07/25,Karen Porchat,1 casal de ovelhinhas,2,13,"R$ 70,00",feltro,venda,Porchat,,,,
+880,18/07/25,20/09/25,27/09/25,20/09/25,Mônica Teixeira,"20 guardanapos, 20 argolas de guardanapos e 20 caixinhas",60,62,"R$ 0,00",tecido e caixas,presente,Andradas,,,,
+881,19/07/25,13/10/25,13/10/25,13/10/25,Michelle Maneira,48 Bobby Goods,48,83,"R$ 0,00",boneco de feltro,presente,eu,,,,
+882,24/07/25,25/07/25,26/07/25,26/07/25,Mônica Teixeira,1 pintura de camiseta,1,1,"R$ 35,00",pintura,venda,Andradas,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+883,11/8/2025,14/09/25,16/09/25,15/09/25,Beatriz Cerejo,2 bonecos Julie negros,2,33,"R$ 220,00",pintura,venda,Andradas,,,,
+884,12/8/2025,16/08/25,17/08/25,17/08/25,Tayná Gonçalves,5 chaveiros personalizados,5,4,"R$ 150,00",lembrancinha,venda,Indicação,,,,
+885,15/08/25,17/08/25,17/08/25,15/08/25,Patricia Rebouças,1 máscara Boitatá,1,2,"R$ 35,00",escolar,venda,Indicação,,,,
+886,19/08/25,cancelado,,,Maria Eduarda PAEI,1 unicónio de pau,1,PE,"R$ 60,00",feltro,venda,Porchat,,,,
+887,24/08/25,7/9/2025,11/9/2025,7/9/2025,Maria Célia Muraca,5 labubus,5,14,"R$ 250,00",feltro,venda,família,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+888,6/9/2025,11/9/2025,20/09/25,13/09/25,Cristina Rodrigues,Conserto boneca,1,5,"R$ 20,00",conserto,,Andradas,,,,
+889,30/09/25,2/11/2025,3/11/2025,6/11/2025,Tainá Porchat,8 princesas Timart,8,37,"R$ 200,00",boneco feltro,venda,Porchat,,,,
+890,30/09/25,PE,9/10/2025,15/11/25,Cristina Rodrigues,8 marcadores coruja,8,PE,"R$ 120,00",lembrancinha,venda,Andradas,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+891,9/10/2025,PE,9/10/2025,24/11/25,Cristina Rodrigues,"1 chaveiro, 2 bonecas e 1 boneca Julie",4,PE,"R$ 275,00",Bonecas pano,venda,Andradas,,,,
+892,11/10/2025,24/10/25,25/10/25,25/10/25,Thaís Ferrari,1 boneca Julie negra,1,13,"R$ 120,00",boneca pano,venda,Dolores,,,,
+893,20/10/25,20/10/25,21/10/25,22/10/25,Margareth Porchat,5 folhas adesivas,5,1,"R$ 10,00",papelaria,venda,Porchat,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+894,24/11/25,PE,29/11/25,13/12/25,Claudia Adelino,1 bastidor Noel,1,PE,"R$ 150,00",Natal,venda,Andradas,,,,
+895,19/11/25,3/1/2026,5/1/2026,19/01/26,Desirèe Lima,14 consertos,14,46,"R$ 140,00",bonecas pano,conserto,Andradas,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+896,14/12/25,20/12/25,20/12/25,19/12/25,Sônia Souza,2 pingentes panda,2,6,"R$ 80,00",Natal,venda,Andradas,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+897,5/1/2026,13/1/26,15/1/26,19/1/26,Desirèe Lima,4 consertos,4,8,"R$ 40,00",bonecas pano,conserto,Andradas,,,,
+898,5/1/2026,13/1/26,15/1/26,15/1/26,Carol Rizzo,2 consertos,2,,"R$ 20,00",bonecas pano,conserto,Dolores,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+899,4/2/2026,5/2/2026,6/2/2026,4/2/2026,Rosana Bernardo,5 folhas adesivas,5,1,"R$ 20,00",papelaria,venda,Porchat,,,,
+900,4/2/2026,5/2/2026,5/2/2026,5/2/2026,Mônica Varela,9 folhas adesivas,9,1,"R$ 22,50",papelaria,venda,Porchat,,,,
+901,7/2/2026,18/2/26,18/2/26,18/2/26,Luana Cruz,2 bonecos personalizados,2,11,"R$ 240,00",boneca pano,venda,Dolores,,,,
+902,9/2/2026,9/2/2026,10/2/2026,6/4/2026,Marilice,8 folhas papelaria,8,1,"R$ 20,00",papelaria,venda,Porchat,,,,
+903,9/2/2026,11/2/2026,12/2/2026,13/2/26,Kátia Silene Duarte,5 folhas papelaria,5,2,"R$ 12,50",papelaria,venda,Porchat,,,,
+904,12/2/2026,16/2/26,19/2/26,19/2/26,Mônica Varela,6 folhas papelaria,6,4,"R$ 15,00",papelaria,venda,Porchat,,,,
+905,20/2/26,24/2/26,25/2/26,25/2/26,Angela mãe,1 boneca personalizada,1,5,"R$ 0,00",boneca pano,mãe,família,,,,
+906,25/2/26,21/3/26,25/3/26,26/3/26,Liege Aparecida,1 boneca personalizada,1,24,"R$ 120,00",boneca pano,venda,Andradas,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+907,8/3/2026,15/3/26,17/3/26,18/3/26,Cibele Louzada,12 pães de 10cm,12,7,"R$ 120,00",feltro,venda,Dolores,,,,
+908,9/3/2026,14/3/26,14/3/26,14/3/26,Neiva,1 ovelha de 16cm,1,5,"R$ 25,00",lembrancinha,venda,Vizinha,,,,
+909,11/3/2026,26/4/26,26/4/26,,Cristina Rodrigues,3 bonecas Julie ,3,45,"R$ 390,00",boneca pano,venda,Andradas,,,,
+910,12/3/2026,17/4/26,23/4/26,12/3/2026,Angela mãe,70 caixinhas fecho de ímã,70,35,"R$ 0,00",lembrancinha,presente,família,,,,
+911,12/3/2026,,,,Michelle Maneira,18 centopéias com nome,18,,"R$ 0,00",brinquedo,eu,eu,,,,
+912,12/3/2026,,,,Michelle Maneira,20 bonecas Julie,20,,"R$ 0,00",boneco pano,eu,eu,,,,
+913,14/3/26,23/3/26,24/3/26,24/3/26,Carol Rizzo,1 coroa de mesversário,1,9,"R$ 100,00",feltro,venda,Dolores,,,,
+914,14/3/26,15/3/26,17/3/26,18/3/26,Cibele Louzada,2 peixes,2,1,"R$ 20,00",feltro,venda,Dolores,,,,
+915,15/3/26,5/4/2026,6/4/2026,23/5/26,Mônica Teixeira,3 bonecas Julie,3,21,"R$ 300,00",boneca pano,venda,Andradas,,,,
+916,15/3/26,26/3/26,27/3/26,27/3/26,Angela mãe,1 boneca Mia,1,11,"R$ 0,00",boneca pano,mãe,família,,,,
+917,17/3/26,21/4/26,25/4/26,25/4/26,Cristiane Ferreira,10 personagens caixa musical,10,34,"R$ 150,00",feltro,venda,Indicação,,,,
+918,25/3/26,29/3/26,31/3/26,25/3/26,Mônica Varela,4 folhas de papelaria,4,4,"R$ 10,00",papelaria,venda,Porchat,,,,
+919,25/3/26,29/3/26,31/3/26,25/3/26,Rosana Bernardo,4 folhas de papelaria,4,4,"R$ 10,00",papelaria,venda,Porchat,,,,
+920,27/3/26,29/3/26,30/3/26,29/3/26,Ana Paula Passos,6 folhas de papelaria,6,2,"R$ 15,00",papelaria,venda,Passos,,,,
+921,27/3/26,5/4/2026,7/4/2026,5/4/2026,Porchat,18 sacolas,18,9,"R$ 0,00",tecido e caixas,doação,Porchat,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+922,9/4/2026,10/4/2026,13/4/26,9/4/2026,Rosana Bernardo,4 folhas de papelaria,4,1,"R$ 10,00",papelaria,venda,Porchat,,,,
+923,9/4/2026,4/5/2026,5/5/2026,5/5/2023,Veruska Moura,1 kit dedoches do alfabeto,1,25,"R$ 200,00",escolar,venda,Porchat,,,,
+924,11/4/2026,5/5/2026,6/5/2026,6/5/2026,Vanessa Ind Liege,1 personalizada Julie,1,24,"R$ 130,00",boneca pano,venda,Indicação,,,,
+925,23/4/26,27/4/26,27/4/26,27/4/26,Ana Paula Passos,4 folhas adesivas,2,4,"R$ 10,00",papelaria,venda,Passos,,,,
+926,28/4/26,,,,Cristiane Ferreira,1 Senhor Alfabeto,1,,"R$ 260,00",escolar,venda,Indicação,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+927,2/5/2026,PE,9/5/2026,,Cristina Rodrigues,2 bonecos Julie,2,PE,"R$ 260,00",boneco pano,venda,Andradas,,,,
+928,2/5/2026,,,,Cristina Rodrigues,2 bonecos Julie,2,,"R$ 260,00",boneco pano,venda ,Andradas,,,,
+929,2/5/2026,,,,Cristina Rodrigues,2 bonecos Julie,2,,"R$ 260,00",boneco pano,venda,Andradas,,,,
+930,2/5/2026,,,,Cristina Rodrigues,2 bonecos Julie,2,,"R$ 260,00",boneco pano,venda,Andradas,,,,
+931,7/5/2026,12/5/2026,12/5/2026,12/5/2026,Ana Paula Passos,18 papelaria e 1 encadernação,19,5,"R$ 55,00",papelaria,venda,Passos,,,,
+932,13/5/26,4/6/2026,5/6/2026,13/5/26,Fernanda Dolores,10 personagens Timart,10,22,"R$ 150,00",feltro,venda,Dolores,,,,
+933,20/5/26,30/5/26,1/6/2026,1/6/2026,Ana Paula Passos,30 papelaria,30,10,"R$ 75,00",papelaria,venda,Passos,,,,
+934,18/5/26,,,,Mônica Teixeira,3 bonecas Julie,3,,"R$ 300,00",boneca pano,venda,Andradas,,,,
+935,30/5/26,,,,Karen Porchat,acessórios da caixa de esquema corporal,1,,"R$ 50,00",brinquedo,venda,Porchat,,,,
+pedido,"data 
+pedido","data do 
+término","data da 
+entrega","data do 
+pagamento",cliente,pedido,"quanti
+dade","tempo de 
+execução",valor,obs,,,,,,
+936,3/6/2026,4/6/2026,8/6/2026,,Marilice,6 folhas papelaria,6,1,"R$ 15,00",papelaria,venda,,,,,
