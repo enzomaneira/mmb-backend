@@ -1247,7 +1247,7 @@ def main():
             # Pedido já existe E já tem itens → só corrige a data se necessário
             if num in existing_with_items:
                 if p["date"]:
-                    date_val = p["date"].strftime("%Y-%m-%d %H:%M:%S+00")
+                    date_val = p["date"].strftime("%Y-%m-%d 12:00:00+00")
                     # Verifica se a data no banco é o fallback errado (2014-01-01)
                     # ou se difere da data correta do XLSX
                     atual_dt = db.execute(
@@ -1302,9 +1302,9 @@ def main():
                 db.execute(text("SAVEPOINT sp_pedido"))
 
                 date_val = (
-                    p["date"].strftime("%Y-%m-%d %H:%M:%S+00")
+                    p["date"].strftime("%Y-%m-%d 12:00:00+00")
                     if p["date"]
-                    else "2014-01-01 00:00:00+00"
+                    else "2014-01-01 12:00:00+00"
                 )
 
                 # Tenta inserir; se já existe (sem itens), busca o id

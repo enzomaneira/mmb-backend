@@ -6,7 +6,7 @@ from sqlalchemy import asc, desc
 from sqlalchemy.orm import Session, joinedload
 
 from app.api.deps import get_db
-from app.models import Order
+from app.models import Order, OrderItem
 from app.schemas.common import OrderSortField, SortOrder
 from app.schemas.order import OrderCreate, OrderResponse, OrderStatusUpdate
 from app.services.order_service import OrderServiceError, create_order, delete_order, update_order_status
@@ -35,7 +35,7 @@ def list_orders(
     limit: int = Query(default=10000, ge=1, le=10000),
 ) -> list[Order]:
     query = db.query(Order).options(
-        joinedload(Order.items),
+        joinedload(Order.items).joinedload(OrderItem.product),
         joinedload(Order.status_history),
     )
 
@@ -67,7 +67,10 @@ def create_order_endpoint(data: OrderCreate, db: Session = Depends(get_db)) -> O
 def get_order(order_id: int, db: Session = Depends(get_db)) -> Order:
     order = (
         db.query(Order)
-        .options(joinedload(Order.items), joinedload(Order.status_history))
+        .options(
+            joinedload(Order.items).joinedload(OrderItem.product),
+            joinedload(Order.status_history),
+        )
         .filter(Order.id == order_id)
         .first()
     )

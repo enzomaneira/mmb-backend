@@ -25,6 +25,16 @@ class OrderItemResponse(BaseModel):
     def subtotal(self) -> Decimal:
         return self.unit_price * self.quantity
 
+    @computed_field
+    @property
+    def product_name(self) -> str | None:
+        return self.product.name if self.product else None  # type: ignore[attr-defined]
+
+    @computed_field
+    @property
+    def product_number(self) -> int | None:
+        return self.product.number if self.product else None  # type: ignore[attr-defined]
+
 
 class OrderStatusHistoryResponse(BaseModel):
     model_config = ConfigDict(from_attributes=True)
