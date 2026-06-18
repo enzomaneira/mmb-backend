@@ -1,7 +1,7 @@
 from datetime import datetime
 from decimal import Decimal
 
-from pydantic import BaseModel, ConfigDict, Field, computed_field, field_validator
+from pydantic import BaseModel, ConfigDict, Field, computed_field, field_validator, model_validator
 
 from app.models.enums import OrderStatus
 
@@ -17,6 +17,8 @@ class OrderItemResponse(BaseModel):
 
     id: int
     product_id: int
+    product_name: str | None = None
+    product_number: int | None = None
     quantity: int
     unit_price: Decimal
 
@@ -25,15 +27,22 @@ class OrderItemResponse(BaseModel):
     def subtotal(self) -> Decimal:
         return self.unit_price * self.quantity
 
-    @computed_field
-    @property
-    def product_name(self) -> str | None:
-        return self.product.name if self.product else None  # type: ignore[attr-defined]
-
-    @computed_field
-    @property
-    def product_number(self) -> int | None:
-        return self.product.number if self.product else None  # type: ignore[attr-defined]
+    @model_validator(mode="before")
+    @classmethod
+    def extract_product_fields(cls, data: object) -> object:
+        # When building from an ORM object, pull product name/number from the relationship
+        product = getattr(data, "product", None)
+        if product is not None:
+            # Convert ORM object to dict-like for Pydantic, injecting product fields
+            return {
+                "id": data.id,  # type: ignore[union-attr]
+                "product_id": data.product_id,  # type: ignore[union-attr]
+                "product_name": product.name,
+                "product_number": product.number,
+                "quantity": data.quantity,  # type: ignore[union-attr]
+                "unit_price": data.unit_price,  # type: ignore[union-attr]
+            }
+        return data
 
 
 class OrderStatusHistoryResponse(BaseModel):
