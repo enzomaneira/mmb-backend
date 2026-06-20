@@ -68,7 +68,7 @@ def list_products(
     max_price: Decimal | None = Query(default=None, ge=0),
     min_units_sold: int | None = Query(default=None, ge=0),
     max_units_sold: int | None = Query(default=None, ge=0),
-    sort_by: str = Query(default="name", pattern="^(name|price|units_sold|revenue|stock_quantity)$"),
+    sort_by: str = Query(default="name", pattern="^(name|number|price|units_sold|revenue|stock_quantity)$"),
     sort_order: SortOrder = Query(default=SortOrder.ASC),
     skip: int = Query(default=0, ge=0),
     limit: int = Query(default=10000, ge=1, le=10000),
@@ -109,6 +109,7 @@ def list_products(
 
     sort_col_map = {
         "name": Product.name,
+        "number": Product.number,
         "price": Product.price,
         "stock_quantity": Product.stock_quantity,
         "units_sold": func.coalesce(stats_subq.c.units_sold, 0),

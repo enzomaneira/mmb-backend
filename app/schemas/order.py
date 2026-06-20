@@ -73,6 +73,18 @@ class OrderCreate(OrderBase):
 
 class OrderStatusUpdate(BaseModel):
     status: OrderStatus
+    changed_at: datetime | None = None  # optional manual date override
+
+
+class OrderItemUpdate(BaseModel):
+    product_id: int
+    quantity: int = Field(ge=1)
+    unit_price: Decimal | None = None
+
+
+class OrderUpdate(BaseModel):
+    customer_id: int | None = None
+    items: list[OrderItemUpdate] | None = None
 
 
 class OrderSummaryResponse(BaseModel):

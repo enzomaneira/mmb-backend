@@ -8,8 +8,8 @@ from sqlalchemy.orm import Session, joinedload, selectinload
 from app.api.deps import get_db
 from app.models import Order, OrderItem
 from app.schemas.common import OrderSortField, SortOrder
-from app.schemas.order import OrderCreate, OrderResponse, OrderStatusUpdate
-from app.services.order_service import OrderServiceError, create_order, delete_order, update_order_status
+from app.schemas.order import OrderCreate, OrderResponse, OrderStatusUpdate, OrderUpdate
+from app.services.order_service import OrderServiceError, create_order, delete_order, update_order, update_order_status
 
 router = APIRouter(prefix="/orders", tags=["orders"])
 
@@ -77,6 +77,16 @@ def get_order(order_id: int, db: Session = Depends(get_db)) -> Order:
     if order is None:
         raise HTTPException(status_code=404, detail="Order not found")
     return order
+
+
+@router.patch("/{order_id}", response_model=OrderResponse)
+def update_order_endpoint(
+    order_id: int, data: OrderUpdate, db: Session = Depends(get_db)
+) -> Order:
+    try:
+        return update_order(db, order_id, data)
+    except OrderServiceError as exc:
+        raise HTTPException(status_code=exc.status_code, detail=exc.message) from exc
 
 
 @router.patch("/{order_id}/status", response_model=OrderResponse)

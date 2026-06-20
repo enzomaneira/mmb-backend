@@ -64,7 +64,7 @@ def _enrich_customer_with_orders(customer: Customer, stats_map: dict) -> Custome
 def list_customers(
     db: Session = Depends(get_db),
     search: str | None = Query(default=None),
-    sort_by: str = Query(default="name", pattern="^(name|total_orders|total_spent|total_units)$"),
+    sort_by: str = Query(default="name", pattern="^(name|number|total_orders|total_spent|total_units)$"),
     sort_order: SortOrder = Query(default=SortOrder.ASC),
     skip: int = Query(default=0, ge=0),
     limit: int = Query(default=10000, ge=1, le=10000),
@@ -80,6 +80,7 @@ def list_customers(
     # Sorting — either on a model column or on a computed stats column
     sort_col_map = {
         "name": Customer.name,
+        "number": Customer.number,
         "total_orders": stats_subq.c.total_orders,
         "total_spent": stats_subq.c.total_spent,
         "total_units": stats_subq.c.total_units,
