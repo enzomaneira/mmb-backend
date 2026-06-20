@@ -67,15 +67,30 @@ def create_order(db: Session, data: OrderCreate) -> Order:
 def update_order_status(db: Session, order_id: int, data: OrderStatusUpdate) -> Order:
     order = get_order_or_404(db, order_id)
 
-    if order.status == data.status and data.changed_at is None:
-        return order
+    # Upsert: if a history entry for this status already exists, just update its date
+    existing = (
+        db.query(OrderStatusHistory)
+        .filter(
+            OrderStatusHistory.order_id == order.id,
+            OrderStatusHistory.status == data.status,
+        )
+        .first()
+    )
+
+    if existing:
+        # Only touch the date when explicitly provided; otherwise nothing changes
+        if data.changed_at is None and order.status == data.status:
+            return order
+        if data.changed_at is not None:
+            existing.changed_at = data.changed_at
+        # else: keep existing date as-is (status is the same, no new date)
+    else:
+        history = OrderStatusHistory(order_id=order.id, status=data.status)
+        if data.changed_at is not None:
+            history.changed_at = data.changed_at
+        db.add(history)
 
     order.status = data.status
-    history = OrderStatusHistory(order_id=order.id, status=data.status)
-    if data.changed_at is not None:
-        history.changed_at = data.changed_at
-    db.add(history)
-
     db.commit()
     return get_order_or_404(db, order.id)
 
