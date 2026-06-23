@@ -136,7 +136,7 @@ def create_product(data: ProductCreate, db: Session = Depends(get_db)) -> Produc
     db.add(product)
     db.commit()
     db.refresh(product)
-    return _enrich(product, {})
+    return _enrich(product, _get_stats_map(db, [product.id]))
 
 
 @router.get("/{product_id}", response_model=ProductResponse)
