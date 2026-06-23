@@ -61,6 +61,7 @@ class OrderBase(BaseModel):
 class OrderCreate(OrderBase):
     items: list[OrderItemCreate] = Field(min_length=1)
     status: OrderStatus = OrderStatus.PENDING
+    created_at: datetime | None = None  # optional manual override
 
     @field_validator("items")
     @classmethod
@@ -85,6 +86,7 @@ class OrderItemUpdate(BaseModel):
 class OrderUpdate(BaseModel):
     customer_id: int | None = None
     items: list[OrderItemUpdate] | None = None
+    created_at: datetime | None = None  # optional manual override
 
 
 class OrderSummaryResponse(BaseModel):

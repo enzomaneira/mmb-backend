@@ -36,6 +36,8 @@ def create_order(db: Session, data: OrderCreate) -> Order:
         status=data.status,
         total=0,
     )
+    if data.created_at is not None:
+        order.created_at = data.created_at
     db.add(order)
     db.flush()
 
@@ -104,6 +106,9 @@ def update_order(db: Session, order_id: int, data: OrderUpdate) -> Order:
         if customer is None:
             raise OrderServiceError("Customer not found", status_code=404)
         order.customer_id = data.customer_id
+
+    if data.created_at is not None:
+        order.created_at = data.created_at
 
     if data.items is not None:
         # Remove existing items

@@ -129,7 +129,10 @@ def create_product(data: ProductCreate, db: Session = Depends(get_db)) -> Produc
     if db.query(Product).filter(Product.number == data.number).first():
         raise HTTPException(status_code=409, detail="Product number already exists")
 
-    product = Product(**data.model_dump())
+    dump = data.model_dump(exclude={"created_at"})
+    product = Product(**dump)
+    if data.created_at is not None:
+        product.created_at = data.created_at
     db.add(product)
     db.commit()
     db.refresh(product)

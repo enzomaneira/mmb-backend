@@ -129,7 +129,10 @@ def create_customer(data: CustomerCreate, db: Session = Depends(get_db)) -> Cust
     if db.query(Customer).filter(Customer.number == data.number).first():
         raise HTTPException(status_code=409, detail="Customer number already exists")
 
-    customer = Customer(**data.model_dump())
+    dump = data.model_dump(exclude={"created_at"})
+    customer = Customer(**dump)
+    if data.created_at is not None:
+        customer.created_at = data.created_at
     db.add(customer)
     db.commit()
     db.refresh(customer)
@@ -228,6 +231,7 @@ def update_customer(
     db.commit()
     db.refresh(customer)
     return _enrich_customer(customer, {})
+
 
 
 @router.delete("/{customer_id}", status_code=status.HTTP_204_NO_CONTENT)

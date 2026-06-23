@@ -13,7 +13,7 @@ class CustomerBase(BaseModel):
 
 
 class CustomerCreate(CustomerBase):
-    pass
+    created_at: datetime | None = None  # optional manual override
 
 
 class CustomerUpdate(BaseModel):
@@ -22,6 +22,7 @@ class CustomerUpdate(BaseModel):
     email: str | None = Field(default=None, max_length=255)
     phone: str | None = Field(default=None, max_length=50)
     notes: str | None = Field(default=None)
+    created_at: datetime | None = None  # optional manual override
 
 
 class CustomerResponse(CustomerBase):

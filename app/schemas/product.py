@@ -16,6 +16,7 @@ class ProductBase(BaseModel):
 
 class ProductCreate(ProductBase):
     stock_quantity: int = Field(default=0, ge=0)
+    created_at: datetime | None = None  # optional manual override
 
 
 class ProductUpdate(BaseModel):
@@ -25,6 +26,7 @@ class ProductUpdate(BaseModel):
     product_type: ProductType | None = None
     price: Decimal | None = Field(default=None, ge=0, decimal_places=2)
     stock_quantity: int | None = Field(default=None, ge=0)
+    created_at: datetime | None = None  # optional manual override
 
 
 class ProductResponse(ProductBase):
