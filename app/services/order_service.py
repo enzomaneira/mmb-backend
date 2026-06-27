@@ -116,11 +116,6 @@ def update_order(db: Session, order_id: int, data: OrderUpdate) -> Order:
             db.delete(item)
         db.flush()
 
-        # Validate no duplicate products
-        product_ids = [i.product_id for i in data.items]
-        if len(product_ids) != len(set(product_ids)):
-            raise OrderServiceError("Duplicate products in the same order are not allowed")
-
         total = 0
         for item_data in data.items:
             product = db.get(Product, item_data.product_id)

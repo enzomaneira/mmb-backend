@@ -1,7 +1,7 @@
 from datetime import datetime
 from decimal import Decimal
 
-from pydantic import BaseModel, ConfigDict, Field, computed_field, field_validator, model_validator
+from pydantic import BaseModel, ConfigDict, Field, computed_field, model_validator
 
 from app.models.enums import OrderStatus
 
@@ -63,13 +63,6 @@ class OrderCreate(OrderBase):
     status: OrderStatus = OrderStatus.PENDING
     created_at: datetime | None = None  # optional manual override
 
-    @field_validator("items")
-    @classmethod
-    def validate_items(cls, items: list[OrderItemCreate]) -> list[OrderItemCreate]:
-        product_ids = [item.product_id for item in items]
-        if len(product_ids) != len(set(product_ids)):
-            raise ValueError("Duplicate products in the same order are not allowed")
-        return items
 
 
 class OrderStatusUpdate(BaseModel):
