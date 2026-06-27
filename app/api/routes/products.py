@@ -1,7 +1,7 @@
 from decimal import Decimal
 
 from fastapi import APIRouter, Depends, HTTPException, Query, status
-from sqlalchemy import asc, desc, func
+from sqlalchemy import asc, desc, func, or_
 from sqlalchemy.orm import Session
 
 from app.api.deps import get_db
@@ -95,7 +95,14 @@ def list_products(
     query = db.query(Product).outerjoin(stats_subq, stats_subq.c.product_id == Product.id)
 
     if search:
-        query = query.filter(Product.name.ilike(f"%{search}%"))
+        # Search by name (case-insensitive) OR by number (exact or partial match)
+        try:
+            search_number = int(search)
+            query = query.filter(
+                or_(Product.name.ilike(f"%{search}%"), Product.number == search_number)
+            )
+        except ValueError:
+            query = query.filter(Product.name.ilike(f"%{search}%"))
     if product_type:
         query = query.filter(Product.product_type == product_type)
     if min_price is not None:
