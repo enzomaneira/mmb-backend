@@ -59,6 +59,8 @@ def create_order(db: Session, data: OrderCreate) -> Order:
 
     order.total = total
     history = OrderStatusHistory(order_id=order.id, status=data.status)
+    if order.created_at is not None:
+        history.changed_at = order.created_at
     db.add(history)
 
     db.commit()
