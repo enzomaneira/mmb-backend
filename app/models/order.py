@@ -35,6 +35,9 @@ class Order(Base):
     status_history: Mapped[list["OrderStatusHistory"]] = relationship(
         back_populates="order", cascade="all, delete-orphan", order_by="OrderStatusHistory.changed_at"
     )
+    payments: Mapped[list["OrderPayment"]] = relationship(
+        back_populates="order", cascade="all, delete-orphan", order_by="OrderPayment.paid_at"
+    )
 
 
 class OrderItem(Base):

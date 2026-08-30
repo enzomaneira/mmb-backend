@@ -9,6 +9,7 @@ from app.models import (  # noqa: F401
     Customer,
     Order,
     OrderItem,
+    OrderPayment,
     OrderStatusHistory,
     Product,
 )

@@ -4,6 +4,7 @@ from decimal import Decimal
 from pydantic import BaseModel, ConfigDict, Field, computed_field, model_validator
 
 from app.models.enums import OrderStatus
+from app.schemas.order_payment import OrderPaymentResponse
 
 
 class OrderItemCreate(BaseModel):
@@ -96,4 +97,10 @@ class OrderSummaryResponse(BaseModel):
 class OrderResponse(OrderSummaryResponse):
     items: list[OrderItemResponse] = []
     status_history: list[OrderStatusHistoryResponse] = []
+    payments: list[OrderPaymentResponse] = []
     updated_at: datetime
+
+    @computed_field
+    @property
+    def paid_amount(self) -> Decimal:
+        return sum((p.amount for p in self.payments), Decimal(0))
