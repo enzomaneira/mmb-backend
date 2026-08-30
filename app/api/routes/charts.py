@@ -7,6 +7,7 @@ from sqlalchemy.orm import Session
 
 from app.api.deps import get_db
 from app.models import Order, OrderItem, OrderStatus, OrderStatusHistory, Product
+from app.models.enums import ProductType
 from app.schemas.revenue import (
     CustomerSalesChartPoint,
     ProductRevenueShareItem,
@@ -89,13 +90,32 @@ def sales_by_customer(
     customer_id: int = Query(...),
     start_date: datetime | None = Query(default=None),
     end_date: datetime | None = Query(default=None),
+    product_type: ProductType | None = Query(default=None),
+    product_id: int | None = Query(default=None),
 ) -> list[CustomerSalesChartPoint]:
     paid_orders = _paid_orders_subquery(db)
 
-    query = db.query(
-        func.date(paid_orders.c.paid_at).label("sale_date"),
-        func.sum(paid_orders.c.total).label("value"),
-    ).filter(paid_orders.c.customer_id == customer_id)
+    if product_type is not None or product_id is not None:
+        # Sum only the matching items' subtotals, not the full order total
+        query = (
+            db.query(
+                func.date(paid_orders.c.paid_at).label("sale_date"),
+                func.sum(OrderItem.unit_price * OrderItem.quantity).label("value"),
+            )
+            .join(paid_orders, paid_orders.c.order_id == OrderItem.order_id)
+            .filter(paid_orders.c.customer_id == customer_id)
+        )
+        if product_type is not None:
+            query = query.join(Product, Product.id == OrderItem.product_id).filter(
+                Product.product_type == product_type
+            )
+        if product_id is not None:
+            query = query.filter(OrderItem.product_id == product_id)
+    else:
+        query = db.query(
+            func.date(paid_orders.c.paid_at).label("sale_date"),
+            func.sum(paid_orders.c.total).label("value"),
+        ).filter(paid_orders.c.customer_id == customer_id)
 
     if start_date is not None:
         query = query.filter(paid_orders.c.paid_at >= start_date)
@@ -113,10 +133,11 @@ def sales_by_customer(
 def top_products(
     db: Session = Depends(get_db),
     limit: int = Query(default=10, ge=1, le=50),
+    product_type: ProductType | None = Query(default=None),
 ) -> list[TopProductChartItem]:
     stats_subq = _product_stats_subquery(db)
 
-    rows = (
+    query = (
         db.query(
             Product.id,
             Product.number,
@@ -125,6 +146,13 @@ def top_products(
             func.coalesce(stats_subq.c.revenue, Decimal("0")).label("revenue"),
         )
         .outerjoin(stats_subq, stats_subq.c.product_id == Product.id)
+    )
+
+    if product_type is not None:
+        query = query.filter(Product.product_type == product_type)
+
+    rows = (
+        query
         .order_by(
             func.coalesce(stats_subq.c.units_sold, 0).desc(),
             func.coalesce(stats_subq.c.revenue, Decimal("0")).desc(),
@@ -151,25 +179,62 @@ def total_sales_over_time(
     granularity: str = Query(default="month", pattern="^(day|month|year)$"),
     start_date: datetime | None = Query(default=None),
     end_date: datetime | None = Query(default=None),
+    product_type: ProductType | None = Query(default=None),
+    product_id: int | None = Query(default=None),
 ) -> list[CustomerSalesChartPoint]:
     paid_orders = _paid_orders_subquery(db)
 
-    if granularity == "day":
-        period_expr = func.date(paid_orders.c.paid_at)
-    elif granularity == "year":
-        period_expr = func.to_char(paid_orders.c.paid_at, "YYYY")
-    else:
-        period_expr = func.to_char(paid_orders.c.paid_at, "YYYY-MM")
+    if product_type is not None or product_id is not None:
+        # Sum only the matching items' subtotals, not the full order total
+        base_query = (
+            db.query(
+                paid_orders.c.paid_at.label("paid_at"),
+                (OrderItem.unit_price * OrderItem.quantity).label("item_total"),
+            )
+            .join(paid_orders, paid_orders.c.order_id == OrderItem.order_id)
+        )
+        if product_type is not None:
+            base_query = base_query.join(
+                Product, Product.id == OrderItem.product_id
+            ).filter(Product.product_type == product_type)
+        if product_id is not None:
+            base_query = base_query.filter(OrderItem.product_id == product_id)
+        filtered_subq = base_query.subquery()
 
-    query = db.query(
-        period_expr.label("period"),
-        func.sum(paid_orders.c.total).label("value"),
-    )
+        if granularity == "day":
+            period_expr = func.date(filtered_subq.c.paid_at)
+        elif granularity == "year":
+            period_expr = func.to_char(filtered_subq.c.paid_at, "YYYY")
+        else:
+            period_expr = func.to_char(filtered_subq.c.paid_at, "YYYY-MM")
+
+        query = db.query(
+            period_expr.label("period"),
+            func.sum(filtered_subq.c.item_total).label("value"),
+        )
+    else:
+        if granularity == "day":
+            period_expr = func.date(paid_orders.c.paid_at)
+        elif granularity == "year":
+            period_expr = func.to_char(paid_orders.c.paid_at, "YYYY")
+        else:
+            period_expr = func.to_char(paid_orders.c.paid_at, "YYYY-MM")
+
+        query = db.query(
+            period_expr.label("period"),
+            func.sum(paid_orders.c.total).label("value"),
+        )
 
     if start_date is not None:
-        query = query.filter(paid_orders.c.paid_at >= start_date)
+        if product_type is not None or product_id is not None:
+            query = query.filter(filtered_subq.c.paid_at >= start_date)
+        else:
+            query = query.filter(paid_orders.c.paid_at >= start_date)
     if end_date is not None:
-        query = query.filter(paid_orders.c.paid_at <= end_date)
+        if product_type is not None or product_id is not None:
+            query = query.filter(filtered_subq.c.paid_at <= end_date)
+        else:
+            query = query.filter(paid_orders.c.paid_at <= end_date)
 
     rows = query.group_by("period").order_by("period").all()
     return [
@@ -179,10 +244,13 @@ def total_sales_over_time(
 
 
 @router.get("/product-revenue-share", response_model=list[ProductRevenueShareItem])
-def product_revenue_share(db: Session = Depends(get_db)) -> list[ProductRevenueShareItem]:
+def product_revenue_share(
+    db: Session = Depends(get_db),
+    product_type: ProductType | None = Query(default=None),
+) -> list[ProductRevenueShareItem]:
     stats_subq = _product_stats_subquery(db)
 
-    rows = (
+    query = (
         db.query(
             Product.id,
             Product.number,
@@ -191,9 +259,14 @@ def product_revenue_share(db: Session = Depends(get_db)) -> list[ProductRevenueS
         )
         .join(stats_subq, stats_subq.c.product_id == Product.id)
         .filter(stats_subq.c.revenue > 0)
-        .order_by(func.coalesce(stats_subq.c.revenue, Decimal("0")).desc())
-        .all()
     )
+
+    if product_type is not None:
+        query = query.filter(Product.product_type == product_type)
+
+    rows = query.order_by(
+        func.coalesce(stats_subq.c.revenue, Decimal("0")).desc()
+    ).all()
 
     total_revenue = sum((row.revenue for row in rows), Decimal("0"))
     if total_revenue == 0:
