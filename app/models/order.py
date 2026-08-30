@@ -16,7 +16,7 @@ class Order(Base):
     customer_id: Mapped[int] = mapped_column(ForeignKey("customers.id"), nullable=False, index=True)
     status: Mapped[OrderStatus] = mapped_column(
         Enum(OrderStatus, name="order_status_enum"),
-        default=OrderStatus.PENDING,
+        default=OrderStatus.IN_PROGRESS,
         nullable=False,
         index=True,
     )

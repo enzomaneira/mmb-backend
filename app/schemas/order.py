@@ -60,7 +60,7 @@ class OrderBase(BaseModel):
 
 class OrderCreate(OrderBase):
     items: list[OrderItemCreate] = Field(min_length=1)
-    status: OrderStatus = OrderStatus.PENDING
+    status: OrderStatus = OrderStatus.IN_PROGRESS
     created_at: datetime | None = None  # optional manual override
 
 
