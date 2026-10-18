@@ -21,7 +21,7 @@ class Settings(BaseSettings):
     database_url: str = "postgresql://postgres:SENHA@postgres.railway.internal:5432/railway"
     api_v1_prefix: str = "/api/v1"
     cors_origins: str = _DEFAULT_CORS_ORIGINS
-    debug: bool = True
+    debug: bool = False
 
     @property
     def cors_origin_list(self) -> list[str]:
