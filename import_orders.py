@@ -1297,15 +1297,18 @@ def main():
                 com_erro += 1
                 continue
 
+            # Sem data na planilha: não inventa uma (o antigo fallback 2014-01-01
+            # jogava esses pedidos na receita de jan/2014 e no fim da lista)
+            if not p["date"]:
+                log(f"[ERRO]  Pedido #{num}: sem data na planilha, não importado")
+                com_erro += 1
+                continue
+
             # ── 4b. Insere order ou recupera id do existente ──────────────────
             try:
                 db.execute(text("SAVEPOINT sp_pedido"))
 
-                date_val = (
-                    p["date"].strftime("%Y-%m-%d 12:00:00+00")
-                    if p["date"]
-                    else "2014-01-01 12:00:00+00"
-                )
+                date_val = p["date"].strftime("%Y-%m-%d 12:00:00+00")
 
                 # Tenta inserir; se já existe (sem itens), busca o id
                 order_id: int | None = db.execute(text("""

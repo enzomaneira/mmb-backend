@@ -1,3 +1,5 @@
+from datetime import datetime, timezone
+
 from sqlalchemy.orm import Session, joinedload
 
 from app.models import Order, OrderItem, OrderStatus, OrderStatusHistory, Product
@@ -87,7 +89,10 @@ def update_order_status(db: Session, order_id: int, data: OrderStatusUpdate) -> 
             return order
         if data.changed_at is not None:
             existing.changed_at = data.changed_at
-        # else: keep existing date as-is (status is the same, no new date)
+        elif order.status != data.status:
+            # Returning to a status reached before is a new transition: the old
+            # date (e.g. an import fallback) must not silently come back.
+            existing.changed_at = datetime.now(timezone.utc)
     else:
         history = OrderStatusHistory(order_id=order.id, status=data.status)
         if data.changed_at is not None:
