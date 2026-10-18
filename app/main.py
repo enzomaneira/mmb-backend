@@ -31,5 +31,5 @@ app.include_router(api_router, prefix=settings.api_v1_prefix)
 
 
 @app.get("/health")
-def health_check() -> dict[str, str]:
+def health_check() -> dict[str, str | list[str]]:
     return {"status": "ok", "cors_origins": _cors_origins}
